@@ -1,0 +1,2018 @@
+﻿tabela,chave,en_md5,pt
+Arcade,C2_MainMenu/Main Menu/OptionsMenu/RESET PROGRESS WARNING,64c7f0ecea,"ISSO VAI APAGAR TODO O PROGRESSO DA HISTÓRIA
+
+TEM CERTEZA?"
+Arcade,C2_MainMenu/Main Menu/OptionsMenu/RESET PROGRESS WARNING BG,64c7f0ecea,"ISSO VAI APAGAR TODO O PROGRESSO DA HISTÓRIA
+
+TEM CERTEZA?"
+Arcade,ChallengeView/CurrentProgress,863cc3f18d,<cspace=0.185em>progresso : [{completed}/{total}]
+Arcade,ChallengeView/State/Locked,5ed4e9858a,incompleto
+Arcade,ChallengeView/State/Partial,0e87c1212a,parcial
+Arcade,ChallengeView/State/Unlocked,d9a22d7a81,completo
+Arcade,Challenges//Description,e47790ae09,"Derrote a D.A.N.O. de uma vez só, na ordem, sem falhar."
+Arcade,Challenges//Objective,4fc8dd4612,"Jogue todas as músicas de chefe dos capítulos 4/5 na ordem, numa sessão só."
+Arcade,Challenges/003269df34b139de84c2af345fb67865/Description,9323e8e9d9,uma visita lá do noroeste.
+Arcade,Challenges/003269df34b139de84c2af345fb67865/Objective,accae6f125,jogue três charts do nat clayton seguidos.
+Arcade,Challenges/003269df34b139de84c2af345fb67865/Title,61860646ae,canções das terras altas
+Arcade,Challenges/02d29e04e33569ed0f27b5dada57ad27/Description,be35456bb6,"aliás, dificuldades mais baixas também contam pros desafios."
+Arcade,Challenges/02d29e04e33569ed0f27b5dada57ad27/Objective,768da895d1,tire rank s em qualquer música.
+Arcade,Challenges/02d29e04e33569ed0f27b5dada57ad27/Title,287bcfc8d8,as coisas que as cobras dizem.
+Arcade,Challenges/031cb1513b3f8a49688fe40f064fecc6/Description,8b5faa36a2,"""Essa é a música que eu gosto de verdade."""
+Arcade,Challenges/031cb1513b3f8a49688fe40f064fecc6/Objective,35361959f3,jogue com a sforzando 50 vezes.
+Arcade,Challenges/031cb1513b3f8a49688fe40f064fecc6/Title,cf87a1af94,SFORZANDO
+Arcade,Challenges/04451295679268f8d9af1f89527bd2fe/Description,3b8d7dbe2c,you are now ready for more. all there is to it.
+Arcade,Challenges/04451295679268f8d9af1f89527bd2fe/Objective,5cde91cacf,todas as versões de proper rhythm em sequência.
+Arcade,Challenges/04451295679268f8d9af1f89527bd2fe/Title,ca244baf3f,seus pés estão bem no chão?
+Arcade,Challenges/045c0f88dd09c96c7eb63b2ff429553f/Description,b928fb612a,tóxico? condenado?
+Arcade,Challenges/045c0f88dd09c96c7eb63b2ff429553f/Objective,218d27f7d7,Jogue como Beat/Penny ou Rest/Eve no palco da Luta Livre Feminina.
+Arcade,Challenges/045c0f88dd09c96c7eb63b2ff429553f/Title,4663f0ae05,LOVE DELIVERED BY A FISTFIGHT
+Arcade,Challenges/073ee5693dd99a21036e7da20e0c1bc4/Description,1cac344201,assessoras de imprensa glorificadas.
+Arcade,Challenges/073ee5693dd99a21036e7da20e0c1bc4/Objective,f55ea7ff83,jogue com a poco e a apoco juntas 20 vezes.
+Arcade,Challenges/073ee5693dd99a21036e7da20e0c1bc4/Title,f878fe270d,MODO DUPLAS
+Arcade,Challenges/0748bc37bd3b8b5968c2de20dfda443e/Description,7c6483ddcd,boa
+Arcade,Challenges/0748bc37bd3b8b5968c2de20dfda443e/Objective,17f40592c4,desvie de 69 notas (foi mal).
+Arcade,Challenges/0748bc37bd3b8b5968c2de20dfda443e/Title,7c6483ddcd,boa
+Arcade,Challenges/08331dfa535b906ad82a8c9ce68994e9/Description,d326360fe2,Não durma enquanto seus produtos favoritos estão em exposição.
+Arcade,Challenges/08331dfa535b906ad82a8c9ce68994e9/Objective,2f43b42fd8,...
+Arcade,Challenges/08331dfa535b906ad82a8c9ce68994e9/Title,e82480bf4a,"OS NOSSOS COMERCIAIS, POR FAVOR"
+Arcade,Challenges/0be7c7becad8f1fb6fb413275987a7ef/Description,400069788f,EU CONSIGO FAZER MELHOR QUE ISSO
+Arcade,Challenges/0be7c7becad8f1fb6fb413275987a7ef/Objective,9723b5be23,Pause e saia de uma música logo depois de completá-la.
+Arcade,Challenges/0be7c7becad8f1fb6fb413275987a7ef/Title,1fd629fa69,"PERAÍ, ESSA NÃO VALEU"
+Arcade,Challenges/0ccdeb3d6d279c0a3a0945163d925c0e/Description,64526f6c0b,por que esperar? / entre o advanced extra e o master.
+Arcade,Challenges/0ccdeb3d6d279c0a3a0945163d925c0e/Objective,3cea90958b,supere a pontuação da camille em FOREVER WHEN na dificuldade Expert.
+Arcade,Challenges/0ccdeb3d6d279c0a3a0945163d925c0e/Title,f2098cd2da,CAMILLE (1015601)
+Arcade,Challenges/10fd8d0fe53fa6a58f9f8c86579da876/Description,035fbee6ac,passeio livre.
+Arcade,Challenges/10fd8d0fe53fa6a58f9f8c86579da876/Objective,58092c9391,termine o segundo episódio do modo história.
+Arcade,Challenges/10fd8d0fe53fa6a58f9f8c86579da876/Title,495441c07d,bang!
+Arcade,Challenges/16f5cd8bcf3b712f98a4a63f154525a6/Description,ac77cfa17c,um crédito inteiro de músicas.
+Arcade,Challenges/16f5cd8bcf3b712f98a4a63f154525a6/Objective,7809ef242c,jogue cinco músicas seguidas.
+Arcade,Challenges/16f5cd8bcf3b712f98a4a63f154525a6/Title,fb34007cd6,bora pra sexta
+Arcade,Challenges/19b0039d25d6d0c0f5dad0c8d0d104cc/Description,bfdcaf915c,se você abusar disso eu vou tirar de você.
+Arcade,Challenges/19b0039d25d6d0c0f5dad0c8d0d104cc/Objective,979ae50667,faça um full combo com o modo sem falha ligado.
+Arcade,Challenges/19b0039d25d6d0c0f5dad0c8d0d104cc/Title,9acfb80c5e,tão me passando a perna?
+Arcade,Challenges/1bd63d3fbbb3d4348d0dab54a28f4a8e/Description,bb7a91b5cc,"""Vamos criar uma memória."""
+Arcade,Challenges/1bd63d3fbbb3d4348d0dab54a28f4a8e/Objective,f8fa8cb0d3,jogue com a eve 50 vezes.
+Arcade,Challenges/1bd63d3fbbb3d4348d0dab54a28f4a8e/Title,57a85bc4cc,EVE
+Arcade,Challenges/1be889f4ee9be11250b23f4ca422233d/Description,32b1e5a74e,"""Dizem que a gente não pode fazer nada. A gente pode. Vamos meter medo."""
+Arcade,Challenges/1be889f4ee9be11250b23f4ca422233d/Objective,3816458d24,jogue com a beat cinquenta vezes.
+Arcade,Challenges/1be889f4ee9be11250b23f4ca422233d/Title,8561208d5a,BEAT
+Arcade,Challenges/2095700cb8377e2fadcef7fc59eb3aae/Description,0c28f99ebc,bis estendido.
+Arcade,Challenges/2095700cb8377e2fadcef7fc59eb3aae/Objective,37b2e33a27,"Complete WAY BACK WHEN, No Signal, Familiar Acoustic e Empty Diary, nessa ordem."
+Arcade,Challenges/2095700cb8377e2fadcef7fc59eb3aae/Title,0f1365280e,SOBEM OS CRÉDITOS
+Arcade,Challenges/21455c8e41efed854a362d4f55b351af/Description,7bbf97b513,"jogue e complete todos os charts estelares numa sessão só, sem falhar nenhuma vez."
+Arcade,Challenges/21455c8e41efed854a362d4f55b351af/Objective,1dfefe962a,"mais claro que isso, impossível."
+Arcade,Challenges/21455c8e41efed854a362d4f55b351af/Title,40eb12c103,ÊXTASE ESTELAR
+Arcade,Challenges/214f9398a8d15fa7b7960016709f0618/Description,c0e68557fa,"uma aposta que deu muito certo.
+"
+Arcade,Challenges/214f9398a8d15fa7b7960016709f0618/Objective,25aad0da06,consiga um full combo perfeito crítico.
+Arcade,Challenges/214f9398a8d15fa7b7960016709f0618/Title,061e4005e5,apostador de peso
+Arcade,Challenges/22397bab91ed8d81c629716ed394452f/Description,02e65f9b8d,no repeat
+Arcade,Challenges/22397bab91ed8d81c629716ed394452f/Objective,2f007aa663,jogue a mesma música na mesma dificuldade cinco vezes seguidas
+Arcade,Challenges/22397bab91ed8d81c629716ed394452f/Title,50f0c79a66,LOOP1x
+Arcade,Challenges/24cb0328d7017126073283b7886f4160/Description,f1ea7b327b,escrever a descrição de um desafio sobre mim é estranho
+Arcade,Challenges/24cb0328d7017126073283b7886f4160/Objective,a345cb3925,jogue cinco músicas do rj seguidas.
+Arcade,Challenges/24cb0328d7017126073283b7886f4160/Title,40d477a81d,Hora do RJ
+Arcade,Challenges/2502ff49a30b0c3d6ff26579827e1eec/Description,51930b3f92,e você vai jogar todas numa sessão só.
+Arcade,Challenges/2502ff49a30b0c3d6ff26579827e1eec/Objective,d049eb1ece,jogue cinco músicas com participação especial seguidas (não é a mesma coisa que o de cima.)
+Arcade,Challenges/2502ff49a30b0c3d6ff26579827e1eec/Title,4123a15d2c,músico de estúdio
+Arcade,Challenges/25e3cd45494c9055f0d201931d176480/Description,bfce6bb6f0,"uma corrente perfeita.
+"
+Arcade,Challenges/25e3cd45494c9055f0d201931d176480/Objective,9a7ecbdbc8,consiga um full combo perfeito.
+Arcade,Challenges/25e3cd45494c9055f0d201931d176480/Title,da312214f0,nenhuma nota ficou pra trás.
+Arcade,Challenges/25f27c8d27eed722a08f833385c5a8cf/Description,0e15582272,conte até dez.
+Arcade,Challenges/25f27c8d27eed722a08f833385c5a8cf/Objective,d38625717d,jogue 10 músicas na dificuldade unbeatable.
+Arcade,Challenges/25f27c8d27eed722a08f833385c5a8cf/Title,064d369593,o nome do jogo.
+Arcade,Challenges/2692e2b20bcad213ad34076de97ae8de/Description,1c7456bbb6,"se você ainda não tem esse, fuce mais um pouco."
+Arcade,Challenges/2692e2b20bcad213ad34076de97ae8de/Objective,b5d6cfc2e4,adicione um emblema ao seu perfil.
+Arcade,Challenges/2692e2b20bcad213ad34076de97ae8de/Title,531704a026,brilhante
+Arcade,Challenges/27364acc8a3141f8a2c611d04f159648/Description,c48151eba6,"a gente já passou um pouco da fase de ""se conhecer""."
+Arcade,Challenges/27364acc8a3141f8a2c611d04f159648/Objective,71d514e342,passe de 25 horas de jogo.
+Arcade,Challenges/27364acc8a3141f8a2c611d04f159648/Title,d96d67034b,going steady? steady going
+Arcade,Challenges/27f876264d073d7c678009fffd218863/Description,58c9d27950,"""Isso é ofensivo?"""
+Arcade,Challenges/27f876264d073d7c678009fffd218863/Objective,aca7c5c7b4,jogue com o crest 50 vezes.
+Arcade,Challenges/27f876264d073d7c678009fffd218863/Title,3a4f5360c6,CREST
+Arcade,Challenges/289cc539e01c6a287afc2c3c5ce04120/Description,8ad16d8517,eita.
+Arcade,Challenges/289cc539e01c6a287afc2c3c5ce04120/Objective,d2d7dea45d,quebre um combo de mais de 100x trinta vezes.
+Arcade,Challenges/289cc539e01c6a287afc2c3c5ce04120/Title,53dd5f0072,ai.
+Arcade,Challenges/291ca2771be7fdb4d60aef69b3a0facb/Description,30740b33ff,"""Joinha pra baixo, meu bem!"""
+Arcade,Challenges/291ca2771be7fdb4d60aef69b3a0facb/Objective,ac361e405f,jogue com a apoco 50 vezes.
+Arcade,Challenges/291ca2771be7fdb4d60aef69b3a0facb/Title,48952a218d,APOCO
+Arcade,Challenges/294f58299a1df832f9401965a4333416/Description,366f9e4c04,zere o jogo primeiro.
+Arcade,Challenges/294f58299a1df832f9401965a4333416/Objective,d5683c5ee7,Zere UNBEATABLE.
+Arcade,Challenges/294f58299a1df832f9401965a4333416/Title,7c01bb2748,SEM SPOILERS
+Arcade,Challenges/2a50d3e0ad7252a0829be8342c73fad7/Description,d5bacf3c9e,"aquele do jogo que gira (não, o outro jogo que gira). / a dificuldade do nosso jogo."
+Arcade,Challenges/2a50d3e0ad7252a0829be8342c73fad7/Objective,5ad9e54152,supere a pontuação do z em twist sound na dificuldade unbeatable.
+Arcade,Challenges/2a50d3e0ad7252a0829be8342c73fad7/Title,45c24255c7,Z (1286587)
+Arcade,Challenges/2a61555123e725fd285ec67ad8c9d4dc/Description,77ece86ea1,"jogando errado, de zoeira"
+Arcade,Challenges/2a61555123e725fd285ec67ad8c9d4dc/Objective,a6b83b6958,tire o rank como?.
+Arcade,Challenges/2a61555123e725fd285ec67ad8c9d4dc/Title,cb9209e1b9,como.
+Arcade,Challenges/2c00b8c59295a95e67604e4d29e47516/Description,d74e1bc93c,"mas é coisa séria.
+"
+Arcade,Challenges/2c00b8c59295a95e67604e4d29e47516/Objective,9f5ce5526e,jogue uma música com o modo crítico ligado.
+Arcade,Challenges/2c00b8c59295a95e67604e4d29e47516/Title,63a5458145,"não precisa significar ""negativo."""
+Arcade,Challenges/2ce99f73a03fb6da70e9fcae440ac419/Description,0147204dd2,as instruções originais. / proficiente na sua área.
+Arcade,Challenges/2ce99f73a03fb6da70e9fcae440ac419/Objective,f0664f39cc,supere a pontuação do ikeiwa em proper rhythm na dificuldade expert.
+Arcade,Challenges/2ce99f73a03fb6da70e9fcae440ac419/Title,96b967b642,IKEIWA (1431559)
+Arcade,Challenges/2e22d96ab267bb6ad8223f7bf26de515/Description,2b16622393,O paciente precisa de duas rodadas de tratamento. Quão difícil pode ser?
+Arcade,Challenges/2e22d96ab267bb6ad8223f7bf26de515/Objective,c02a1844c3,Complete WORN OUT TAPES [tally-ho! version] e Loner em sequência.
+Arcade,Challenges/2e22d96ab267bb6ad8223f7bf26de515/Title,f6efc8c824,aperte na sétima batida
+Arcade,Challenges/31ba2f76acb967270b82d10bce0ee2fb/Description,31b389bfd8,role a iniciativa.
+Arcade,Challenges/31ba2f76acb967270b82d10bce0ee2fb/Objective,429b05ee65,complete dez músicas com o modo crítico ligado.
+Arcade,Challenges/31ba2f76acb967270b82d10bce0ee2fb/Title,8d59b5c911,d10.
+Arcade,Challenges/31f110233e3d3686e4644274abea702c/Description,7b31b6f5d6,é pior se a coisa estiver viva? ou se estiver morta?
+Arcade,Challenges/31f110233e3d3686e4644274abea702c/Objective,3c24f3a5cf,mate um fantasma de verdade.
+Arcade,Challenges/31f110233e3d3686e4644274abea702c/Title,4720abf3b7,ãããããããããããããããh?
+Arcade,Challenges/33ad6bc697c2c1e7d4a1d897b09cb790/Description,2935da069b,"aliás, dificuldades mais baixas às vezes não contam pros desafios."
+Arcade,Challenges/33ad6bc697c2c1e7d4a1d897b09cb790/Objective,533ee6e435,vença qualquer música na dificuldade difícil ou acima.
+Arcade,Challenges/33ad6bc697c2c1e7d4a1d897b09cb790/Title,32f81c8e66,"""experiência pretendida."""
+Arcade,Challenges/33e6b1b03477db4a413cac5182c0f6ef/Description,3f084caa74,a luz viaja muito mais longe do que você imagina
+Arcade,Challenges/33e6b1b03477db4a413cac5182c0f6ef/Objective,bc70f3323b,Alcance uma Classificação de 11 Estrelas.
+Arcade,Challenges/33e6b1b03477db4a413cac5182c0f6ef/Title,40be60c8b4,ÚLTIMA MAGNITUDE
+Arcade,Challenges/33f8e8b0f46ad946b0be4af0bab5b9de/Description,8fd4de3c6c,...bottom text
+Arcade,Challenges/33f8e8b0f46ad946b0be4af0bab5b9de/Objective,53290b459c,equipe seu perfil com um título de cima e um de baixo.
+Arcade,Challenges/33f8e8b0f46ad946b0be4af0bab5b9de/Title,1974abd16d,me chamam de...
+Arcade,Challenges/34dab37866fd010b468e8b8acf29cdd7/Description,07cdb00ff3,todas as fitas de 2021.
+Arcade,Challenges/34dab37866fd010b468e8b8acf29cdd7/Objective,0c75bd0337,Jogue em sequência todas as músicas que estavam em UNBEATABLE [white label].
+Arcade,Challenges/34dab37866fd010b468e8b8acf29cdd7/Title,99de154446,[tá entre colchetes por um motivo.]
+Arcade,Challenges/356884c30ccf24ee32ad314fd5970941/Description,9a074a0215,..-. ..- .-.. .-.. .-.-.- / .-.. .. ... - .-.-.- / ..-. ..- .-.. .-.. .-.-.- / -.-. --- -- -... --- .-.-.-
+Arcade,Challenges/356884c30ccf24ee32ad314fd5970941/Objective,fc4174c1ef,full. list. full. combo.
+Arcade,Challenges/356884c30ccf24ee32ad314fd5970941/Title,233c864c2a,FLFC
+Arcade,Challenges/3660278b45ca6046915f05a625cf662e/Description,2341c72359,ela nem está acordada
+Arcade,Challenges/3660278b45ca6046915f05a625cf662e/Objective,31b86efddb,jogue uma música dos sonhos.
+Arcade,Challenges/3660278b45ca6046915f05a625cf662e/Title,e8a012eb44,dormindo (?) até tarde
+Arcade,Challenges/37cb5b1727fee788f21fd5592f7e96d0/Description,2d9b059e45,(a resposta é não)
+Arcade,Challenges/37cb5b1727fee788f21fd5592f7e96d0/Objective,0931c2973e,jogue uma faixa de variedades.
+Arcade,Challenges/37cb5b1727fee788f21fd5592f7e96d0/Title,ae2a386f84,é só isso?
+Arcade,Challenges/3850cf36e4d3b92f31de0bb51530d135/Description,5d11bf6818,Just keep it simple and sincere!
+Arcade,Challenges/3850cf36e4d3b92f31de0bb51530d135/Objective,385f7bde98,Jogue no Show como Jamie Paige.
+Arcade,Challenges/3850cf36e4d3b92f31de0bb51530d135/Title,19e9588a2c,PERFECT PERSON PREFERENCE 
+Arcade,Challenges/38cf028bcceed5efbd51de4cc590e6ed/Description,38c0d675f8,"...mas você não está só deixando o jogo aberto, né?"
+Arcade,Challenges/38cf028bcceed5efbd51de4cc590e6ed/Objective,51be8b61e5,chegue a três dígitos de tempo de jogo.
+Arcade,Challenges/38cf028bcceed5efbd51de4cc590e6ed/Title,3a97bb77e6,1% pra maestria.
+Arcade,Challenges/3a1866dc46ab65e87e81af01e770883b/Description,7bbdd3b124,BEAT SOME ASS/BUILT TO LAST/FULL ATTACK
+Arcade,Challenges/3a1866dc46ab65e87e81af01e770883b/Objective,b343f39bcd,Jogue todas as músicas da DLC em sequência numa sessão só.
+Arcade,Challenges/3a1866dc46ab65e87e81af01e770883b/Title,4036647116,"jamie, jogada"
+Arcade,Challenges/3c266a87dcef229cb4185d1a847cf917/Description,5480e0887d,explicit lyrics
+Arcade,Challenges/3c266a87dcef229cb4185d1a847cf917/Objective,fc05f05eb4,jogue em sequência todas as músicas do jogo que têm palavrão na letra.
+Arcade,Challenges/3c266a87dcef229cb4185d1a847cf917/Title,520483bc1d,PARENTAL ADVISORY
+Arcade,Challenges/3c7267c19d8b5c148bb58f585d72c891/Description,10a61143fe,o infinito e o presente. / mais difícil que o difícil.
+Arcade,Challenges/3c7267c19d8b5c148bb58f585d72c891/Objective,5e8b672a83,supere a pontuação da michelle em forever now na dificuldade expert.
+Arcade,Challenges/3c7267c19d8b5c148bb58f585d72c891/Title,2495527a78,MICHELLE (1343254)
+Arcade,Challenges/40895dd00839e10e44b45320250bbc4c/Description,33227e0f55,desculpa. desculpa. desculpa. me dá um segundo. desculpa! desculpa.
+Arcade,Challenges/40895dd00839e10e44b45320250bbc4c/Objective,7d5fbb0a63,reinicie logo depois que a música começar.
+Arcade,Challenges/40895dd00839e10e44b45320250bbc4c/Title,f65199338a,"Peraí, peraí, não, peraí, eu não tava pronta."
+Arcade,Challenges/41a6f0a8844a7a2ef1c48aa9cca6e77e/Description,b4acf0ba7e,"tá, bom, um pouquinho mais que a demo."
+Arcade,Challenges/41a6f0a8844a7a2ef1c48aa9cca6e77e/Objective,4d3573fce7,termine o terceiro episódio do modo história.
+Arcade,Challenges/41a6f0a8844a7a2ef1c48aa9cca6e77e/Title,fe01ce2a7f,demo
+Arcade,Challenges/428b953af824085a1d067a4cb7b7d792/Description,3b0e355471,"""me surpreende você conseguir respirar, quanto mais..."""
+Arcade,Challenges/428b953af824085a1d067a4cb7b7d792/Objective,2b8655cbfa,sobreviva a uma música quase sem vida.
+Arcade,Challenges/428b953af824085a1d067a4cb7b7d792/Title,0916e567b1,como deve ter sido.
+Arcade,Challenges/430022f7380e78b762ec7fb42f581264/Description,e9a76244e0,"""Eu só consigo enrolar numa de dezesseis por um tempo."""
+Arcade,Challenges/430022f7380e78b762ec7fb42f581264/Objective,d45bf0adbe,jogue com o grace 50 vezes.
+Arcade,Challenges/430022f7380e78b762ec7fb42f581264/Title,ad4e3c38b1,GRACE
+Arcade,Challenges/4445068bbdb345b3178e618bb9ea1678/Description,9b6e91db7d,eu tenho fé em você.
+Arcade,Challenges/4445068bbdb345b3178e618bb9ea1678/Objective,5be46c302b,tire b+ ou mais em qualquer música.
+Arcade,Challenges/4445068bbdb345b3178e618bb9ea1678/Title,2a0f46c61f,pegando o jeito
+Arcade,Challenges/4483019987b43fd84a6428d6303f457c/Description,15c36befac,aceso feito árvore de natal.
+Arcade,Challenges/4483019987b43fd84a6428d6303f457c/Objective,498f9c8e5b,Ligue todos os modificadores (ou alguma variante deles) ao mesmo tempo.
+Arcade,Challenges/4483019987b43fd84a6428d6303f457c/Title,1671969cc5,todos os sistemas prontos.
+Arcade,Challenges/4490662b68233b0d9fbc51fbd5953e74/Description,34979aaeab,"depois de desbloquear isso, talvez seja bom dar uma pausa."
+Arcade,Challenges/4490662b68233b0d9fbc51fbd5953e74/Objective,9b293221f8,jogue por pelo menos duas horas.
+Arcade,Challenges/4490662b68233b0d9fbc51fbd5953e74/Title,2fdcf6d7e3,de sela posta e bem acomodado
+Arcade,Challenges/45110dc068630fc284a8c133e9b0a9e8/Description,6dbde5505f,aonde você iria pra consertar as coisas?
+Arcade,Challenges/45110dc068630fc284a8c133e9b0a9e8/Objective,fce0236255,só. abra o menu de opções.
+Arcade,Challenges/45110dc068630fc284a8c133e9b0a9e8/Title,9b9fb72360,afinação
+Arcade,Challenges/45b23d3b2db9a1626dc87a27c541b982/Description,17ae4863ef,canis in aeternum. / um trocadilho com a primeira parte. (esse tem que ser vencido ao contrário.)
+Arcade,Challenges/45b23d3b2db9a1626dc87a27c541b982/Objective,8c3d391615,tire uma pontuação menor que a do rich em forever now (dog noise remix) na dificuldade subwoofer (e ainda completar).
+Arcade,Challenges/45b23d3b2db9a1626dc87a27c541b982/Title,e1a3ed829b,RICH (635503?)
+Arcade,Challenges/47f856d805d7b11912dbbb073c0f0906/Description,b441c957e7,TACADA
+Arcade,Challenges/47f856d805d7b11912dbbb073c0f0906/Objective,ba4d464e78,vença a tacolândia na dificuldade normal
+Arcade,Challenges/47f856d805d7b11912dbbb073c0f0906/Title,500f924153,battabattabattabattabattabatta
+Arcade,Challenges/4a83e3126effb238d56a7fdf8888ebaa/Description,f0cb8dd4d3,as crianças superestrelas!
+Arcade,Challenges/4a83e3126effb238d56a7fdf8888ebaa/Objective,d4fe2e4f30,jogue uma música com o treble e a clef juntos.
+Arcade,Challenges/4a83e3126effb238d56a7fdf8888ebaa/Title,87c0b4708e,hahahahahah!
+Arcade,Challenges/4ad6708055a554dfa0e03b067968c1d2/Description,f88009abf4,só mais uma coisa. <3
+Arcade,Challenges/4ad6708055a554dfa0e03b067968c1d2/Objective,2f43b42fd8,...
+Arcade,Challenges/4ad6708055a554dfa0e03b067968c1d2/Title,96dd252af9,UM SEGREDINHO
+Arcade,Challenges/4b839fcc6f9f26edcf95aab0f891e347/Description,17e297dbba,potencial desperdiçado.
+Arcade,Challenges/4b839fcc6f9f26edcf95aab0f891e347/Objective,981d17d45e,morra na última nota de uma música.
+Arcade,Challenges/4b839fcc6f9f26edcf95aab0f891e347/Title,cf64711029,TÁ DE SACANAGEM
+Arcade,Challenges/4c772e8a4531432fc8b5607640867c6f/Description,6507142a53,ele te deu uma instrução.
+Arcade,Challenges/4c772e8a4531432fc8b5607640867c6f/Objective,05ca38d4d3,morra na segunda metade da dificuldade [must die!] de proper rhythm - must die! remix.
+Arcade,Challenges/4c772e8a4531432fc8b5607640867c6f/Title,91225cc58a,but thou must.
+Arcade,Challenges/4f13453e6bd36fc332ec14614f07cf15/Description,74e414f9b5,uma jornada começada.
+Arcade,Challenges/4f13453e6bd36fc332ec14614f07cf15/Objective,bf19e8203a,Alcance uma Classificação de 1 Estrela.
+Arcade,Challenges/4f13453e6bd36fc332ec14614f07cf15/Title,de9983a011,ESTRE...IA
+Arcade,Challenges/519b4fc0aa89ae20863105fd696f1d3b/Description,f0d3e008c9,o limite é o céu.
+Arcade,Challenges/519b4fc0aa89ae20863105fd696f1d3b/Objective,4f79a52e49,jogue seu primeiro chart estelar.
+Arcade,Challenges/519b4fc0aa89ae20863105fd696f1d3b/Title,211fec307b,mapa das constelações.
+Arcade,Challenges/51f51596f8384084644ec57b08c1d680/Description,085ca3c650,"""A gente não gosta deles entediados."""
+Arcade,Challenges/51f51596f8384084644ec57b08c1d680/Objective,ddf0f8271e,jogue com a rest (OMF) 50 vezes.
+Arcade,Challenges/51f51596f8384084644ec57b08c1d680/Title,3f25c9cef5,REST (ONE MORE FINAL)
+Arcade,Challenges/52398265ad116973eada5bad06f057e2/Description,27ae2c7692,uma conversa com o lugar de onde você veio. / mais difícil que mais difícil que difícil.
+Arcade,Challenges/52398265ad116973eada5bad06f057e2/Objective,9e9840d1de,supere a pontuação da clara em call_home na dificuldade unbeatable.
+Arcade,Challenges/52398265ad116973eada5bad06f057e2/Title,bb36b22d93,CLARA (1372547)
+Arcade,Challenges/53370b07e67807a60e3952170f10839e/Description,1cdc3fe5f8,um conjunto de pontos sem mapa pra guiar.
+Arcade,Challenges/53370b07e67807a60e3952170f10839e/Objective,f16b5a3e57,Alcance uma Classificação de 4 Estrelas.
+Arcade,Challenges/53370b07e67807a60e3952170f10839e/Title,0e0348b51d,ASTERISMO
+Arcade,Challenges/5490e054ba5ec14eed913fde46282d9f/Description,64f0e66680,continua rolando.
+Arcade,Challenges/5490e054ba5ec14eed913fde46282d9f/Objective,2442d6b07f,preencha todos os 25 espaços da sua lista de mais bem avaliadas.
+Arcade,Challenges/5490e054ba5ec14eed913fde46282d9f/Title,d337aacd01,completinho
+Arcade,Challenges/5493d440005c57374b9be4e7398b88db/Description,17c1c454c3,igual ao último desafio. todas as dificuldades.
+Arcade,Challenges/5493d440005c57374b9be4e7398b88db/Objective,ea2aa96efd,full. list. full. combo. todas. as. dificuldades.
+Arcade,Challenges/5493d440005c57374b9be4e7398b88db/Title,f06ef6555d,FLFC++++++
+Arcade,Challenges/54b085c1b86ec0b532e105a024f6869d/Description,0bfe8243f1,não tente passar do combo máximo.
+Arcade,Challenges/54b085c1b86ec0b532e105a024f6869d/Objective,66f00b54bb,termine uma fase com seu maior combo sendo 573.
+Arcade,Challenges/54b085c1b86ec0b532e105a024f6869d/Title,f2ac5a607c,beat (de unbeatable) mania
+Arcade,Challenges/552ebd229b49cfcf5ab371458c3e2750/Description,8948aff775,e mesmo assim a jornada nunca termina.
+Arcade,Challenges/552ebd229b49cfcf5ab371458c3e2750/Objective,7b18dd1464,Alcance uma Classificação de 12 Estrelas.
+Arcade,Challenges/552ebd229b49cfcf5ab371458c3e2750/Title,12586dc262,BURACO NEGRO
+Arcade,Challenges/55981d3916177f07fd2c7e3078ec545b/Description,3d53c1fc14,só umas 200 pessoas lembram disso
+Arcade,Challenges/55981d3916177f07fd2c7e3078ec545b/Objective,a4739f16d2,"Jogue todas as músicas do nosso set de estreia na MAGFest 2020 de uma vez só:
+WORN OUT TAPES, Empty Diary, Forever Now, Proper Rhythm."
+Arcade,Challenges/55981d3916177f07fd2c7e3078ec545b/Title,d86aa4e15e,Setlist da MAGFest 2020
+Arcade,Challenges/5eee69c1542b3e7c685c2c8be6d9f2d4/Description,6ad20630e8,"vai ter que ser perfeito, mas não deve ser tão difícil."
+Arcade,Challenges/5eee69c1542b3e7c685c2c8be6d9f2d4/Objective,a8f57a9d56,faça 100% em é hora da tacada! na dificuldade iniciante.
+Arcade,Challenges/5eee69c1542b3e7c685c2c8be6d9f2d4/Title,31a6814c1a,home run!
+Arcade,Challenges/5ff9d8a35ab96c197a322b7701261f93/Description,36da32bc94,falhar faz parte do sucesso.
+Arcade,Challenges/5ff9d8a35ab96c197a322b7701261f93/Objective,815fdefe05,morra 50 vezes no total.
+Arcade,Challenges/5ff9d8a35ab96c197a322b7701261f93/Title,f6764d9c7b,die and...dearn
+Arcade,Challenges/63a81bf19c1d08e2d8d47a8f2eb4b306/Description,d6e6fc7c2e,"o mundo é mais velho do que parece, mas mais novo do que você imagina."
+Arcade,Challenges/63a81bf19c1d08e2d8d47a8f2eb4b306/Objective,b0d6e9c19d,Alcance uma Classificação de 2 Estrelas.
+Arcade,Challenges/63a81bf19c1d08e2d8d47a8f2eb4b306/Title,c2f135308c,PROTOESTRELA
+Arcade,Challenges/63b62914aa988b71715e6558c234457c/Description,0463f662ab,ainda bem que eu trouxe meus sapatos de palhaço de corrida hoje.
+Arcade,Challenges/63b62914aa988b71715e6558c234457c/Objective,d6d3a71d0b,Complete DO NO HARM em DOUBLETIME no Normal ou acima.
+Arcade,Challenges/63b62914aa988b71715e6558c234457c/Title,dc7a9fd0cd,Nightcore
+Arcade,Challenges/69d333ac0af6b75cb9077a373ed6d9e8/Description,79bbd7ead5,"e pra contar histórias. e nas histórias, claro, a gente se encontra."
+Arcade,Challenges/69d333ac0af6b75cb9077a373ed6d9e8/Objective,4bacdc6f3d,Alcance uma Classificação de 8 Estrelas.
+Arcade,Challenges/69d333ac0af6b75cb9077a373ed6d9e8/Title,7ed74fa917,NÊUTRON
+Arcade,Challenges/6b03d3b4d6f496d11f0f897ff0310ad1/Description,ff05ab78a3,que horas são?
+Arcade,Challenges/6b03d3b4d6f496d11f0f897ff0310ad1/Objective,83b3f6b548,Complete SLEEPING IN ao meio-dia ou às 20h.
+Arcade,Challenges/6b03d3b4d6f496d11f0f897ff0310ad1/Title,94ab8bddf6,"good morning,"
+Arcade,Challenges/6bb9ff92aeea434b77273d150d1825cc/Description,32f23704a1,uma pergunta estranha com uma resposta estranha
+Arcade,Challenges/6bb9ff92aeea434b77273d150d1825cc/Objective,05ab7b3fc4,jogue forever when e depois forever now.
+Arcade,Challenges/6bb9ff92aeea434b77273d150d1825cc/Title,0770d771c4,quando é o pra sempre?
+Arcade,Challenges/6c74118cf770143fd1a13615854b3f01/Description,6f299b5be5,all i see is someone else
+Arcade,Challenges/6c74118cf770143fd1a13615854b3f01/Objective,cb0fd7b726,jogue mirror com a beat como personagem principal e como assistente.
+Arcade,Challenges/6c74118cf770143fd1a13615854b3f01/Title,f53086850d,staring at a mirror of myself
+Arcade,Challenges/6cd82329b972909545155aaaba34f3bf/Description,dfeaf894cb,"todas, na ordem de lançamento."
+Arcade,Challenges/6cd82329b972909545155aaaba34f3bf/Objective,f2cbc0ceb9,"jogue em sequência todas as músicas usadas nos trailers de unbeatable, na ordem de lançamento."
+Arcade,Challenges/6cd82329b972909545155aaaba34f3bf/Title,1c0c01f565,noite de cinema!
+Arcade,Challenges/6ddf8236b1a003a68c6e134d76b6ab34/Description,20f2af0c72,and that actually is all there is to it. 
+Arcade,Challenges/6ddf8236b1a003a68c6e134d76b6ab34/Objective,0807893ad9,(por enquanto.)
+Arcade,Challenges/6ddf8236b1a003a68c6e134d76b6ab34/Title,0ee7e5faf4,FOLIOVER.
+Arcade,Challenges/6e53627979d901e4688411b4e3a503ba/Description,d95af80e31,consiga 15 full combos perfeitos críticos.
+Arcade,Challenges/6e53627979d901e4688411b4e3a503ba/Objective,d95af80e31,consiga 15 full combos perfeitos críticos.
+Arcade,Challenges/6e53627979d901e4688411b4e3a503ba/Title,854727f7fd,consiga 15 full combos perfeitos críticos.
+Arcade,Challenges/70548235fe4d7957c4398166cf26c8d2/Description,094d470ad5,"família perdida, encontrada"
+Arcade,Challenges/70548235fe4d7957c4398166cf26c8d2/Objective,52fdbe4ded,jogue uma música com a quaver e a rest juntas.
+Arcade,Challenges/70548235fe4d7957c4398166cf26c8d2/Title,08863bc341,mais um começo
+Arcade,Challenges/71401de878fd5a2f3646b99b80d258bf/Description,002c4dcf6f,****.
+Arcade,Challenges/71401de878fd5a2f3646b99b80d258bf/Objective,95a62c53eb,"Erre a primeira nota de Birdbrain, mas faça FC no resto da música."
+Arcade,Challenges/71401de878fd5a2f3646b99b80d258bf/Title,197d24d9c2,"SO UNSURE, "
+Arcade,Challenges/714dd3078f650a50f44a577d320649b8/Description,a87546cd94,"a memória, criada"
+Arcade,Challenges/714dd3078f650a50f44a577d320649b8/Objective,09d118f20a,jogue bookend song (opening) como quaver.
+Arcade,Challenges/714dd3078f650a50f44a577d320649b8/Title,ab377d0ac3,TODO DIA TODA NOITE TODO LUGAR
+Arcade,Challenges/71edb806d3a44af7d2df977b06f4501c/Description,6df8516117,você precisa soltar.
+Arcade,Challenges/71edb806d3a44af7d2df977b06f4501c/Objective,7928476017,perca uma nota longa segurando até o fim em vez de soltar na hora certa.
+Arcade,Challenges/71edb806d3a44af7d2df977b06f4501c/Title,ddaaabc490,"Sim, tem tempo pra soltar"
+Arcade,Challenges/7523fbe02e6215de230b1e8da6ec87d0/Description,e41e65b649,De volta à ativa.
+Arcade,Challenges/7523fbe02e6215de230b1e8da6ec87d0/Objective,1a4ea85968,Entre no UNBEATABLE depois de 5/7/2026.
+Arcade,Challenges/7523fbe02e6215de230b1e8da6ec87d0/Title,bea7f8938d,Desenferrujado
+Arcade,Challenges/756c9066c94509493a377b2790761d1f/Description,3f24343527,"camisetona escrito ""eu amo a rachel da d-cell games"""
+Arcade,Challenges/756c9066c94509493a377b2790761d1f/Objective,1095a22531,jogue cinco músicas seguidas com a rachel nos vocais.
+Arcade,Challenges/756c9066c94509493a377b2790761d1f/Title,387f9f10df,fã-clube da rachel!
+Arcade,Challenges/7656ea2e21c561cc94d5ef637bce4701/Description,b8cf209a7b,"""Eu sou muito, muito, muito boa em me repetir."""
+Arcade,Challenges/7656ea2e21c561cc94d5ef637bce4701/Objective,ac338229aa,jogue com a clef cinquenta vezes.
+Arcade,Challenges/7656ea2e21c561cc94d5ef637bce4701/Title,e561e95f24,CLEF
+Arcade,Challenges/7688f21ec839dac119ed7e6a0ae92fb7/Description,4d20370fab,"siga a letra da lei, se não o espírito"
+Arcade,Challenges/7688f21ec839dac119ed7e6a0ae92fb7/Objective,dc354c29e5,vença uma música com o som da música totalmente mudo.
+Arcade,Challenges/7688f21ec839dac119ed7e6a0ae92fb7/Title,2fd9f169d8,um jogo onde a música é ilegal...
+Arcade,Challenges/778608d6641aa6ee3ff9e8e61911a761/Description,1c7d92eedf,"registro de jogador dois.
+um fragmento suplicante. / invencível, sem igual, invicto."
+Arcade,Challenges/778608d6641aa6ee3ff9e8e61911a761/Objective,7d90c64ce6,supere a pontuação do punchy em forever when na dificuldade unbeatable.
+Arcade,Challenges/778608d6641aa6ee3ff9e8e61911a761/Title,4d679529e7,PUNCHY (1453109)
+Arcade,Challenges/7840172e73eaa8a944b898281242e615/Description,8ea9d27e69,uma atrás da outra atrás da outra
+Arcade,Challenges/7840172e73eaa8a944b898281242e615/Objective,88702f9b32,"jogue dialtone, proper rhythm (all there is to it) e pronto a molto em sequência"
+Arcade,Challenges/7840172e73eaa8a944b898281242e615/Title,3adf0b4630,de novo e e de novo
+Arcade,Challenges/79dc1343f41155b93e8064caa3f6500c/Description,15e9ab2107,e te muda de volta.
+Arcade,Challenges/79dc1343f41155b93e8064caa3f6500c/Objective,a3590f53af,termine o jogo no modo história. (obrigado.)
+Arcade,Challenges/79dc1343f41155b93e8064caa3f6500c/Title,6fc7d339d6,a própria ideia muda
+Arcade,Challenges/7df80cddde2bddcad4f8c4a65c9ebe4c/Description,8190f7c21b,unbeatable o filme a trilha sonora
+Arcade,Challenges/7df80cddde2bddcad4f8c4a65c9ebe4c/Objective,2b821ee054,"jogue todas as músicas de chefe de unbeatable o filme, na ordem, numa sessão só."
+Arcade,Challenges/7df80cddde2bddcad4f8c4a65c9ebe4c/Title,cdf272796b,MARATONA DE CHEFES
+Arcade,Challenges/7e3e31047d4eafe1c76f15e34f900488/Description,c2c45ceb77,acontece com todo mundo.
+Arcade,Challenges/7e3e31047d4eafe1c76f15e34f900488/Objective,8e90a470bb,não veja sua classificação subir por duas músicas seguidas.
+Arcade,Challenges/7e3e31047d4eafe1c76f15e34f900488/Title,2dfc43c813,empacado
+Arcade,Challenges/7e4294a11ea69bdc1a3bcd22b4068768/Description,0efb83eadc,uma tentativa. todas as músicas. sem reiniciar. dificuldade unbeatable. sem mortes.
+Arcade,Challenges/7e4294a11ea69bdc1a3bcd22b4068768/Objective,5e6659686e,"jogue e complete todas as músicas da lista base na dificuldade unbeatable sem falhar nenhuma vez, numa sessão só. sem reiniciar."
+Arcade,Challenges/7e4294a11ea69bdc1a3bcd22b4068768/Title,68b99254aa,all there is to it.
+Arcade,Challenges/8119699f308239240b2b9c881268bcce/Description,75ec3b5d84,uma corrente perfeita de correntes perfeitas.
+Arcade,Challenges/8119699f308239240b2b9c881268bcce/Objective,0bc934a9ce,consiga full combo perfeito em todos os charts de uma mesma música.
+Arcade,Challenges/8119699f308239240b2b9c881268bcce/Title,84ca472398,re: corrente
+Arcade,Challenges/833e01b2acf1f9b5d4f448809fabb138/Description,bd8352ceec,passe um tempo observando passarinhos.
+Arcade,Challenges/833e01b2acf1f9b5d4f448809fabb138/Objective,dab6676fce,Jogue o palco do Pomar de Maçãs 10 vezes.
+Arcade,Challenges/833e01b2acf1f9b5d4f448809fabb138/Title,d1b982ba27,ORNITOLOGIA
+Arcade,Challenges/8a1389df7931eefc3a34095b33e710db/Description,271f0c73e3,sabia que tem seleção de personagem?
+Arcade,Challenges/8a1389df7931eefc3a34095b33e710db/Objective,382c6c242a,use qualquer uma além da beat como personagem principal.
+Arcade,Challenges/8a1389df7931eefc3a34095b33e710db/Title,9d44746bd4,Un????able
+Arcade,Challenges/8b23d5a06b362c9a4818ea9310ba5bcb/Description,8a960a76e2,Pra ir mais longe.
+Arcade,Challenges/8b23d5a06b362c9a4818ea9310ba5bcb/Objective,c6b35d639e,dê uma olhada nos rankings.
+Arcade,Challenges/8b23d5a06b362c9a4818ea9310ba5bcb/Title,a880bc9578,contra o mundo
+Arcade,Challenges/8bdad0e2ef09c4dac5b70b33bf2e52ab/Description,70505aa314,"onomatopeia. / profissional, gênio, mago, mestre."
+Arcade,Challenges/8bdad0e2ef09c4dac5b70b33bf2e52ab/Objective,5d420ea975,supere a pontuação do rj em bang! na dificuldade expert.
+Arcade,Challenges/8bdad0e2ef09c4dac5b70b33bf2e52ab/Title,c4f352c33a,rj (1079433)
+Arcade,Challenges/8c72ef9b475726957deb1319e063f0e6/Description,9d36e112b2,quantos jogos será que têm isso?
+Arcade,Challenges/8c72ef9b475726957deb1319e063f0e6/Objective,15e6053bf6,inseriu uma certa sequência de comandos.
+Arcade,Challenges/8c72ef9b475726957deb1319e063f0e6/Title,009a3636f8,"só desbloqueia essa coisinha, foi mal."
+Arcade,Challenges/9074a65844374e46368f321af677a476/Description,a9f2e670a2,experimenta esses outros jogos qualquer dia.
+Arcade,Challenges/9074a65844374e46368f321af677a476/Objective,6d2b26ca7a,"jogue todas as músicas de colaboração com jogos de ritmo do lançamento, em sequência, em qualquer ordem."
+Arcade,Challenges/9074a65844374e46368f321af677a476/Title,ca8d183628,então vocês são todos amigos
+Arcade,Challenges/9101fe2c7c08f74cf410576880cc5e88/Description,6621b34a36,que porra é essa?
+Arcade,Challenges/9101fe2c7c08f74cf410576880cc5e88/Objective,2957ba65ae,Tenha um Atraso Médio de 60+-ms ao completar a música.
+Arcade,Challenges/9101fe2c7c08f74cf410576880cc5e88/Title,b18d08efb3,Por Favor Mude Seu Offset
+Arcade,Challenges/9165274c989975e06aef30355e4a33b7/Description,a6bae23481,peak...divide
+Arcade,Challenges/9165274c989975e06aef30355e4a33b7/Objective,77db8e971e,jogue três músicas seguidas creditadas individualmente à clara ou ao vasily.
+Arcade,Challenges/9165274c989975e06aef30355e4a33b7/Title,e0f9771ae9,Avalanche
+Arcade,Challenges/94aa3b0cd644ca586b41459ef3986748/Description,aa6d352e2e,Esse aqui ninguém gosta de ver.
+Arcade,Challenges/94aa3b0cd644ca586b41459ef3986748/Objective,ada43635dd,"Complete uma música só com PERFEITOS, menos um QUASE."
+Arcade,Challenges/94aa3b0cd644ca586b41459ef3986748/Title,f4d2034750,nessa hora é só reiniciar.
+Arcade,Challenges/94d968c2ae2480e7236d7a1f2d082e4b/Description,eb74739309,não é uma sensação Ótima.
+Arcade,Challenges/94d968c2ae2480e7236d7a1f2d082e4b/Objective,47fe60a15b,"complete uma música só com perfeitos, exceto um único erro."
+Arcade,Challenges/94d968c2ae2480e7236d7a1f2d082e4b/Title,4b74793e9d,Bandeira Preta
+Arcade,Challenges/9576fd90602b1fc1a87172aac6205dca/Description,6feae5db06,re-re-re-re-re-remix
+Arcade,Challenges/9576fd90602b1fc1a87172aac6205dca/Objective,c001b3f63c,Jogue em sequência todos os remixes da lista base.
+Arcade,Challenges/9576fd90602b1fc1a87172aac6205dca/Title,3f4704208a,roomboiler
+Arcade,Challenges/966ae3225a7fafe69f2ceff4e23fbe7f/Description,44cf4644d4,something more than all there is to it.
+Arcade,Challenges/966ae3225a7fafe69f2ceff4e23fbe7f/Objective,34c1a20e61,"jogue e complete todas as músicas da lista base com o modo crítico ligado, na dificuldade unbeatable, sem falhar nenhuma vez, numa sessão só. sem reiniciar."
+Arcade,Challenges/966ae3225a7fafe69f2ceff4e23fbe7f/Title,b43de588f7,você tem permissão pra dizer que terminou.
+Arcade,Challenges/978afa8ef2e2ba538a0301351bc142e7/Description,982f35f54d,aquela com o solo de guitarra. / quem fez o solo.
+Arcade,Challenges/978afa8ef2e2ba538a0301351bc142e7/Objective,f7da76d4af,supere a pontuação do jeff em waiting na dificuldade cleveland.
+Arcade,Challenges/978afa8ef2e2ba538a0301351bc142e7/Title,5bc9a3c713,CHI XU (1245221)
+Arcade,Challenges/99fe584281346fcf25c91ce49ca0e8c8/Description,59a905f547,quem sabe aparece numa coletânea depois.
+Arcade,Challenges/99fe584281346fcf25c91ce49ca0e8c8/Objective,080555c9b0,jogue um lado b (sacou?) (foi mal.)
+Arcade,Challenges/99fe584281346fcf25c91ce49ca0e8c8/Title,d3a01d0324,"bom. de lado,"
+Arcade,Challenges/9af1ec03d266c24f7a8a801c58151b19/Description,ebbaf6980d,"All love and adoration.
+"
+Arcade,Challenges/9af1ec03d266c24f7a8a801c58151b19/Objective,2f43b42fd8,...
+Arcade,Challenges/9af1ec03d266c24f7a8a801c58151b19/Title,9497239fae,AN UNBEATABLE SHOW OF COMPANIONSHIP 
+Arcade,Challenges/9bccb8df4d68b35d016870af69515b6b/Description,35be924f4f,ela empratou mais um prato à beira-mar
+Arcade,Challenges/9bccb8df4d68b35d016870af69515b6b/Objective,c15d5329b3,jogue com a chef quaver 15 vezes.
+Arcade,Challenges/9bccb8df4d68b35d016870af69515b6b/Title,5aa120a235,MORDA
+Arcade,Challenges/9bd5357d83fa90fd6745a4a202f2d101/Description,f18e518dcc,não é ótimo quando um jogo tem um monte de tarefinha pra limpar?
+Arcade,Challenges/9bd5357d83fa90fd6745a4a202f2d101/Objective,efc42fc6b6,complete todos os charts de uma música.
+Arcade,Challenges/9bd5357d83fa90fd6745a4a202f2d101/Title,5f1f65af4f,ticando a lista
+Arcade,Challenges/9d3d48035c74e634722ac15d1afe01c7/Description,117fd90386,andando entre gotas de chuva
+Arcade,Challenges/9d3d48035c74e634722ac15d1afe01c7/Objective,71db35c850,jogue em meia velocidade usando velocidade de rolagem 0.5 ou menor.
+Arcade,Challenges/9d3d48035c74e634722ac15d1afe01c7/Title,5d937d896d,tempo numa garrafa
+Arcade,Challenges/9e172cc04d471c4a72dd5bcd0b831997/Description,d7da5e87b0,"ao longo da história registrada, usamos as estrelas pra achar o caminho,"
+Arcade,Challenges/9e172cc04d471c4a72dd5bcd0b831997/Objective,9cb43db8e2,Alcance uma Classificação de 7 Estrelas.
+Arcade,Challenges/9e172cc04d471c4a72dd5bcd0b831997/Title,553648c808,NOVA
+Arcade,Challenges/9e49ed709ae1df1c528bd9d59199521c/Description,690df9cf9b,se você nunca terminar esse desafio eu não sei o que te dizer.
+Arcade,Challenges/9e49ed709ae1df1c528bd9d59199521c/Objective,7c2c0a9130,vença (ei...beat é o nome da protagonista...) qualquer música.
+Arcade,Challenges/9e49ed709ae1df1c528bd9d59199521c/Title,f58eaa93af,esse é o primeiro desafio por um motivo
+Arcade,Challenges/a0b43f66baac483297afba604385b985/Description,ab7a86676e,ninguém deveria.
+Arcade,Challenges/a0b43f66baac483297afba604385b985/Objective,14221ae5cc,termine o quinto episódio do modo história.
+Arcade,Challenges/a0b43f66baac483297afba604385b985/Title,8d41937eee,você não devia estar aqui.
+Arcade,Challenges/a442ffdec5b79fb970df8b02772cd330/Description,d987d6958e,todo mundo tem aquele amigo que não chega na hora.
+Arcade,Challenges/a442ffdec5b79fb970df8b02772cd330/Objective,ae248a1154,"complete waiting ou waiting (lumena-tan remix) acertando todas as notas atrasado. sim, todas."
+Arcade,Challenges/a442ffdec5b79fb970df8b02772cd330/Title,a343d57a55,"waiting, and waiting on you"
+Arcade,Challenges/a4895fc63752fcf99793d09dcaf4a1b0/Description,746c0f2eb9,"foi mal, mas não dá pra rebobinar de verdade. qual é a segunda melhor opção?"
+Arcade,Challenges/a4895fc63752fcf99793d09dcaf4a1b0/Objective,7ddba1e614,Full Combo em TURN BACK em MEIA VELOCIDADE
+Arcade,Challenges/a4895fc63752fcf99793d09dcaf4a1b0/Title,cfff1b0314,relógio quebrado
+Arcade,Challenges/a4b67ec426652bde048bacd5d9605df6/Description,656a79952d,tantos zeros quanto os anos que leva
+Arcade,Challenges/a4b67ec426652bde048bacd5d9605df6/Objective,0b51fbab0b,Faça uma Pontuação Total de 10.000.000.
+Arcade,Challenges/a4b67ec426652bde048bacd5d9605df6/Title,5e1d361f9e,uma ideia que me obceca
+Arcade,Challenges/a534b2021e1839a48683dc0d2b5a1279/Description,fc8e49928b,mas o universo é seu próprio registro.
+Arcade,Challenges/a534b2021e1839a48683dc0d2b5a1279/Objective,665a4de9c0,Alcance uma Classificação de 10 Estrelas.
+Arcade,Challenges/a534b2021e1839a48683dc0d2b5a1279/Title,29782ff218,PRIMEIRA MAGNITUDE
+Arcade,Challenges/a82b7f85eb80198482735419b042eca0/Description,e3c341f569,UMA CORRIDA DE ESTRELA EM ESTRELA.
+Arcade,Challenges/a82b7f85eb80198482735419b042eca0/Objective,0cc09d9e75,Jogue AFTERBURN e AFTERBURNER na dificuldade STAR em sequência.
+Arcade,Challenges/a82b7f85eb80198482735419b042eca0/Title,3fca6a0caa,AFTERBURN(er)
+Arcade,Challenges/a92cb97a8d21c72bc616863bea2960c8/Description,d1ef811c41,"e alcansamos.     ...ãh, alcançamos."
+Arcade,Challenges/a92cb97a8d21c72bc616863bea2960c8/Objective,ad2876bcda,"Jogue todas as músicas adicionadas pós-lançamento, da 1.1 à 1.10, na ordem."
+Arcade,Challenges/a92cb97a8d21c72bc616863bea2960c8/Title,447ea9a5a2,ATAULIZADO
+Arcade,Challenges/a9ff00895f889cd4fe10d232552b83c5/Description,0740a71b52,quem NÃO é de lá?
+Arcade,Challenges/a9ff00895f889cd4fe10d232552b83c5/Objective,c22d9e2212,"Jogue uma música de cada: do RJ, da Rachel e depois da Jamie."
+Arcade,Challenges/a9ff00895f889cd4fe10d232552b83c5/Title,8060ca59b7,ESTILO CHICAGO
+Arcade,Challenges/aa64531f465138b25ba087d1c98c0dcc/Description,606a897679,"""Um sopro de ar fresco. Só um sopro de ar fresco."""
+Arcade,Challenges/aa64531f465138b25ba087d1c98c0dcc/Objective,3031c00ba5,jogue com a jamie paige 15 vezes.
+Arcade,Challenges/aa64531f465138b25ba087d1c98c0dcc/Title,a83e1c5603,mais pra gamer paige
+Arcade,Challenges/ab5e9cfc89b6e0ce83b8313e0d0bbf8b/Description,278ed9200d,"estão aqui desde o começo.
+"
+Arcade,Challenges/ab5e9cfc89b6e0ce83b8313e0d0bbf8b/Objective,e2821a85a2,jogue cinco charts do chi xu seguidos.
+Arcade,Challenges/ab5e9cfc89b6e0ce83b8313e0d0bbf8b/Title,3af982ed16,por que a gente deixou ele fazer o chart de 50% do jogo
+Arcade,Challenges/abb23fc001ae93748374ad203829c1eb/Description,51796c4e3b,uma demonstração incrível de autocontrole.
+Arcade,Challenges/abb23fc001ae93748374ad203829c1eb/Objective,c7e77117dd,"quando aparecer uma nota de martelar, acerte ela SÓ UMA VEZ."
+Arcade,Challenges/abb23fc001ae93748374ad203829c1eb/Title,d7c77d2619,mata-moscas
+Arcade,Challenges/af57a7d6bef0bd872dd2de5e341b1c36/Description,1a361e04eb,isso mal começou.
+Arcade,Challenges/af57a7d6bef0bd872dd2de5e341b1c36/Objective,889c3453e7,alcance classificação 12.50.
+Arcade,Challenges/af57a7d6bef0bd872dd2de5e341b1c36/Title,bfd485deca,BIG CRUNCH.
+Arcade,Challenges/b0290ad027ac8f3667fc21f8c9c88e76/Description,151a9ddff9,mistura dominada
+Arcade,Challenges/b0290ad027ac8f3667fc21f8c9c88e76/Objective,a644509dfd,Complete o Minigame de Bartender.
+Arcade,Challenges/b0290ad027ac8f3667fc21f8c9c88e76/Title,9d6f1ed686,nostalgia. bitters. demerara.
+Arcade,Challenges/b1305e03b01c489af1bccc9392c62249/Description,0d1b08c348,???
+Arcade,Challenges/b1305e03b01c489af1bccc9392c62249/Objective,2f43b42fd8,...
+Arcade,Challenges/b1305e03b01c489af1bccc9392c62249/Title,7ed929f45b,OFFLINE
+Arcade,Challenges/b389159f416f23d66187cfd7b84aeb46/Description,73c1575cae,You killed Niko?
+Arcade,Challenges/b389159f416f23d66187cfd7b84aeb46/Objective,fe2942a979,Saia no meio de IT'S TIME TO CRIME na dificuldade Iniciante.
+Arcade,Challenges/b389159f416f23d66187cfd7b84aeb46/Title,85ee62443b,YOU ONLY GET...
+Arcade,Challenges/b39cf7545d67c7ff060dd9b265133c7f/Description,d45b0ea6a9,"""Quando o trabalho para."""
+Arcade,Challenges/b39cf7545d67c7ff060dd9b265133c7f/Objective,e7c96616ce,jogue com a rest cinquenta vezes.
+Arcade,Challenges/b39cf7545d67c7ff060dd9b265133c7f/Title,e2ec490888,E DESCANSE
+Arcade,Challenges/b641e18839f12fed0e59f642e8d32cd4/Description,32dd3fdac0,o que isso quer dizer?
+Arcade,Challenges/b641e18839f12fed0e59f642e8d32cd4/Objective,0a6e852720,abra o jogo em sete dias diferentes.
+Arcade,Challenges/b641e18839f12fed0e59f642e8d32cd4/Title,48974dbe91,Beat entrou.
+Arcade,Challenges/b71e40374e711944e1dd6cf88acb8b22/Description,f5d66e09de,"""E aí, garota."""
+Arcade,Challenges/b71e40374e711944e1dd6cf88acb8b22/Objective,d450378b08,jogue com a penny 50 vezes.
+Arcade,Challenges/b71e40374e711944e1dd6cf88acb8b22/Title,19371c150d,PENNY
+Arcade,Challenges/b7898d218821b3900de36584c11415bc/Description,d476127351,9c38ae54c45fd3ccf6331104698979efcb19e1ec
+Arcade,Challenges/b7898d218821b3900de36584c11415bc/Objective,c2bfbb1e4a,"(foi mal, davey)"
+Arcade,Challenges/b7898d218821b3900de36584c11415bc/Title,0e53a672a8,221910
+Arcade,Challenges/b7b3cb5348ee70c86f4e147dcfc0f004/Description,f6ed3436cb,pega um caderno.
+Arcade,Challenges/b7b3cb5348ee70c86f4e147dcfc0f004/Objective,d257592476,"Jogue Empty Diary, depois Blank Page e depois Dream Diary em sequência, com Dream Diary no Reflection"
+Arcade,Challenges/b7b3cb5348ee70c86f4e147dcfc0f004/Title,048785525d,DIÁRIO
+Arcade,Challenges/bccabb904be2af30eae2b1d97cbd1f7f/Description,d8475a8a0a,você reconheceria se visse?
+Arcade,Challenges/bccabb904be2af30eae2b1d97cbd1f7f/Objective,dbd02d8c62,Alcance uma Classificação de 6 Estrelas.
+Arcade,Challenges/bccabb904be2af30eae2b1d97cbd1f7f/Title,0880afb3fa,HIPERGIGANTE
+Arcade,Challenges/bee8f8e7b91f2d1d4dc0e82661b6bca7/Description,162a0348e0,"se ""você é o que você come"" for verdade, faça deles os seus sapatos."
+Arcade,Challenges/bee8f8e7b91f2d1d4dc0e82661b6bca7/Objective,66bcb07e35,131 policiais derrotados
+Arcade,Challenges/bee8f8e7b91f2d1d4dc0e82661b6bca7/Title,5b8817051e,designado policial ao nascer
+Arcade,Challenges/bfa1b9d67704f3159da443ba27f7b135/Description,eb6539d64c,"e por causa disso, uma constelação pode ser esquecida e ainda assim existir."
+Arcade,Challenges/bfa1b9d67704f3159da443ba27f7b135/Objective,42474d7438,Alcance uma Classificação de 3 Estrelas
+Arcade,Challenges/bfa1b9d67704f3159da443ba27f7b135/Title,425d2057e8,AGLOMERADO
+Arcade,Challenges/c06f7c285f24b526866c0d2d6269c2bb/Description,9285483134,conte até...
+Arcade,Challenges/c06f7c285f24b526866c0d2d6269c2bb/Objective,7870bce6be,jogue um chart em cada nível de dificuldade.
+Arcade,Challenges/c06f7c285f24b526866c0d2d6269c2bb/Title,32d70e2e6a,passeio do jubileu
+Arcade,Challenges/c17af4dd5e2e229e0d786f428c3c33ad/Description,d0573b3257,é alguém com quem dá pra contar.
+Arcade,Challenges/c17af4dd5e2e229e0d786f428c3c33ad/Objective,18e4c49b16,termine o minigame de pular corda.
+Arcade,Challenges/c17af4dd5e2e229e0d786f428c3c33ad/Title,ebd41aee38,desespero despertando
+Arcade,Challenges/c1a19768677e49cc7361b6be1c94a294/Description,77defede11,reserve um tempo pra ouvir o álbum da banda inteiro.
+Arcade,Challenges/c1a19768677e49cc7361b6be1c94a294/Objective,095bd25b57,"jogue tudo do álbum de estreia do unbeatable, em sequência."
+Arcade,Challenges/c1a19768677e49cc7361b6be1c94a294/Title,4299757a27,estreia
+Arcade,Challenges/c1a7692e9ccb5fc610899c5e52d4c2f3/Description,5230dc3d65,você tá verdinho nessa!
+Arcade,Challenges/c1a7692e9ccb5fc610899c5e52d4c2f3/Objective,029431ab92,"Jogue na tela verde 10 vezes.
+"
+Arcade,Challenges/c1a7692e9ccb5fc610899c5e52d4c2f3/Title,b030d1fa7a,VERDINHO NESSA
+Arcade,Challenges/c1d1043c8309e20e1a5b608303c67d43/Description,922cf22a21,"você só tá dificultando pra si mesmo, mas dessa vez mais."
+Arcade,Challenges/c1d1043c8309e20e1a5b608303c67d43/Objective,2505f33c78,complete uma música com pelo menos 2 modificadores que aumentam a dificuldade
+Arcade,Challenges/c1d1043c8309e20e1a5b608303c67d43/Title,b8673aa8df,trabalho brilhante
+Arcade,Challenges/c211550d44aeabd6824dffcb1a41f394/Description,440789eba1,"algumas dessas histórias foram contadas por anos mas nunca gravadas,"
+Arcade,Challenges/c211550d44aeabd6824dffcb1a41f394/Objective,bf51202730,Alcance uma Classificação de 9 Estrelas.
+Arcade,Challenges/c211550d44aeabd6824dffcb1a41f394/Title,2f8176c2ac,QUASAR
+Arcade,Challenges/c25f3e07036cc8eb68fb2506b3f6f222/Description,5af9e279eb,"aquela que você conhece, mas não do jeito que você conhece. / o título aparecendo."
+Arcade,Challenges/c25f3e07036cc8eb68fb2506b3f6f222/Objective,dac7f19a25,supere a pontuação da cheryl em familiar (brandon liew remix) na dificuldade unbeatable.
+Arcade,Challenges/c25f3e07036cc8eb68fb2506b3f6f222/Title,8be765ca85,CHERYL (1394435)
+Arcade,Challenges/c2ca98622a165eb2988955c5954fdda8/Description,f40bb6bccd,"...peraí, esse não é o nome do jogo"
+Arcade,Challenges/c2ca98622a165eb2988955c5954fdda8/Objective,a8772a8957,termine o primeiro episódio do modo história.
+Arcade,Challenges/c2ca98622a165eb2988955c5954fdda8/Title,1a24d92384,parece meio inacreditável
+Arcade,Challenges/c2ed90ea0acfdeeea8ec230e8fa195d5/Description,b05ce15e71,Coloque a estação no ar.
+Arcade,Challenges/c2ed90ea0acfdeeea8ec230e8fa195d5/Objective,2f43b42fd8,...
+Arcade,Challenges/c2ed90ea0acfdeeea8ec230e8fa195d5/Title,9ac795795a,SILÊNCIO NO AR
+Arcade,Challenges/c39ebcedfc0c10c215a7d95288a47613/Description,33092509ab,"espero que sim. senão, por que você comprou o jogo?"
+Arcade,Challenges/c39ebcedfc0c10c215a7d95288a47613/Objective,d4c5770c81,jogue uma faixa original.
+Arcade,Challenges/c39ebcedfc0c10c215a7d95288a47613/Title,9dfd45123e,quer ouvir um pouco?
+Arcade,Challenges/c4264cbbc69dd752065a8df762be1b42/Description,fe9869d03f,é nepotismo se você realmente acha que eles são talentosos
+Arcade,Challenges/c4264cbbc69dd752065a8df762be1b42/Objective,b92e7463e3,jogue cinco músicas com artistas convidados seguidas.
+Arcade,Challenges/c4264cbbc69dd752065a8df762be1b42/Title,bb456f8f21,e a gente trouxe uns amigos
+Arcade,Challenges/c8c776207e723d8f40868340c35c397f/Description,5d9cef1649,não é TÃO longo assim pra terminar.
+Arcade,Challenges/c8c776207e723d8f40868340c35c397f/Objective,c690cb5525,passe de 50 horas de jogo.
+Arcade,Challenges/c8c776207e723d8f40868340c35c397f/Title,d9a5c7bbb2,juro que fica bom depois dessa parte
+Arcade,Challenges/cb59d61a0a4f99e3e00450ce153dacce/Description,2fe15ed101,"""Acta non verba."""
+Arcade,Challenges/cb59d61a0a4f99e3e00450ce153dacce/Objective,bcd8c02ce7,jogue com o dc 50 vezes.
+Arcade,Challenges/cb59d61a0a4f99e3e00450ce153dacce/Title,cf75e54791,DC
+Arcade,Challenges/cb6db75ccab97a708d65043503890723/Description,8d683580d2,tecnicamente ele agora está banido de futuras competições de UNBEATABLE.
+Arcade,Challenges/cb6db75ccab97a708d65043503890723/Objective,82149b72a7,jogue três charts do stellaris seguidos
+Arcade,Challenges/cb6db75ccab97a708d65043503890723/Title,0eb7221b24,o campeão estelar
+Arcade,Challenges/cbc61418bb241b9e58c76d633147a52c/Description,ef0006f223,não deve ser tão difícil. a maior parte da trilha sonora conta.
+Arcade,Challenges/cbc61418bb241b9e58c76d633147a52c/Objective,c3f6fcfdee,Jogue oito músicas do peak divide seguidas.
+Arcade,Challenges/cbc61418bb241b9e58c76d633147a52c/Title,a5759dbebf,é...divide
+Arcade,Challenges/d0753ea661eb6286c2c278c7069dcf84/Description,e5ab56e86e,"você desbloqueia isso por começar o modo história, o que, vale notar, a gente já te obrigou a fazer."
+Arcade,Challenges/d0753ea661eb6286c2c278c7069dcf84/Objective,46f1f3bb1b,comece o modo história.
+Arcade,Challenges/d0753ea661eb6286c2c278c7069dcf84/Title,97681201ec,você já devia ter esse.
+Arcade,Challenges/d0c1995be2b8848533e70766f7c93499/Description,6286464efd,nunca no mesmo lugar duas vezes.
+Arcade,Challenges/d0c1995be2b8848533e70766f7c93499/Objective,42584488be,complete proper rhythm sem nunca apertar o mesmo botão duas vezes seguidas.
+Arcade,Challenges/d0c1995be2b8848533e70766f7c93499/Title,958b1e0337,Mexa os Dedinhos
+Arcade,Challenges/d314736f938d7616eca16661a83d6a57/Description,582804142e,"parabéns. você descobriu o conceito de ""trocar modificadores"""
+Arcade,Challenges/d314736f938d7616eca16661a83d6a57/Objective,aa2251ed43,Use qualquer modificador numa música.
+Arcade,Challenges/d314736f938d7616eca16661a83d6a57/Title,cee9a52bbb,"Finalmente, um jogo para os Gamers"
+Arcade,Challenges/d35d10bec535c73ea431ef332cd86d95/Description,f1e79c41b8,"velocidade e habilidade, claro, vêm com a prática."
+Arcade,Challenges/d35d10bec535c73ea431ef332cd86d95/Objective,60f4425df5,Jogue o tutorial.
+Arcade,Challenges/d35d10bec535c73ea431ef332cd86d95/Title,39c5812ee3,a prática leva à perfeição perfeição perfeição
+Arcade,Challenges/d5c3bd7922443b899b5dab79b593d66f/Description,7833162d0c,esse é bem óbvio. todos desse fólio meio que são.
+Arcade,Challenges/d5c3bd7922443b899b5dab79b593d66f/Objective,678f1e37e1,"jogue todas as músicas de BREAKOUT seguidas, em sequência, na ordem."
+Arcade,Challenges/d5c3bd7922443b899b5dab79b593d66f/Title,1c56bb16e5,MARATONA BREAKOUT
+Arcade,Challenges/d5f32141099d57d7e6561e5c9984e774/Description,d8c6d054eb,as favoritas do hakuno.
+Arcade,Challenges/d5f32141099d57d7e6561e5c9984e774/Objective,7d9874a6d5,Complete Mirror e True em sequência.
+Arcade,Challenges/d5f32141099d57d7e6561e5c9984e774/Title,8dac9a2d5a,Espadas
+Arcade,Challenges/daf459006974049e6a9ffe97f8256249/Description,7952b054f1,bom. conserta isso.
+Arcade,Challenges/daf459006974049e6a9ffe97f8256249/Objective,4f5bf0a71e,adicione um título ao seu perfil. talvez não tão formal.
+Arcade,Challenges/daf459006974049e6a9ffe97f8256249/Title,6e0b5d407d,"""Na verdade eu não tenho um título formal."""
+Arcade,Challenges/dbb273afb164060df356b67b2f8fd660/Description,79288d2394,"uma vez perdida, uma coisa dessas pode ser encontrada?"
+Arcade,Challenges/dbb273afb164060df356b67b2f8fd660/Objective,d2a73fa189,Alcance uma Classificação de 5 Estrelas.
+Arcade,Challenges/dbb273afb164060df356b67b2f8fd660/Title,f0fcd2bde5,NEBULOSA
+Arcade,Challenges/dd6ecf42073f0b9beb357b7e5919a8bd/Description,fcccfa95e0,uma corrente inquebrável.
+Arcade,Challenges/dd6ecf42073f0b9beb357b7e5919a8bd/Objective,782b035f80,consiga um full combo.
+Arcade,Challenges/dd6ecf42073f0b9beb357b7e5919a8bd/Title,1779c858da,nenhuma nota ficou pra trás.
+Arcade,Challenges/df5c2131cc47d48546c93f9d1080a687/Description,d2bfbf208a,"tá tudo bem. tá ótimo, até"
+Arcade,Challenges/df5c2131cc47d48546c93f9d1080a687/Objective,c866aa6269,complete um chart acertando menos de 10% das notas como perfeito.
+Arcade,Challenges/df5c2131cc47d48546c93f9d1080a687/Title,24d0185634,aprendiz
+Arcade,Challenges/df61c4c3edff54f36db7c61aac6d29f0/Description,e6295f4bc1,dobra magnética. / a nossa é tecnicamente mais fácil que o normal.
+Arcade,Challenges/df61c4c3edff54f36db7c61aac6d29f0/Objective,25e0cc0f60,supere a pontuação do eli em WORN OUT TAPES na dificuldade Normal.
+Arcade,Challenges/df61c4c3edff54f36db7c61aac6d29f0/Title,2376aab61c,ELI (1402436)
+Arcade,Challenges/dfab1569c4b7387398fbc4380fdb96e1/Description,1890776841,ficar mais difícil é a prova de que você está crescendo.
+Arcade,Challenges/dfab1569c4b7387398fbc4380fdb96e1/Objective,6ac6f85bc8,Supere um Recorde local 5 vezes.
+Arcade,Challenges/dfab1569c4b7387398fbc4380fdb96e1/Title,6ffb96d2e3,Subindo a pontuação
+Arcade,Challenges/e0054aa9e8dc756af285a117b29dc2bf/Description,938544bf18,acho que é mais fácil quando o livro não tem nada escrito.
+Arcade,Challenges/e0054aa9e8dc756af285a117b29dc2bf/Objective,6ae84eb8e2,Jogue Empty Diary em Velocidade Dobrada.
+Arcade,Challenges/e0054aa9e8dc756af285a117b29dc2bf/Title,4e1e7ad452,leitura dinâmica
+Arcade,Challenges/e15371fb420abbbccbfc89e2b0a5f2b3/Description,9316f692ce,um tubérculo amiláceo parecido com batata e também uma BOMBA NUCLEAR
+Arcade,Challenges/e15371fb420abbbccbfc89e2b0a5f2b3/Objective,701c642c3c,jogue cinco charts do taronuke seguidos.
+Arcade,Challenges/e15371fb420abbbccbfc89e2b0a5f2b3/Title,81c0a57590,nada de mod chart aqui
+Arcade,Challenges/e18214df30c5c909dee56e082b0b04f9/Description,9145119a87,"""eu falo muita coisa. então imagina o cuidado que eu tenho com o que eu não falo."""
+Arcade,Challenges/e18214df30c5c909dee56e082b0b04f9/Objective,618be27401,jogue com o treble cinquenta vezes.
+Arcade,Challenges/e18214df30c5c909dee56e082b0b04f9/Title,6481bb83f7,TREBLE
+Arcade,Challenges/e439cf385e5740ed24377527c86dbe15/Description,da22dae8d3,"peraí, isso pode acontecer"
+Arcade,Challenges/e439cf385e5740ed24377527c86dbe15/Objective,3c448b6eaf,morra no modo assistido.
+Arcade,Challenges/e439cf385e5740ed24377527c86dbe15/Title,b6668c21c7,O MODO ASSISTIDO precisa de um MODO ASSISTIDO
+Arcade,Challenges/e453fad183803082435048c8dafe4f49/Description,dd5064e25b,você provavelmente vai conseguir esse em algum momento se só deixar o jogo aberto o tempo todo...
+Arcade,Challenges/e453fad183803082435048c8dafe4f49/Objective,354ad003ad,jogue e complete todas as músicas da lista base numa sessão só.
+Arcade,Challenges/e453fad183803082435048c8dafe4f49/Title,b421ce1cc2,tem muita coisa pra repassar.
+Arcade,Challenges/e5ebf1400ecb58e3fe8ff3e79b80a4c4/Description,35a3315460,"registro de jogador um. 
+o colapso de uma fita nas duas faixas base dela no jogo. 
+uma depois da outra, a mais difícil sem ganhar um nome."
+Arcade,Challenges/e5ebf1400ecb58e3fe8ff3e79b80a4c4/Objective,a99cea741b,"supere as pontuações do clink35 em worn out tapes e worn out tapes [tally-ho version], ambas na dificuldade unbeatable, em sequência."
+Arcade,Challenges/e5ebf1400ecb58e3fe8ff3e79b80a4c4/Title,c3bbb60ad4,"CLINK35 - (1391654, 1396201)"
+Arcade,Challenges/e68702b882d56eb2df5f64b27f421476/Description,f3f3a9cf9c,FORE!
+Arcade,Challenges/e68702b882d56eb2df5f64b27f421476/Objective,d82c80e632,fique 20 minutos na tela de seleção de música.
+Arcade,Challenges/e68702b882d56eb2df5f64b27f421476/Title,f9528d222b,"o que é isso, um torneio de golfe?"
+Arcade,Challenges/e9375f96b4f32270c2a92cdf773da511/Description,44b3c94f08,"as coisas que mais demoraram pra fazer (jogue na ordem, senão não conta)."
+Arcade,Challenges/e9375f96b4f32270c2a92cdf773da511/Objective,83632eebea,"jogue todas as faixas de cena do modo história, na ordem."
+Arcade,Challenges/e9375f96b4f32270c2a92cdf773da511/Title,d65c9784dd,grande e barulhento.
+Arcade,Challenges/e9bc53c22a75c6153b96dc4b07100892/Description,b1db4de2c0,"happy birthday to you, happy birthday to you, happy birthday dear birthday, happy birthday to you"
+Arcade,Challenges/e9bc53c22a75c6153b96dc4b07100892/Objective,fa398ae917,entre no jogo no aniversário de alguém da equipe da d-cell.
+Arcade,Challenges/e9bc53c22a75c6153b96dc4b07100892/Title,ee237b5d04,caked up
+Arcade,Challenges/eb6d1aa98c87d24e6bf1f5a52560c82e/Description,eeeb185806,você devia jogar vivid/stasis
+Arcade,Challenges/eb6d1aa98c87d24e6bf1f5a52560c82e/Objective,72d5f71333,jogue cinco charts da cheryl seguidos
+Arcade,Challenges/eb6d1aa98c87d24e6bf1f5a52560c82e/Title,549625cc8f,hajimeli
+Arcade,Challenges/ec4eb431f44840248bbac48f9da18f8f/Description,c4359d0493,calma.
+Arcade,Challenges/ec4eb431f44840248bbac48f9da18f8f/Objective,a6f7d11ab5,aperte comandos de ritmo mais de três vezes a quantidade de notas da música.
+Arcade,Challenges/ec4eb431f44840248bbac48f9da18f8f/Title,2da8a3f935,clique nervoso
+Arcade,Challenges/ecb05b7c51bd569c30a651dc48600ece/Description,72db2e7a19,"mas não deixa esse impulso te quebrar. igual ao último desafio, só que perfeito."
+Arcade,Challenges/ecb05b7c51bd569c30a651dc48600ece/Objective,1e2f2b8a4f,consiga full combo perfeito em todas as músicas da lista base. todas as dificuldades.
+Arcade,Challenges/ecb05b7c51bd569c30a651dc48600ece/Title,d9bd68cb4f,mas você vai permitir?
+Arcade,Challenges/eff62689ff3d040a1e09cb5b3c95bf99/Description,a28902bdff,nossa! eles desenham muito bem
+Arcade,Challenges/eff62689ff3d040a1e09cb5b3c95bf99/Objective,52e403348c,jogue cinco músicas com arte da equipe visual da d-cell.
+Arcade,Challenges/eff62689ff3d040a1e09cb5b3c95bf99/Title,8810071031,loja de móveis
+Arcade,Challenges/f079f2eaa20b8d0af3e327e8757a9351/Description,72dbdd1fdf,e esperando e esperando e esperando e esperando
+Arcade,Challenges/f079f2eaa20b8d0af3e327e8757a9351/Objective,28418c20f1,"jogue waiting inteira sem acertar nenhuma nota, com o modo sem falha ligado."
+Arcade,Challenges/f079f2eaa20b8d0af3e327e8757a9351/Title,9f23369364,esperando e esperando e esperando e
+Arcade,Challenges/f082e316991275e4538c3927aae51855/Description,7526cc18de,a markov chain with a sunny disposition!
+Arcade,Challenges/f082e316991275e4538c3927aae51855/Objective,bd70576b53,"Jogue ROT FOR CLOUT, Birdbrain e Machine Love numa sessão só."
+Arcade,Challenges/f082e316991275e4538c3927aae51855/Title,e101ce0097,TWIN DRILL
+Arcade,Challenges/f1bf682a31a5f5b7bdd4ec8001aa5ff2/Description,80c6bb5b28,você tem que acertar todas as notas.
+Arcade,Challenges/f1bf682a31a5f5b7bdd4ec8001aa5ff2/Objective,ed416d1c2e,"complete um chart acertando todos os objetos, inclusive os que você devia desviar."
+Arcade,Challenges/f1bf682a31a5f5b7bdd4ec8001aa5ff2/Title,97c9bb5fec,trator
+Arcade,Challenges/f29b222c569481ea82879a688527118d/Description,0bb4564768,eu consigo sozinha.
+Arcade,Challenges/f29b222c569481ea82879a688527118d/Objective,d06c8572e3,complete um chart sem acertar nenhuma nota que precisaria de um personagem assistente.
+Arcade,Challenges/f29b222c569481ea82879a688527118d/Title,e90159c7a4,Lobo Solitário
+Arcade,Challenges/f319c3ee64bcb4d1e832adcac253185b/Description,9c3f9e98ec,"""Você tem que ser importante pra meter medo."""
+Arcade,Challenges/f319c3ee64bcb4d1e832adcac253185b/Objective,d38df667a8,jogue com a poco 50 vezes.
+Arcade,Challenges/f319c3ee64bcb4d1e832adcac253185b/Title,f42e0e23b1,POCO
+Arcade,Challenges/f789179329d7dcb1f9d7f1f5989e480e/Description,de1949fe14,Um espelho UNBEATABLE.
+Arcade,Challenges/f789179329d7dcb1f9d7f1f5989e480e/Objective,9f7edba6e2,Supere um desafio de pontuação criado pela Jamie Paige. paisley pudge.
+Arcade,Challenges/f789179329d7dcb1f9d7f1f5989e480e/Title,adf2262268,JAMIE (1231613)
+Arcade,Challenges/f82361906a0aec4cf5f13cc1d8521fc9/Description,7e62bd2c10,"o palco é todo seu.
+"
+Arcade,Challenges/f82361906a0aec4cf5f13cc1d8521fc9/Objective,e326865d00,Jogue o mesmo palco não-padrão mais de 15 vezes.
+Arcade,Challenges/f82361906a0aec4cf5f13cc1d8521fc9/Title,72dab9379c,TEM PREFERIDO
+Arcade,Challenges/f891827d9a7dbfb25c5728e9ff4bd80a/Description,fd8159c9c7,"igual ao desafio anterior, mas diferente."
+Arcade,Challenges/f891827d9a7dbfb25c5728e9ff4bd80a/Objective,c6ca4839b2,jogue uma faixa remix.
+Arcade,Challenges/f891827d9a7dbfb25c5728e9ff4bd80a/Title,0bd97b6a14,desconhecido
+Arcade,Challenges/f8cdb42f872f970d9c68c11212dc4233/Description,649ab005f0,Nothing ever happens.
+Arcade,Challenges/f8cdb42f872f970d9c68c11212dc4233/Objective,2f43b42fd8,...
+Arcade,Challenges/f8cdb42f872f970d9c68c11212dc4233/Title,1c47c447ec,UMA TRÍADE DE ESTRELAS VAZIAS
+Arcade,Challenges/fc4f61688f98034925dce2f65b73e99d/Description,4c6f6cdbe4,você sabe de cor?
+Arcade,Challenges/fc4f61688f98034925dce2f65b73e99d/Objective,0773c381ab,faça full combo em memorized com a música e os efeitos sonoros mudos.
+Arcade,Challenges/fc4f61688f98034925dce2f65b73e99d/Title,62b3a2b63b,"Eu Digo As Falas, As Sílabas"
+Arcade,Challenges/fd0b2d9dd020512ea05029d5011ad9da/Description,def66d6076,"""É óbvio que eu não tenho cinco anos."""
+Arcade,Challenges/fd0b2d9dd020512ea05029d5011ad9da/Objective,cb50a6491a,jogue com a quaver cinquenta vezes.
+Arcade,Challenges/fd0b2d9dd020512ea05029d5011ad9da/Title,d17399392e,QUAVER
+Arcade,Challenges/fe9c1f085e92b5f7a13b457e3130b997/Description,7bfd6f5fea,de mãe pra filha.
+Arcade,Challenges/fe9c1f085e92b5f7a13b457e3130b997/Objective,686967bdce,jogue as duas versões de bookend song.
+Arcade,Challenges/fe9c1f085e92b5f7a13b457e3130b997/Title,f66835200c,de capa a capa
+Arcade,Challenges/fef39e3d93bbf1d62c008bba16dc8a6e/Description,e521d02624,você só tá dificultando pra si mesmo.
+Arcade,Challenges/fef39e3d93bbf1d62c008bba16dc8a6e/Objective,094fcc1747,complete uma música com pelo menos 1 modificador que aumenta a dificuldade
+Arcade,Challenges/fef39e3d93bbf1d62c008bba16dc8a6e/Title,b76c44e063,moleza
+Arcade,Challenges/ff61ff6fbeb783473dd1dd71b4b27d13/Description,477b5aa42c,computador burro.
+Arcade,Challenges/ff61ff6fbeb783473dd1dd71b4b27d13/Objective,b1083ff2c2,vença a tacolândia na dificuldade fácil
+Arcade,Challenges/ff61ff6fbeb783473dd1dd71b4b27d13/Title,adf178a6d1,NullRefException
+Arcade,Challenges/ff8c57d9795ac82754af3dcbef08f388/Description,c0e4f6e4a6,não vai quicar fora.
+Arcade,Challenges/ff8c57d9795ac82754af3dcbef08f388/Objective,1357372d03,Complete o chart STAR de MOTHERBOUND com rank D ou maior.
+Arcade,Challenges/ff8c57d9795ac82754af3dcbef08f388/Title,87a7ddca2f,( s. i. l. ê. n. c. i. o. )
+Arcade,FolioView/CompletedChallenges,2aaa51d4c6,<cspace=0.2em>desafios_completos : [{completed} / {total}]
+Arcade,FolioView/CompletedFolios,133064b431,<cspace=0.2em>folios_completos : [{completed} / {total}]
+Arcade,FolioView/CurrentProgress,39ee0ebdfa,<cspace=0.2em>progresso_{name} : [{completed} / {total}]
+Arcade,Global/Category/all,a181a60376,todas
+Arcade,Global/Category/collab,d502937437,colab
+Arcade,Global/Category/original,919c8b643b,original
+Arcade,Global/Category/remixes,2aa945709f,remixes
+Arcade,Global/Clock,6c6da9c9d6,"<cspace=0.45em>ようこそ。
+<cspace=0.37em>agora são {time}."
+Arcade,Global/Difficulty/Beginner,2ddabc33a6,Iniciante
+Arcade,Global/Difficulty/Easy,960b44c579,Normal
+Arcade,Global/Difficulty/Hard,0b84df4e0b,Expert
+Arcade,Global/Difficulty/Missing,3303770e5b,<cspace=0.11em>não existe.
+Arcade,Global/Difficulty/Normal,3656183169,Difícil
+Arcade,Global/Difficulty/Star,26f93e6e68,Estrela
+Arcade,Global/Difficulty/UNBEATABLE,58038e736a,UNBEATABLE
+Arcade,Global/Error/CantConnect,75e41e7d6a,Sem Conexão
+Arcade,Global/Error/NoEntries,5f3c884af0,Sem Registros
+Arcade,Global/Error/ServerError,dd9742741a,Erro no Servidor
+Arcade,Global/No,fbd39fe0ec,Não.
+Arcade,Global/Return,54cb813aa5,<cspace=0.15em>voltar.
+Arcade,Global/Yes,b127099c71,Sim.
+Arcade,Leaderboard/RegionButton,c8e2fc2bae,Região :
+Arcade,Leaderboard/SortingButton,8b1ea112be,Ordenação :
+Arcade,Leaderboard/SortingMode/AroundScore,d17553c309,mais próximos.
+Arcade,Leaderboard/SortingMode/Friends,12a20ee794,amigos.
+Arcade,Leaderboard/SortingMode/Top,8f93e14f3a,topo.
+Arcade,MainMenu/Chabo,ba893c290a,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>quadro de desafios.
+Arcade,MainMenu/Chabo/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,MainMenu/Play,9c8fe03f21,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>jogar.
+Arcade,MainMenu/Play/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,MainMenu/Quit,32e2c3ad97,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>sair.
+Arcade,MainMenu/Quit/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,MainMenu/Story,1e3e4c29a5,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>modo história.
+Arcade,MainMenu/Story/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,Notification/StoryUnlock/Message,030046df9f,"Isso vai desbloquear todas as músicas da história, que contêm spoilers.
+Tem certeza que quer fazer isso?"
+Arcade,Notification/StoryUnlock/Title,dc3fd488f0,Atenção!
+Arcade,Options/ScrollSpeed,c700092724,Velocidade de Rolagem
+Arcade,Options/Tabs/Audio,0993e3a564,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>áudio.
+Arcade,Options/Tabs/Audio/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,Options/Tabs/Gameplay,34c71ea886,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>jogabilidade.
+Arcade,Options/Tabs/Gameplay/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,Options/Tabs/Gameplay/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,Options/Tabs/Graphics,276893eb83,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>gráficos.
+Arcade,Options/Tabs/Graphics/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,Options/Tabs/Graphics/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,Options/Tabs/Interface,e482741b76,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>interface.
+Arcade,Options/Tabs/Interface/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,Options/Tabs/Keybinds,e87cc08788,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>controles.
+Arcade,Options/Tabs/Keybinds/Subtitle,480deba482,<mspace=11>><mspace=14> <mspace=15>encontre sua voz.
+Arcade,OptionsCorner/Main/Options,93da65a9fd,opções
+Arcade,OptionsCorner/Main/Volumes,210ab9e731,volume
+Arcade,OptionsCorner/Return,e70c4df10e,voltar
+Arcade,OptionsCorner/Volume/Effects,63d8824ee2,<cspace=0.05em>efeitos
+Arcade,OptionsCorner/Volume/Master,c5cb2a4505,<cspace=0.05em>geral
+Arcade,OptionsCorner/Volume/Music,2ec9730f6a,<cspace=0.05em>música
+Arcade,ProfileView/RatingPanelTitle,1f7702cb88,<cspace=0.2em>> quadro_de_classificação.
+Arcade,ProfileView/StatPanelTitle,aac2422581,<cspace=0.2em>> informações_detalhadas.
+Arcade,ResultScreen/Accuracy,15be3c3974,<cspace=0.19em>precisão.
+Arcade,ResultScreen/AccuracyDetails,8b5abb61d8,<cspace=0.19em>{early} adiantadas. {late} atrasadas. atraso médio de {delay} ms.
+Arcade,ResultScreen/MaxCombo,185b4366e4,<cspace=0.19em>combo máximo.
+Arcade,ResultScreen/Notes/Barely,c4526aff1e,<cspace=0.19em>quase.
+Arcade,ResultScreen/Notes/Critical,07ce945ba0,<cspace=0.19em>crítico.
+Arcade,ResultScreen/Notes/Good,35411249b5,<cspace=0.19em>bom.
+Arcade,ResultScreen/Notes/Great,c072af28eb,<cspace=0.19em>ótimo.
+Arcade,ResultScreen/Notes/Miss,ce78d4e1af,<cspace=0.19em>errou.
+Arcade,ResultScreen/Notes/Okay,84f97ef185,<cspace=0.19em>ok.
+Arcade,ResultScreen/Notes/Perfect,4ca3f390cd,<cspace=0.19em>perfeito.
+Arcade,ResultScreen/Retry,7094e4dd9c,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>de novo.
+Arcade,ResultScreen/Retry/Subtitle,d9ba537ab0,<mspace=11>> </mspace><cspace=0.2em>ainda não acabou.
+Arcade,ResultScreen/Return,317bd2d85d,<mspace=11>//<mspace=17> </mspace><cspace=0.35em>voltar.
+Arcade,ResultScreen/Return/Subtitle,c9ed223b0e,<mspace=11>> </mspace><cspace=0.2em>bora seguir.
+Arcade,SongSelect/ChangeFilters,80fd6aa7e4,<cspace=0.15em>editar filtros.
+Arcade,SongSelect/DecreaseDifficulty,2afd21765a,<cspace=0.15em>diminuir dificuldade.
+Arcade,SongSelect/Dificulty/Play,8904795331,<mspace=11>><mspace=14> <mspace=15>jogar.
+Arcade,SongSelect/Filters/Category,588c746015,<cspace=0.15em>Categoria.
+Arcade,SongSelect/Filters/Difficulty,c3c625298e,<cspace=0.15em>Dificuldade
+Arcade,SongSelect/Filters/Sorting,0633a3cef9,<cspace=0.15em>Ordenar por.
+Arcade,SongSelect/Filters/Sorting/Default,2860af5805,<cspace=0.15em>Padrão.
+Arcade,SongSelect/Filters/Sorting/Grade,1f84b8c5cf,<cspace=0.15em>Rank.
+Arcade,SongSelect/Filters/Sorting/Level,f40de5a3da,<cspace=0.15em>Nível.
+Arcade,SongSelect/Filters/Sorting/Name,477400e46e,<cspace=0.15em>Nome.
+Arcade,SongSelect/IncreaseDifficulty,c1685b9585,<cspace=0.15em>aumentar dificuldade.
+Arcade,SongSelect/Item/Cleared,b2342d9a65,<cspace=0.11em>completada.
+Arcade,SongSelect/Item/FullCombo,27347f528b,<cspace=0.11em>full combo.
+Arcade,SongSelect/Item/PerfectCombo,2aa9bac042,<cspace=0.11em>combo perfeito.
+Arcade,SongSelect/Item/Rank,38334b5544,<cspace=0.11em>rank {0}.
+Arcade,SongSelect/Metadata,ea101a97a1,"<cspace=0.20em>artista:
+{artist}.
+
+chart por:
+{charter}.
+
+info da música:
+{duration}.
+{bpm} bpm."
+Arcade,SongSelect/MetadataSelected,75effd6063,"<cspace=0.16em><b>info da música:</b> {duration}. {bpm} bpm.
+
+<b>artista:</b> {artist}.
+
+<b>chart por:</b> {charter}."
+Arcade,Stat/Name/combinedHighScore,5bb2e9df88,Recorde Combinado
+Arcade,Stat/Name/completedChalenges,55921f7653,Desafios Completos
+Arcade,Stat/Name/copsDefeated,a3579669cd,Policiais Derrotados
+Arcade,Stat/Name/deaths,c790d70a19,Mortes
+Arcade,Stat/Name/gameOpened,6eb0916ca0,Vezes que Abriu o Jogo
+Arcade,Stat/Name/highestDifficultyCleared,78bda49268,Maior Dificuldade Completada
+Arcade,Stat/Name/missedNotes,fa1893b2ea,Notas Erradas
+Arcade,Stat/Name/notesBarely,7170c4fb92,Notas no Quase
+Arcade,Stat/Name/notesCritical,67b49f3ff6,Notas Críticas
+Arcade,Stat/Name/notesGood,59dcade081,Notas Boas
+Arcade,Stat/Name/notesGreat,69bbefab8c,Notas Ótimas
+Arcade,Stat/Name/notesOk,b8b146b563,Notas Ok
+Arcade,Stat/Name/notesPerfect,269ab469d8,Notas Perfeitas
+Arcade,Stat/Name/offsetChanged,d2e4d31c94,Offset Alterado
+Arcade,Stat/Name/restarts,cfafa58578,Reinícios
+Arcade,Stat/Name/songsPlayed,851b33680b,Músicas Jogadas
+Arcade,Stat/Name/spikeDodged,bb40c298aa,Espinhos Desviados
+Arcade,Stat/Name/spikeHits,a7788db2b5,Espinhos Acertados
+Arcade,Stat/Name/totalPlaytime,3e4746e5cb,Tempo Total de Jogo
+Arcade,Stat/Name/totalScore,7470dc9f2f,Pontuação Total
+Arcade,Stat/Name/whacktownAttempts,33716ca62c,Tentativas na Tacolândia
+Arcade,Title/Copyright,34514d965f,<cspace=0.25em>©2025 d-cell games / Playstack. todos os direitos reservados.
+Arcade,Title/PressAnyKey,076e5b0d83,<mspace=20>// </mspace><cspace=0.10em>aperte qualquer tecla.
+Arcade,UserLeaderboard/Filters/Region,9eed8d6b43,país.
+Arcade,UserLeaderboard/Filters/Sorting,592754dfbe,ordenar por.
+Arcade,UserLeaderboard/RegionMode/Global,42a256da2d,global.
+Arcade,UserLeaderboard/RegionMode/Local,03adcc627e,local.
+Environment,DEV_LocalizationTest/InfoCenter/Text (TMP),ec9d1ed583,VIsite ou
+Interface,BeNiceToUs/BeNice,dfa4a15240,"<size=125%>Valeu por jogar nossa demo! 
+
+<size=100%>Este jogo ainda está em desenvolvimento: pode ter problemas... pode ter bugs... e, claro, tudo pode mudar! 
+
+Estamos ralando pra deixar a versão final o mais polida e divertida possível. Muito obrigado pela paciência! "
+Interface,BootUp/Prompt,857a8de19c,"<size=20%>APERTE <c>Interact</c>
+</size>"
+Interface,BootUp/Prompt 1,857a8de19c,"<size=20%>APERTE <c>Interact</c>
+</size>"
+Interface,Brickout Game/Brickout Game/Canvas/Text - Broke Out/Game Over Text 1/Text (TMP) (1),3620a21b92,VOCÊ<br>FUGIU
+Interface,Brickout Game/Brickout Game/Canvas/Text - Game Over/Game Over Text 2/Text (TMP) (1),bc6822a84a,GAME OVER
+Interface,Brickout Game/Brickout Game/Canvas/Text - Start,d7700f0f93,COMEÇAR
+Interface,C0_Moped_Escape_V2/TutorialDodge,d2663a4e70,Aperte <c>Interact</c> para desviar!
+Interface,C0_Moped_Escape_V2/TutorialKickBack,cb4f8b7b09,Aperte <c>Interact</c> para Chutar de Volta!
+Interface,C0_RestBackyard/JUMP TUTORIAL,7a34e2be11,"APERTE <c>Jump</c>
+PARA PULAR A CERCA."
+Interface,C1_PrisonFactory/---  DYNAMIC OBJECTS/Day1Setup/Day1DampenerApprovalMinigame/NewArt/Workstation/PC Screen/StableScreen/Stability (1),32987cdf8a,ESTÁVEL
+Interface,C1_PrisonFactory/---  DYNAMIC OBJECTS/Day1Setup/Day1DampenerApprovalMinigame/NewArt/Workstation/PC Screen/StableScreen/Stability (2),32987cdf8a,ESTÁVEL
+Interface,C1_PrisonFactory/---  DYNAMIC OBJECTS/Day1Setup/Day1DampenerApprovalMinigame/NewArt/Workstation/PC Screen/Unstable Screen/Stability (1),a6389c69fe,instável
+Interface,C1_PrisonFactory/---  DYNAMIC OBJECTS/Day1Setup/Day1DampenerApprovalMinigame/NewArt/Workstation/PC Screen/Unstable Screen/Stability (2),a6389c69fe,instável
+Interface,C1_PrisonFactory/---  DYNAMIC OBJECTS/Day1Setup/Day1DampenerApprovalMinigame/NewArt/Workstation/PC Screen/Unstable Screen/Stability (3),a6389c69fe,instável
+Interface,C1_PrisonFactory/---  DYNAMIC OBJECTS/Day3Setup/Day1DampenerApprovalMinigame/NewArt/Workstation/PC Screen/SecretTensionScreen/TopText,0488c408fc,"<c>Vertical</c> :  +++
+<c>Horizontal</c> :  +++"
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Approve,ed36b4a24e,APROVAR
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Assembly,0888a24d2b,MONTAGEM
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/BeatUpScreen/React2/overide,f8902f9dc9,FORÇAR
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/BeatUpScreen/overide/LIMIT,3d49b5cb41,LIMITE
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Build Check/Stability,f895bed304,montagem:
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Deny,264ecc6e65,NEGAR
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Selection Screen/Selection Text,ed36b4a24e,APROVAR
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Selection Screen/Text,0752810925,"Seleção
+
+
+
+<size=50%><c>Vertical|+</c>/<c>Horizontal|-</c>/<c>Vertical|-</c>/<c>Horizontal|+</c> 
+para navegar."
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Stability,0bd879a713,ESTABILIDADE
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Stability Screen/Stability,7b2970d487,Estabilidade
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Stability Screen/Stability (1),ed15e18d9b,segure <c>Top</c> 
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Stability Screen/Stability (2),fbe98cddab,To TEst
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/StableScreen/Stability,32987cdf8a,ESTÁVEL
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Tension,4d12ad5420,TENSÃO
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Tightening Screen/Stability (1),988cbcf59a,"AJUSTANDO TENSÃO
+APERTE <c>Interact</c> PARA
+VOLTAR"
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Tightening Screen/TopText,34972ba200,"<c>Vertical</c> :  +++
+<c>Horizontal</c> :  ---
+Ajuste a Tensão para Cinco."
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/PC Screen/Unstable Screen/Stability,a6389c69fe,instável
+Interface,C1_PrisonFactory/DampenerApprovalMinigame/Workstation/PC Screen/BeatUpScreen/Beat1/Stability (1),830d744aeb,"Alterne PARA
+Ajustar a Tensão"
+Interface,C1_PrisonFactory/DampenerApprovalMinigamePC Screen/BeatUpScreen/Beat1/TopText,cf838a91c5,"<c>Vertical</c> :  +++
+<c>Horizontal</c> :  ---"
+Interface,C1_PrisonFactory/Day1DampenerApprovalMinigame/PC Screen/Build Check/Stability (1),1c09eb09ae,"As coisas
+<i><u>não</u></i>
+devem
+ cair."
+Interface,C1_PrisonFactory/Day1DampenerApprovalMinigame/PC Screen/Build Check/Stability (2),c0dedfec61,"valeu
+mesmo"
+Interface,C1_PrisonFactory/Day1DampenerApprovalMinigame/PC Screen/Build Check/Stability (3),8dbafe93d5,"aperte <c>Interact</c>
+para fechar o
+abafador"
+Interface,C1_PrisonFactory/TutorialCanvas/Button Group/Zoom and Roll/L2/Text,47f6b80798,"Aperte <c>Jump</c>
+para ver o Terminal de Trabalho"
+Interface,C1_Prison_Grind_Test/Canvas Hop/Text (TMP),12cc4825c9,Aperte  <c>Low</c> Para Trocar de Trilho!
+Interface,C1_Prison_Grind_Test/Canvas Jump/Text (TMP),9b19cd6bfe,Aperte  <c>Top</c> Para Pular!
+Interface,C2_MainMenu/Main Menu/ChapterSelect/Container/Chapter 1/ConfirmationText,7987e87878,VOLTAR PARA O EPISÓDIO UM?
+Interface,C2_MainMenu/Main Menu/ChapterSelect/Container/Chapter 2/ConfirmationText,9639f10e88,"VOLTAR PARA O EPISÓDIO DOIS?
+"
+Interface,C2_MainMenu/Main Menu/ChapterSelect/Container/Chapter 3/ConfirmationText,53233e26fb,"VOLTAR PARA O EPISÓDIO TRÊS?
+"
+Interface,C2_MainMenu/Main Menu/ChapterSelect/Container/Chapter 4/ConfirmationText,a0c88add1b,VOLTAR PARA O EPISÓDIO QUATRO?
+Interface,C2_MainMenu/Main Menu/ChapterSelect/Container/Chapter 5/ConfirmationText,2dfcb7b23e,"VOLTAR PARA O EPISÓDIO CINCO?
+"
+Interface,C2_MainMenu/Main Menu/ChapterSelect/Container/Chapter 6/ConfirmationText,e50da61196,"REVER O FILME?
+"
+Interface,C2_MainMenu/Main Menu/ChapterSelect/Container/Return,e70c4df10e,voltar
+Interface,C2_MainMenu/Main Menu/ChapterSelect/Select,e062622261,Selecionar
+Interface,C2_MainMenu/Main Menu/ChapterSelect/SelectSetpiece,e90258095c,CENÁRIO
+Interface,C2_MainMenu/Main Menu/KeybindMenu/Text (TMP) (4),2981e8499f,RITMO
+Interface,C2_MainMenu/Main Menu/KeybindMenu/Text (TMP) (5),94e94133f4,PADRÃO
+Interface,C2_MainMenu/Main Menu/KeybindMenu/Text (TMP) (6),12a2f9c740,NAVEGAR: <c>Vertical|+</c>/<c>Horizontal|-</c>/<c>Vertical|-</c>/<c>Horizontal|+</c>   SELECIONAR: <c>Interact</c>   CANCELAR: <c>Cancel</c>
+Interface,C2_MainMenu/Main Menu/MainMenu/QuitLayer/AreYouSure,43598d38ba,TEM CERTEZA QUE QUER SAIR?
+Interface,C2_MainMenu/Main Menu/MainMenu/QuitLayer/No,c2f3f489a0,NÃO
+Interface,C2_MainMenu/Main Menu/MainMenu/QuitLayer/Yes,7469a28625,SIM
+Interface,C2_MainMenu/Main Menu/MainMenu/TitleParent/Controls,60fa4ceb6e,"NAVEGAÇÃO: <c>Vertical|+</c>/<c>Horizontal|-</c>/<c>Vertical|-</c>/<c>Horizontal|+</c>
+CONFIRMAR: <c>Interact</c>
+VOLTAR: <c>Back</c>
+
+"
+Interface,C2_MainMenu/Main Menu/MainMenu/TopLayer/Arcade,7f912312e8,<size=85%>ARCADE</size>
+Interface,C2_MainMenu/Main Menu/MainMenu/TopLayer/Options,164dd62adb,OPÇÕES
+Interface,C2_MainMenu/Main Menu/MainMenu/TopLayer/Quit,5dfd352dd6,SAIR
+Interface,C2_MainMenu/Main Menu/MainMenu/TopLayer/Story,460a15550e,<size=85%>HISTÓRIA</size>
+Interface,C2_MainMenu/Main Menu/OptionsMenu/ControlsButton,e56516ff34,CONTROLES
+Interface,C2_MainMenu/Main Menu/OptionsMenu/NextStopTitle,15a5c589f4,"<size=70%>PRÓXIMA PARADA:</size>
+MENU DE
+OPÇÕES"
+Interface,C2_MainMenu/Main Menu/OptionsMenu/NextStopTitle (1),15a5c589f4,"<size=70%>PRÓXIMA PARADA:</size>
+MENU DE
+OPÇÕES"
+Interface,C2_MainMenu/Main Menu/OptionsMenu/OffsetWizardButton,17b67f2719,ASSISTENTE DE OFFSET
+Interface,C2_MainMenu/Main Menu/OptionsMenu/RESET PROGRESS WARNING,cd6e8d613b,"ISSO VAI APAGAR SEU SAVE DA HISTÓRIA!<size=40%>
+
+<size=80%>APERTE <c>Interact</c> DE NOVO PARA CONFIRMAR
+<size=80%>APERTE <c>Back</c> PARA CANCELAR"
+Interface,C2_MainMenu/Main Menu/OptionsMenu/ResetProgressButton,eab73b5fd5,APAGAR PROGRESSO
+Interface,C2_MainMenu/Main Menu/OptionsMenu/ReturnTitle,56126906f7,"<c>Back</c> PARA
+VOLTAR"
+Interface,C2_MainMenu/Main Menu/OptionsMenu/ReturnTitle (1),56126906f7,"<c>Back</c> PARA
+VOLTAR"
+Interface,C2_MainMenu/Main Menu/OptionsMenu/Tabs/Accessibility/OptionTItle,e0e4fc6213,Acessibilidade
+Interface,C2_MainMenu/Main Menu/OptionsMenu/Tabs/Audio/OptionTItle,e423b8bde9,ÁUDIO
+Interface,C2_MainMenu/Main Menu/OptionsMenu/Tabs/Display/OptionTItle,c97ad854bf,TELA
+Interface,C2_MainMenu/Main Menu/OptionsMenu/Tabs/Gameplay/OptionTItle,056e68b506,JOGABILIDADE
+Interface,C2_MainMenu/Main Menu/OptionsMenu/ToggleOFF,88559a0cfd,DESL.
+Interface,C2_MainMenu/Main Menu/OptionsMenu/ToggleON,90651ebea9,LIG.
+Interface,C2_MainMenu/Main Menu/Slots/StorySlotPoster1/TopLayer/Main/SlotName/Slot Name,0548833a15,SLOT 1
+Interface,C2_MainMenu/Main Menu/Slots/StorySlotPoster2/TopLayer/Main/SlotName/Slot Name,0f8520b1d6,SLOT 2
+Interface,C2_MainMenu/Main Menu/Slots/StorySlotPoster3/TopLayer/Main/SlotName/Slot Name,6af296d915,SLOT 3
+Interface,C2_MainMenu/Main Menu/StoryDifficultyMenu/TopLayer/StartButton,b078ffd28d,INICIAR
+Interface,C2_MainMenu/Main Menu/StoryDifficultyMenu/TopLayer/StoryDifficultySetting,bb29b8d0d1,INICIANTE
+Interface,C2_MainMenu/Main Menu/StoryDifficultyMenu/TopLayer/StoryDifficultySetting 1,1e23852820,NORMAL
+Interface,C2_MainMenu/Main Menu/StoryDifficultyMenu/TopLayer/StoryDifficultySetting 2,7c144eae2e,DIFÍCIL
+Interface,C2_MainMenu/Main Menu/StoryDifficultyMenu/TopLayer/StoryDifficultySetting 3,b75532299f,EXPERT
+Interface,C2_MainMenu/Main Menu/StoryDifficultyMenu/TopLayer/StoryDifficultySetting 4,58038e736a,UNBEATABLE
+Interface,C2_PosterCraft/BG Stuff/Hideout/TablepaperShack/StickerInstructions,37765e5c5d,"<u>Mover Adesivo</u>
+<c>Vertical|+</c>/<c>Horizontal|-</c>/<c>Vertical|-</c>/<c>Horizontal|+</c>
+
+<u>Girar Adesivo</u>
+<c>Interact Left2</c>/<c>Interact Right2</c>
+
+<u>Redimensionar</u>
+<c>Interact Left</c>/<c>Interact Right</c>"
+Interface,C2_PosterCraft/Poster Maker 1000 (3D Canvas)/PosterMakerUIContainer/Panel Elements/Add New Sticker Button/Add New Sticker Text,b90e0c5333,novo adesivo
+Interface,C2_PosterCraft/Poster Maker 1000 (3D Canvas)/PosterMakerUIContainer/Panel Elements/BorderButton,ab279ad24b,BORDA
+Interface,C2_PosterCraft/Poster Maker 1000 (3D Canvas)/PosterMakerUIContainer/Panel Elements/OverlayButton,0395ef37aa,SOBREPOR
+Interface,C2_PosterCraft/Poster Maker 1000 (3D Canvas)/PosterMakerUIContainer/Panel Elements/Save It Button/Trash It Icon,e73b26e82a,FINALIZAR
+Interface,C2_PosterCraft/Poster Maker 1000 (3D Canvas)/PosterMakerUIContainer/Panel Elements/Throw Away Button/Trash It Icon,30639096bf,lixo
+Interface,C2_PosterCraft/Poster Maker 1000 (3D Canvas)/PosterMakerUIContainer/PanelSelectedTop/Image (1)/Select Options Text,d370dfcbb2,OPÇÕES
+Interface,C2_PosterCraft/Poster Maker 1000 (3D Canvas)/PosterMakerUIContainer/PanelSelectedTop/Image/New Sticker Text,1ad4565b8d,NOVO ADESIVO
+Interface,C2_Setpiece/CellphoneAndIntro/ShackConspiracyBoard/shackstuffIDK/ONEWEEKLATER,ae90e72137,SEMANA...
+Interface,C2_Setpiece/CellphoneAndIntro/ShackConspiracyBoard/shackstuffIDK/ONEWEEKLATER (1),4cb54d8a83,UM...
+Interface,C2_Setpiece/CellphoneAndIntro/ShackConspiracyBoard/shackstuffIDK/ONEWEEKLATER (2),89855f025c,DEPOIS.
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/Correct/BackToWork,b9ca492d56,"Volte ao trabalho
+ imediatamente."
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/Correct/Congratulation,7dd2ba9fd8,PARABÉNS:
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/Correct/SequenceAccepted,8fed0f8272,SEQUÊNCIA ACEITA
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/HomePanel/DEL SELECT,2bbe23c0e8,APAGAR
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/HomePanel/LEFT SELECT,684d325a73,ESQUERDA
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/HomePanel/RIGHT SELECT,21507b40c8,DIREITA
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/HomePanel/Sequence Label,53d655f0f5,SEQUÊNCIA:
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/HomePanel/Submit,82b1fbd43a,ENVIAR
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/HomePanel/Terminal Header,e235316092,CONTROLE MANUAL DA COMPORTA
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/Incorrect/ErrrorBG,cb5e100e5a,erro
+Interface,C2_Sewer/INTERACTABLES/SluiceControlMinigame/Incorrect/InvalidSequence,152e4a5a18,SEQUÊNCIA INVÁLIDA
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (1)/Movable Offset/Notes (1)/Sticky Note BG/Text Note (1),ed39e142cd,<cspace=1.25>é azedo!
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (1)/Movable Offset/Notes (1)/Sticky Note BG/Text Note (2),7e0d7cdb1e,<cspace=1.25>mas também doce?
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (1)/Movable Offset/Notes (1)/Sticky Note BG/Text Note (3),6ef8f35c71,<cspace=1.25>é fruta. sacou.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (2)/Movable Offset/Notes (2)/Sticky Note BG/Text Note (1),aef856fcdb,<cspace=1.25>açúcar puro.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (2)/Movable Offset/Notes (2)/Sticky Note BG/Text Note (2),7e3bf1e2c4,<cspace=1.25>água menos pura.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (2)/Movable Offset/Notes (2)/Sticky Note BG/Text Note (3),84a9acfdf4,<cspace=1.25>basicamente é isso.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (3)/Movable Offset/Notes (3)/Sticky Note BG/Text Note (1),5c4a0e644c,<cspace=1.25>só álcool.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (3)/Movable Offset/Notes (3)/Sticky Note BG/Text Note (2),3cfffe310a,"<cspace=1.25>não tem gosto
+de nada."
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (3)/Movable Offset/Notes (3)/Sticky Note BG/Text Note (3),72bb63aa05,<cspace=1.25>tirando o álcool.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (4)/Movable Offset/Notes (4)/Sticky Note BG/Text Note (1),a05f670ea2,<cspace=1.25>curtido na madeira.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (4)/Movable Offset/Notes (4)/Sticky Note BG/Text Note (2),53491eaffd,"<cspace=1.25>cigarro e
+álcool."
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (4)/Movable Offset/Notes (4)/Sticky Note BG/Text Note (3),17555a98eb,"<cspace=1.25>mais velho que
+a terra."
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (5)/Movable Offset/Notes (5)/Sticky Note BG/Text Note (1),0e19b1b0fb,<cspace=1.25>adivinha.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (5)/Movable Offset/Notes (5)/Sticky Note BG/Text Note (2),92d76a8aca,"<cspace=1.25>equilibra
+a doçura."
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (5)/Movable Offset/Notes (5)/Sticky Note BG/Text Note (3),efb9bc57c9,<cspace=1.25>floral e medicinal.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (6)/Movable Offset/Notes (6)/Sticky Note BG/Text Note (1),0cf1cdfff1,"<cspace=1.25>você sabe o que
+é gelo."
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (6)/Movable Offset/Notes (6)/Sticky Note BG/Text Note (2),52d5443f16,<cspace=1.25>espero.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Drink Frame/Drinks/Drink Object (6)/Movable Offset/Notes (6)/Sticky Note BG/Text Note (3),209e1babbb,<cspace=1.25>gelado e refrescante. gelo.
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Lower Frame/Mix and Serve/Drink Container/Text - Label,49db5b1f3c,CONTÉM:
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Lower Frame/QUIT YOU FUCKING QUITTER/Text - Label,5dfd352dd6,SAIR
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Quit Object/QUIT CANCEL/Text - Label,bce173b41e,NÃO
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Quit Object/QUIT CONFIRM BITCH/Text - Label,2974398b87,É
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Quit Object/QUIT CONFIRM BITCH/Text - Label (1),2974398b87,É
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Quit Object/Text - Label (1),da6307fcdc,TEM CERTEZA?
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Text (TMP) - Quota Label,a0ad2987c0,COTA:
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Upper Frame/Text (TMP) - Hintstruction,61f05d069d,APERTE <color=#FF4880>[<c>Vertical</c>]</color> PARA UMA DICA
+Interface,C3_Bartending_Gameplay/Bartending Canvas/Upper Frame/Text (TMP) - Mix Mode,71e67e39b1,MODO MISTURA
+Interface,C3_Bartending_Gameplay/Bartending/Bitters,0c55e14b67,BITTERS
+Interface,C3_Bartending_Gameplay/Bartending/Demerara,77b1200566,DEMERARA
+Interface,C3_Bartending_Gameplay/Bartending/EmptyShaker,f3e0cd7678,ESVAZIAR COQUETELEIRA
+Interface,C3_Bartending_Gameplay/Bartending/Ice,22fb77eba9,GELO
+Interface,C3_Bartending_Gameplay/Bartending/Listen,c1f9314a03,OUVIR
+Interface,C3_Bartending_Gameplay/Bartending/MixAndServe,a126ea5136,MISTURAR E SERVIR
+Interface,C3_Bartending_Gameplay/Bartending/NOTHING,8697250efc,NADA
+Interface,C3_Bartending_Gameplay/Bartending/New,24d459a814,NOVO
+Interface,C3_Bartending_Gameplay/Bartending/Nostalgia,430d6fd7f9,NOSTALGIA
+Interface,C3_Bartending_Gameplay/Bartending/Repeat,5be68175be,REPETIR
+Interface,C3_Bartending_Gameplay/Bartending/Sour,3fb64121a5,AZEDO
+Interface,C3_Bartending_Gameplay/Bartending/TastingNotes,d821cf0c57,<cspace=1.25>notas de prova:
+Interface,C3_HARM_HQ_Graveyard/Main Camera/TextMesh_PunchACop,994b3bcb2d,"APERTE <c>Low</c> PARA SOCAR EMBAIXO
+"
+Interface,ClefBrawlTutorialHigh,e73f6d7697,APERTE [TOP] PARA ESCOLHER A VIOLÊNCIA
+Interface,ClefBrawlTutorialLow,69ce7a9379,APERTE [LOW] PARA CHUTAR A CANELA DELA
+Interface,ClefBrawlTutorialSpam,9104216eb4,MARTELE [TOP] OU [LOW] PARA APAGAR ELA
+Interface,DEV_LocalizationTest/Test_StaticStringReplace,7b1efb4737,"ISTO É TEXTO DE MENU
+
+APERTE <c>Interact</c>!"
+Interface,EpisodeSelectNo,c2f3f489a0,NÃO
+Interface,EpisodeSelectYes,7469a28625,SIM
+Interface,Installer/StoryDifficultySettingDesc_0,cc9c45bd3d,é o que parece. Não há vergonha em começar. É o único jeito de algo acontecer.
+Interface,Installer/StoryDifficultySettingDesc_1,5c284bbae7,"é mais fácil que a nossa normal, chamada ""Difícil"", e mais difícil que a nossa fácil, chamada ""Iniciante""."
+Interface,Installer/StoryDifficultySettingDesc_2,b4909da79f,"é a nossa dificuldade base. Outro jogo diria ""experiência pretendida"". Pra gente, é dar toda a atenção ao jogo até os créditos. A ""experiência ideal"" é jogar tudo de uma vez na noite de réveillon e terminar umas horas depois da meia-noite."
+Interface,Installer/StoryDifficultySettingDesc_3,d907272e7b,"é a nossa ""Difícil"". É nela que eu jogo."
+Interface,Installer/StoryDifficultySettingDesc_4,2ff731045f,"é pros viciados em ritmo. Parece, mas o nome não é bem verdade."
+Interface,Installer/StrobingReduction,9bfd0728d5,Menos flashes?
+Interface,JumpropeMinigameCount,4905ac9d6a,CONTA
+Interface,JumpropeMinigameCrissCross,a5aa9f4f1a,CRUZA-CRUZA!
+Interface,JumpropeMinigameCross,04dd53a8e6,CRUZA
+Interface,JumpropeMinigameDoubleCount,846ea68dce,CONTAx2!
+Interface,JumpropeMinigameJump,40222410c7,PULAR
+Interface,Main Camera/Main Camera/IgnoreNudge/GenericSkippable/Skip (1),441addadef,"<c>Cancel</c>
+PARA PULAR"
+Interface,OffsetWizard/RhythmCanvas/UiParent/Text (TMP),db7cc919d4,"ACERTE OS INIMIGOS
+QUANDO TOCAREM OS CÍRCULOS
+<size=66%>(OLHOS, NÃO OUVIDOS!)"
+Interface,OffsetWizardResults/Canvas/No,ed136fb0cc,Aperte <c>Interact</c> para Voltar
+Interface,OffsetWizardResults/Canvas/RecommendedOffset,cf74973ca0,OFFSET RECOMENDADO:
+Interface,OffsetWizardResults/Canvas/RecommendedOffset (1),1f9cd271f8,"AJUSTE FINO COM <c>Horizontal|-</c>/<c>Horizontal|+</c>
+AJUSTE GROSSO COM <c>Interact Left</c>/<c>Interact Right</c>"
+Interface,OffsetWizardResults/Canvas/SetOffset,f0e1b05022,DEFINIR OFFSET:
+Interface,PauseMenu/Options,164dd62adb,OPÇÕES
+Interface,PauseMenu/Quit,5dfd352dd6,SAIR
+Interface,PauseMenu/QuitMenu/No,e6662662a3,Nem
+Interface,PauseMenu/QuitMenu/Title,da6307fcdc,TEM CERTEZA?
+Interface,PauseMenu/QuitMenu/Yes,00dfe5e910,Aham
+Interface,PauseMenu/Restart,1104c54a9e,RECOMEÇAR
+Interface,PauseMenu/Resume,bac2aec3ee,CONTINUAR
+Interface,Prisonball Polished/Prisonball Polished/PrisonBall Canvas/Lower Frame/Mix and Serve/Text - Label,c9c9c146c6,FORÇA
+Interface,Prisonball Polished/Prisonball Polished/PrisonBall Canvas/Lower Frame/QUIT YOU FUCKING QUITTER/Text - Label,77da7f669a,<color=#FF4880>[<c>Back</c>]</color> SAIR
+Interface,Prisonball Polished/Prisonball Polished/PrisonBall Canvas/Out Object/Text - Label (1),57be1ea8ab,FORA!
+Interface,Prisonball Polished/Prisonball Polished/PrisonBall Canvas/Upper Frame/Text (TMP) - Hintstruction,2268ea0aca,CARREGUE <color=#FF4880>[<c>Interact</c>]</color> PARA ATIRAR
+Interface,Prisonball Polished/Prisonball Polished/PrisonBall Canvas/Upper Frame/Text (TMP) - Quota Label,3d0261762b,BOLAS:
+Interface,QuestJournalCanvas/QuestJournalCanvas/ButtonPrompt,6b2b5614a2,Diário
+Interface,QuestJournalCanvas/QuestJournalCanvas/MENU/Item Notification/Confirm,2da0f4c888,Confirmar (<c>Interact</c>)
+Interface,QuestJournalCanvas/QuestJournalCanvas/MENU/Notification/Confirm,2da0f4c888,Confirmar (<c>Interact</c>)
+Interface,QuestJournalCanvas/QuestJournalCanvas/MENU/Tab Label 1/Text (TMP),ad11572ac8,NOTAS
+Interface,QuestJournalCanvas/QuestJournalCanvas/MENU/Tab Label 2/Text (TMP),29da70cdd2,"MÚSICAS<size=60%>
+(bloqueado)</size>"
+Interface,QuestJournalCanvas/QuestJournalCanvas/MENU/Tab Label 3/Text (TMP),9a932d5519,ITENS
+Interface,QuestJournalCanvas/QuestJournalCanvas/TimeDisplay,2a6425d809,MANHÃ
+Interface,QuestJournalCanvas/QuestJournalCanvas/TimeDisplay 1,768b122eb7,MEIO-DIA
+Interface,QuestJournalCanvas/QuestJournalCanvas/TimeDisplay 2,9b719f1fb1,TARDE
+Interface,QuestJournalCanvas/QuestJournalCanvas/TimeDisplay 3,55dc6e1fa7,PÔR DO SOL
+Interface,QuestJournalCanvas/QuestJournalCanvas/TimeDisplay 4,5129cd836d,NOITINHA
+Interface,QuestJournalCanvas/QuestJournalCanvas/TimeDisplay 5,e9762e7cfd,MADRUGADA
+Interface,QuestJournalCanvas/QuestJournalCanvas/ZoomPrompt,66f276916d,ZOOM
+Interface,RhythmUI/UiParentCanvas/UiParent/GameOver/GiveUp/Text (TMP) (2),641ad20a37,"SEGURE <c>Interact</c> PARA DESISTIR.
+"
+Interface,RhythmUI/UiParentCanvas/UiParent/GameOver/Retry/Text (TMP) (2),5912a2cb96,"APERTE <c>Interact</c> PARA TENTAR DE NOVO.
+"
+Interface,StorySlotPoster/Prefab Mode in Context/StorySlotPoster/TopLayer/Main/StartButton (2),164dd62adb,OPÇÕES
+Interface,StorySlotPoster/Prefab Mode in Context/StorySlotPoster/TopLayer/Main/StartButton (3),38646f1597,"<size=85%>SELEÇÃO DE
+EPISÓDIO</size>"
+Interface,StorySlotPoster/Prefab Mode in Context/StorySlotPoster/TopLayer/Options/AssistMode/AssistLabel,0dde42bad6,MODO ASSISTIDO (AUTOPLAY)
+Interface,StorySlotPoster/Prefab Mode in Context/StorySlotPoster/TopLayer/Options/AssistMode/AssistSetting,88559a0cfd,DESL.
+Interface,StorySlotPoster/Prefab Mode in Context/StorySlotPoster/TopLayer/Options/AssistMode/AssistSetting 1,90651ebea9,LIG.
+Interface,StorySlotPoster/Prefab Mode in Context/StorySlotPoster/TopLayer/Options/Difficulty/DifficultyLabel,5753f4a226,DIFICULDADE
+Interface,StorySlotPoster/Prefab Mode in Context/StorySlotPoster/TopLayer/Options/NoteSpeed/NoteSpeedLabel,4e8cfdfed5,VELOC. DAS NOTAS
+Interface,StorySlotPoster/Prefab Mode in Context/StorySlotPoster/TopLayer/Options/OptionsLabel,164dd62adb,OPÇÕES
+Interface,Tutorial/TutorialCanvas,ffdbc5c402,TUTORIAL FALTANDO (FOI MAL)
+Interface,Tutorial/TutorialCanvas 1,6989e452fa,MARTELE [TOP] OU [LOW]
+Interface,Tutorial/TutorialCanvas 10,14a3fb1d62,"SEGURE [LOW] PARA ATACAR, DEPOIS<br>SOLTE"
+Interface,Tutorial/TutorialCanvas 11,67cb16f147,APERTE [TOP] E [LOW] PARA<br>ATACAR OS DOIS
+Interface,Tutorial/TutorialCanvas 12,914f53af32,APERTE [LOW] PARA SOCAR EMBAIXO
+Interface,Tutorial/TutorialCanvas 13,740ee41eaa,APERTE [TOP] PARA BATER EM CIMA
+Interface,Tutorial/TutorialCanvas 14,01ba52cfc8,APERTE [TOP] PARA CHUTAR A CARA DELE
+Interface,Tutorial/TutorialCanvas 15,d0e8c4aa9f,APERTE [LOW] PARA SOCAR UM POLICIAL
+Interface,Tutorial/TutorialCanvas 16,da5cf8bb3e,SEGURE [TOP] PARA BLOQUEAR
+Interface,Tutorial/TutorialCanvas 17,6598189205,SEGURE [LOW] PARA BLOQUEAR
+Interface,Tutorial/TutorialCanvas 18,3a69803548,MARTELE [TOP] OU [LOW] PARA APAGAR ELE
+Interface,Tutorial/TutorialCanvas 2,ad13208d76,APERTE [TOP] OU [LOW]
+Interface,Tutorial/TutorialCanvas 3,9e12e0f6ec,...APERTE [TOP] PARA ATACAR EM CIMA
+Interface,Tutorial/TutorialCanvas 4,4ffd81b090,APERTE [LOW] PARA ATACAR EMBAIXO
+Interface,Tutorial/TutorialCanvas 5,272035c573,...APERTE [LOW] PARA ATACAR EMBAIXO
+Interface,Tutorial/TutorialCanvas 6,fc197b03eb,APERTE [TOP] PARA ATACAR EM CIMA
+Interface,Tutorial/TutorialCanvas 7,7184a0e5bc,APERTE [TOP] PARA DESVIAR PRA CIMA
+Interface,Tutorial/TutorialCanvas 8,c1f3ded190,APERTE [LOW] PARA DESVIAR PRA BAIXO
+Interface,Tutorial/TutorialCanvas 9,7fc80100b1,"SEGURE [TOP] PARA ATACAR, DEPOIS<br>SOLTE"
+Interface,c0_Installer/BoardCanvas/Container/Controls/Button/Text (TMP),444bcb3a3f,ok
+Interface,c0_Installer/BoardCanvas/Container/SetVolume,ac8002e91e,deixe num volume bom.
+Interface,c0_Installer/BoardCanvas/StartSettings/ScreenSettings/SetResolution/Controls/Button/Text (TMP),9eaad51628,ok (<c>interact</c>)
+Interface,c0_Installer/BoardCanvas/StartSettings/ScreenSettings/SetResolution/Title,0ce5a67f58,escolha sua resolução.
+Interface,c0_Installer/BoardCanvas/StartSettings/SetDifficulty/ConfirmScreen/Controls/NoButton/Text (TMP),7fa3b767c4,não
+Interface,c0_Installer/BoardCanvas/StartSettings/SetDifficulty/ConfirmScreen/Controls/YesButton/Text (TMP),a6105c0a61,sim
+Interface,c0_Installer/BoardCanvas/StartSettings/SetDifficulty/ConfirmScreen/Title,6be8eefd16,tem certeza?
+Interface,c0_Installer/BoardCanvas/StartSettings/SetDifficulty/SelectScreen/Controls/Button/Text (TMP),444bcb3a3f,ok
+Interface,c0_Installer/BoardCanvas/StartSettings/SetDifficulty/SelectScreen/Title,56c04b2173,escolha uma dificuldade.
+Interface,c0_Installer/RenderTextureExperiment/TVCanvas/StyleChoice/DiscreteText,947436f292,DISCRETO
+Interface,c0_Installer/RenderTextureExperiment/TVCanvas/StyleChoice/LoadingText,05b0f5c775,CARREGANDO...
+Interface,c0_Installer/RenderTextureExperiment/TVCanvas/StyleChoice/fLASHYtEXT,9a8bd12ed6,VISTOSO
+Interface,c0_Installer/RenderTextureExperiment/TVCanvas/TempoTracker/Counter/MidLine (1),30db7cccd2,TOQUE <c>Interact</c> NO TEMPO
+Interface,c0_Installer/RenderTextureExperiment/TVCanvas/TempoTracker/VerifyUI/Confirm,a9b685a9e8,CONFIRMAR
+Interface,c0_Installer/RenderTextureExperiment/TVCanvas/TempoTracker/VerifyUI/Recalibrate,a59a90d8e3,RECALIBRAR
+Interface,c0_Installer/RenderTextureExperiment/TVCanvas/TempoTracker/VerifyUI/Text (TMP),d4ef38a5da,Offset estimado
+Interface,c0_Installer/RenderTextureExperiment/TVCanvas/TempoTracker/VerifyUI/Text (TMP) (1),61c76a4477,(ajuste se precisar)
+Interface,c4_Installer/RenderTextureExperiment/TVCanvas/DialogueView/LowerLine,ed18fece22,Isso não é uma história de amor.
+Notifications,"""Nice"" shot.",2a92eebeb0,"Tacada ""boa""."
+Notifications,'Nice' shot.,03f34fc1e6,Tacada boa'.
+Notifications,...,2f43b42fd8,...
+Notifications,...Baseball?,67179b5d20,...Beisebol?
+Notifications,<3,e7cbf67460,<3
+Notifications,A COUNT ABILITY ACCEPTED!,95a2129937,RESPONSA-BALIDADE ACEITA!
+Notifications,A COUNT ABILITY COMPLETE!,fd5939ad75,RESPONSA-BALIDADE COMPLETA!
+Notifications,A COUNT ABILITY UPDATED!,c8772943ca,RESPONSA-BALIDADE ATUALIZADA!
+Notifications,A Loose End.,bf2bb39b9d,Uma Ponta Solta.
+Notifications,A NIGHTMARE THAT I GOT IN MY BRAIN ACCEPTED!,85ef230f3a,UM PESADELO QUE ME ENTROU NA CABEÇA ACEITO!
+Notifications,A NIGHTMARE THAT I GOT IN MY BRAIN COMPLETE!,57cf99b464,UM PESADELO QUE ME ENTROU NA CABEÇA COMPLETO!
+Notifications,A NIGHTMARE THAT I GOT IN MY BRAIN COMPLETE...?,66ad45138f,UM PESADELO QUE ME ENTROU NA CABEÇA COMPLETO...?
+Notifications,A NIGHTMARE THAT I GOT IN MY BRAIN UPDATED!,c22419bea0,UM PESADELO QUE ME ENTROU NA CABEÇA ATUALIZADO!
+Notifications,A false start.,a70609a2e3,Uma queimada de largada.
+Notifications,A fine start.,547b67376e,Um bom começo.
+Notifications,A fresh start!,e85fb63018,Um recomeço!
+Notifications,A princess!,840fd35dbb,Uma princesa!
+Notifications,A quiet sunrise...,20094c6cb5,Um nascer do sol tranquilo...
+Notifications,Accidentally facilitated underage drinking!,6efea17b04,Sem querer facilitou bebida pra menor de idade!
+Notifications,Actually nevermind,ece4d06e5c,"Na verdade, deixa pra lá"
+Notifications,Actually that's a lie.,8a990f9e7d,"Na verdade, isso é mentira."
+Notifications,All posters post post!,987022178d,"Todos os pôsteres postados, postou!"
+Notifications,All your songs are on it. It's basically you.,3b829bde79,Todas as suas músicas estão nela. É basicamente você.
+Notifications,And there were so many good points!,93e1d45b3e,E tinha tantos argumentos bons!
+Notifications,Are you? ARE you?,0de83bb57c,Será? SERÁ MESMO?
+Notifications,At least it was free.,195b52a3fa,Pelo menos foi de graça.
+Notifications,BE NICE.,870c079015,SEJA LEGAL.
+Notifications,Bar Menu,bf3b4c410a,Cardápio do Bar
+Notifications,Bar Tab,c9c72bbf8a,Conta do Bar
+Notifications,Bark!,3fde9ec252,Au!
+Notifications,Baseball Bat,f341a069b0,Taco de Beisebol
+Notifications,Beat does this too.,55b444ee25,A Beat também faz isso.
+Notifications,Beat lost focus because she's thinking about the word 'contraband!',e4b5305940,Beat se desconcentrou pensando na palavra 'contrabando!'
+Notifications,Beat lost her train of thought!,e54a0faa03,Beat perdeu o fio da meada!
+Notifications,"Beat made a ""cool"" poster! It's very ""cool"".",d96e4fb890,"Beat fez um pôster ""maneiro""! Ele é muito ""maneiro""."
+Notifications,Beat made a 'cool' poster! It's very 'cool'.,71d2d9f9cb,Beat fez um pôster 'maneiro'! Ele é muito 'maneiro'.
+Notifications,Beat started sweating!,55e9505ec3,Beat começou a suar!
+Notifications,Beat's Poster,9fd15a72c1,Pôster da Beat
+Notifications,Because 'contra' as a prefix means 'against' as in 'contrasting!',a34c31c985,"Porque 'contra', como prefixo, quer dizer 'contra', tipo em 'contrastar'!"
+Notifications,Better times.,995a13c3aa,Tempos melhores.
+Notifications,Better times...,f6aac1e473,Tempos melhores...
+Notifications,Blueprint,c541c9ccbb,Planta
+Notifications,Brain Poison Demo,47dab526e8,Demo Veneno Cerebral
+Notifications,But this guy? All they care about is soda. Kind of weird!,fe401a6ba6,Mas esse cara? Só liga pra refrigerante. Meio esquisito!
+Notifications,But this stuff is stuff the band needs! So it's 'pro band.',873e9eef18,Mas essas coisas a banda precisa! Então é 'pró-bando.'
+Notifications,CLUNK.,6a78432bdb,CLUNC.
+Notifications,Candy,d8290f62c0,Doce
+Notifications,Cassette,75d6c016a8,Fita Cassete
+Notifications,Clef isn't very conservation conscious!,2ddb99fd8a,A Clef não liga muito pra economia!
+Notifications,Cool?,78457095b7,Maneiro?
+Notifications,Crest Keycard,830e3441d8,Cartão de Acesso do Crest
+Notifications,Crowbar,47b23e8891,Pé de Cabra
+Notifications,Damp Access Codes,eadfc03be2,Códigos de Acesso Úmidos
+Notifications,Deodorant,55fa20a0e8,Desodorante
+Notifications,Depressing!,6ec6f5dc44,Deprimente!
+Notifications,Don't Think About Why It's Damp.,e6b2574323,Não Pense Em Por Que Está Úmido.
+Notifications,EPISODE FIVE COMPLETE.,6189c4ecdc,EPISÓDIO CINCO COMPLETO.
+Notifications,EPISODE ONE COMPLETE.,568df85e4b,EPISÓDIO UM COMPLETO.
+Notifications,EPISODE THREE COMPLETE.,3fad2608cc,EPISÓDIO TRÊS COMPLETO.
+Notifications,EPISODE TWO COMPLETE.,66cb2003a0,EPISÓDIO DOIS COMPLETO.
+Notifications,Evil(?) Vacuum,6c4c309af3,Aspirador Malvado(?)
+Notifications,Flashy!,e03a7ec651,Vistoso!
+Notifications,Freedom.,691533c9f7,Liberdade.
+Notifications,Freedom?,6dfb20c2a7,Liberdade?
+Notifications,From a dampener.,f46417baca,De um abafador.
+Notifications,Funny Poster Quip!,5c3b400c62,Tirada Engraçada no Pôster!
+Notifications,Future therapy costs brought down!,86cb2815c1,Custo da terapia futura reduzido!
+Notifications,GHOST IN THE PITCHING MACHINE ACCEPTED!,8c2ed7cd02,FANTASMA NA MÁQUINA DE ARREMESSO ACEITO!
+Notifications,GHOST IN THE PITCHING MACHINE COMPLETE!,494bf245c9,FANTASMA NA MÁQUINA DE ARREMESSO COMPLETO!
+Notifications,GHOST IN THE PITCHING MACHINE UPDATED!,4a48b674c4,FANTASMA NA MÁQUINA DE ARREMESSO ATUALIZADO!
+Notifications,Gachapon,32bdff80d8,Gachapon
+Notifications,HARM Bolt,0d1700e43d,Raio DANO
+Notifications,He doesn't know you're a criminal!,ef3f98a25d,Ele não sabe que você é criminosa!
+Notifications,He started drooling.,8c5d9b4725,Ele começou a babar.
+Notifications,He's asleep!,b759066d5c,Ele dormiu!
+Notifications,Headphones,dcbedde0ce,Fones de Ouvido
+Notifications,Homeward bound.,9d2c63c10d,De volta pra casa.
+Notifications,Hotdog,03c50ae484,Cachorro-Quente
+Notifications,Huh.,ce35fde078,Hã.
+Notifications,I guess their entire personality revolves around soda!,c182dd60fe,Acho que a personalidade inteira deles gira em torno de refrigerante!
+Notifications,IS THERE AN AMATEUR TEST? COMPLETE!,c0e4ee2d7c,TEM UM TESTE PRA AMADOR? COMPLETO!
+Notifications,It IS an improvement.,eb8c00b761,"É uma melhoria, SIM."
+Notifications,It will get you far.,f38c51b8ff,Isso vai te levar longe.
+Notifications,It's Listening.,1ef2113642,Está Ouvindo.
+Notifications,It's Quaver.,b2043702b7,É a Quaver.
+Notifications,It's honestly mostly just pure sugar.,743d3ae6a0,"Sinceramente, é basicamente só açúcar puro."
+Notifications,It's honestly not that cool.,b51f227b51,"Sinceramente, nem é tão maneiro."
+Notifications,It's not like you crow something open.,48aacd1a68,Não é como se desse pra abrir alguma coisa com o pé de uma cabra.
+Notifications,It's true! Look!,b85570ba8f,É verdade! Olha!
+Notifications,It's... fine.,99d8890baf,Tá... ok.
+Notifications,Keys,a73e6bf278,Chaves
+Notifications,Legally distinct!,292600d639,Legalmente distinto!
+Notifications,Lighthouse Photo,325d631520,Foto do Farol
+Notifications,Lighthouse Photo With Quaver,58170324d7,Foto do Farol com a Quaver
+Notifications,MAYBE CHECK THAT SPOT!,ad55f7671a,TALVEZ OLHE AQUELE LUGAR!
+Notifications,Maybe a hamster could ride it.,b6dfd9582c,Talvez um hamster consiga andar nisso.
+Notifications,Maybe it isn't an improvement.,827e8b6e3f,Talvez não seja uma melhoria.
+Notifications,Medal,69d7f1d911,Medalha
+Notifications,Midsummer memories.,5890cf52e7,Memórias de alto verão.
+Notifications,Mochi,51b851270c,Mochi
+Notifications,Moonlit Flower,2b6a33066f,Flor ao Luar
+Notifications,NOTHING HAPPENS AND A VACUUM ACCEPTED!,6367849eb7,NADA ACONTECE E UM ASPIRADOR ACEITO!
+Notifications,NOTHING HAPPENS AND A VACUUM COMPLETE!,09aabcd2d6,NADA ACONTECE E UM ASPIRADOR COMPLETO!
+Notifications,New beginnings.,5b3dd6c3ac,Novos começos.
+Notifications,Nice shot!,c9dd600cf6,Boa tacada!
+Notifications,Nice.,3f0c2cd601,Boa.
+Notifications,No! It is! Look at this menu!,f5e9fb978f,Não! É sim! Olha esse cardápio!
+Notifications,"Normally, people have more things going on in their lives.",f38bf6cb13,"Normalmente, as pessoas têm mais coisa acontecendo na vida."
+Notifications,Obviously yes!,883464cc83,Óbvio que sim!
+Notifications,Odd Moonlit Flower,9c87064522,Flor ao Luar Estranha
+Notifications,Oh No! Quaver's poster is bad!,ba20b1c08d,Ah Não! O pôster da Quaver está ruim!
+Notifications,Oh no!,ed95254a70,"Ah, não!"
+Notifications,Oh this next thing they'll say is pretty bad.,754ce5db54,"Ih, essa próxima coisa que vão dizer é bem ruim."
+Notifications,One More Final Photo,01856d961b,Foto da One More Final
+Notifications,One More Final Photo With Quaver,fbbccae5f6,Foto da One More Final com a Quaver
+Notifications,Onigiri,c252e7a68b,Onigiri
+Notifications,Only the Quenchly actually gets ordered.,51bfb42e53,Só o Quenchly é pedido de verdade.
+Notifications,PAINTING ATTENTION ACCEPTED!,e419e43838,PINTANDO A ATENÇÃO ACEITO!
+Notifications,PAINTING ATTENTION COMPLETE!,0556ab40ed,PINTANDO A ATENÇÃO COMPLETO!
+Notifications,PAINTING ATTENTION UPDATED!,fb7a673ebb,PINTANDO A ATENÇÃO ATUALIZADO!
+Notifications,POSTERQUEST COMPLETE!,edbef32c9a,MISSÃO DOS PÔSTERES COMPLETA!
+Notifications,PROOF OF YOUTH COMPLETE!,27a483f572,PROVA DE JUVENTUDE COMPLETA!
+Notifications,Probably just look it up sometime.,4050e702e8,Provavelmente é só pesquisar qualquer hora.
+Notifications,Quaver's Poster,b8e08ada9e,Pôster da Quaver
+Notifications,RANK UP ACCEPTED!,5537d3f978,SUBIR DE NÍVEL ACEITO!
+Notifications,RANK UP COMPLETE!,afb7ef5f4f,SUBIR DE NÍVEL COMPLETO!
+Notifications,RANK UP UPDATED!,4e57ff83c2,SUBIR DE NÍVEL ATUALIZADO!
+Notifications,Record Store Photo,5f490e4f4d,Foto da Loja de Discos
+Notifications,Relaxation!,e3c771ad72,Relaxamento!
+Notifications,Rest Area Photo,9b395608e6,Foto do Posto de Parada
+Notifications,Rest Area Photo With Quaver,d243b2df48,Foto do Posto de Parada com a Quaver
+Notifications,Rice that has been taught who the boss is.,2d11eda515,Arroz que aprendeu quem manda.
+Notifications,Rice with a mystery inside!,2ba55655e8,Arroz com um mistério dentro!
+Notifications,Sally's Bar Menu,ea9aefb047,Cardápio do Bar da Sally
+Notifications,Seaside Photo,8ac4a35dd2,Foto da Praia
+Notifications,Semiotics!,85c1eaa89e,Semiótica!
+Notifications,Sewer Access Codes,332193ab1b,Códigos de Acesso do Esgoto
+Notifications,Shack Photo,5d8c71f5b6,Foto do Barraco
+Notifications,Shack Photo With Quaver,5ecf40ed95,Foto do Barraco com a Quaver
+Notifications,She never will!,045bfcba88,Ela nunca vai!
+Notifications,She won't!,d675b1a53e,Ela não vai!
+Notifications,She's forgetting all of the stuff she wanted to say!,4ba035c109,Ela está esquecendo tudo que queria dizer!
+Notifications,Skeletons!,b6047e0430,Esqueletos!
+Notifications,Social situation avoided!,00a205cd5e,Interação social evitada!
+Notifications,Sorry! I told you!,7c4890f8b6,Desculpa! Eu avisei!
+Notifications,Stadium Photo,05cb4d629e,Foto do Estádio
+Notifications,Stadium Photo With Quaver,61177e4bb5,Foto do Estádio com a Quaver
+Notifications,Store Photo With Quaver,7c6079d25a,Foto da Loja com a Quaver
+Notifications,THE FLOOR IS ASPHALT ACCEPTED!,5c534ba599,O CHÃO É ASFALTO ACEITO!
+Notifications,THE FLOOR IS ASPHALT COMPLETE!,dd74a359c2,O CHÃO É ASFALTO COMPLETO!
+Notifications,Tape Runner,ce14462719,Tape Runner
+Notifications,Technically this counts as labor!,0162e6961b,Tecnicamente isso conta como trabalho!
+Notifications,"Technically, this is jewelry.",e69316ed4d,"Tecnicamente, isso é joia."
+Notifications,The simplest sandwich.,71bc223cd9,O sanduíche mais simples.
+Notifications,They stopped listening already!,cf9109503f,Já pararam de ouvir!
+Notifications,This is as good as it gets.,6947de037b,"Melhor que isso, impossível."
+Notifications,This looks...Unsettlingly Realistic.,75f114f655,Isso parece...Perturbadoramente Realista.
+Notifications,This. Isn't anything?,dce45e03c3,Isso. Não é nada?
+Notifications,Train Photo,ce8849087c,Foto do Trem
+Notifications,Train Photo With Quaver,f643b7f1e5,Foto do Trem com a Quaver
+Notifications,Trauma!,f6e3ec707d,Trauma!
+Notifications,Trill Keycard,0ddd45547d,Cartão de Acesso do Trill
+Notifications,Understandable!,758bdfc27d,Compreensível!
+Notifications,Vacuum,6cd4b7d03b,Aspirador
+Notifications,Very Risk-Averse!,6352d9ed01,Bem Avessa a Riscos!
+Notifications,WHERE THE HELL IS EVERYONE ANYWAY?,a93878b405,"ONDE DIABOS ESTÁ TODO MUNDO, AFINAL?"
+Notifications,Waterfront Photo,bdf9d517de,Foto da Orla
+Notifications,Whack.,d758578537,Vacilo.
+Notifications,What.,c489f8202a,Quê.
+Notifications,Where were you aiming?,06147c88fb,Você tava mirando onde?
+Notifications,Which is ironic because then 'contraband' could also mean 'against band!',c48a8d1721,"O que é irônico, porque então 'contrabando' também poderia querer dizer 'contra a banda!'"
+Notifications,"Why's it called a crowbar, anyway?",a7b8f61e52,"Por que chamam de pé de cabra, afinal?"
+Notifications,Wristband,31dd098dcf,Pulseira
+Notifications,YUM.,9353b22a93,DELÍCIA.
+Notifications,Yes. Bricks are heavy.,882c5cd875,Sim. Tijolo é pesado.
+Notifications,Yes. You. Can.,d585a1cc5d,Sim. Você. Pode.
+Notifications,You helped the bartender not lose their mind!,20d0e067ee,Você ajudou o bartender a não perder a cabeça!
+Notifications,You sure did post that er!,ef1b675c4f,Você com certeza pôs ter isso aí!
+Notifications,You were arrested!,d8370d8ddb,Você foi presa!
+Notifications,You're gonna want to hold your breath.,ee8692c49f,É melhor prender a respiração.
+Notifications,You're never drinking again!,252556b01d,Você nunca mais vai beber!
+Notifications,Zeta Zeta.,de904bf8e6,Zeta Zeta.
+Notifications,[P]roof of something.,a2e443b3c6,[P]rova de alguma coisa.
+Options,AudioDevice,bcacdf042a,Dispositivo de Saída
+Options,AudioOffset,783e849394,Offset de Tempo
+Options,BackgroundDimming,853e93993e,Escurecer Fundo
+Options,BeatmapScrollspeed,43f3313d59,Velocidade de Rolagem
+Options,BgBarsMode,c558f415c9,Barras Pretas no Fundo
+Options,BgMute,7c162d128c,Silenciar fora de foco
+Options,BrawlNoteSpeed,851db38bdf,Velocidade das Notas de Briga
+Options,BufferSize,cea95e483e,"Latência de Áudio<line-height=70%>
+<size=80%>(requer reinício)"
+Options,CameraSwapMode,4a5f03cfbd,Troca de Lado da Câmera
+Options,CameraSwapMode/AUTOMATIC,008f6cdd0c,AUTOMÁTICO
+Options,CameraSwapMode/IMMEDIATE,e35884a244,IMEDIATO
+Options,CameraSwapMode/ZOOM OUT,8409125fdf,AFASTAR
+Options,ClearEnemyDebris,83196ac631,Limpar Destroços Inimigos
+Options,ColorCodedJudgment,2969f32486,Avaliações por Cor
+Options,ColorblindBaseball,f53da02dbe,Cores Alt. do Beisebol
+Options,CombatSFXStyle,6463b4fa35,Estilo de SFX de Combate
+Options,CombatSFXStyle/DREAM,ae07e433a0,SONHO
+Options,CombatSFXStyle/PUNCHY,56e439b67a,PUNCHY
+Options,CombatSFXStyle/SILENT,7e92d833d7,SILENCIOSO
+Options,CombatSFXStyle/TAMBOURINE,2493d3b300,PANDEIRO
+Options,DezoomSlowedNotes,af48cfa75a,Notas Mais Lentas com Zoom Afastado
+Options,Dialogue Size,0f5ad8a929,Tamanho do Diálogo
+Options,DodgeNoteColor,cfa1acf775,Cor: Esquiva
+Options,DoubleNoteColor,feff2e87a5,Cor: Duplas
+Options,Framerate,bcf96acd64,Taxa de Quadros
+Options,Framerate/120 FPS,1c1cbabde2,120 FPS
+Options,Framerate/144 FPS,9d1f822ab2,144 FPS
+Options,Framerate/240 FPS,69363f889c,240 FPS
+Options,Framerate/30 FPS,0459a92b73,30 FPS
+Options,Framerate/60 FPS,6a7321ae92,60 FPS
+Options,Framerate/Monitor,086247a9b5,Automático
+Options,Framerate/NO CAP,4861a553d3,SEM LIMITE
+Options,Fullscreen,0829ea6734,Tela Cheia
+Options,Fullscreen/BORDERLESS,f744a3ac16,SEM BORDA
+Options,Fullscreen/EXCLUSIVE,f45c3a0bb3,EXCLUSIVA
+Options,Fullscreen/WINDOWED,daa43822b2,JANELA
+Options,GamepadLayout,a6cc8ccf82,Layout do Controle
+Options,GamepadLayout/Layout1,b16bdcf314,ALTO: BOTÕES FRONTAIS    BAIXO: D-PAD
+Options,GamepadLayout/Layout2,8ddb33a66d,"ALTO: GATILHOS, BUMPERS   BAIXO: D-PAD, BOTÕES FRONTAIS"
+Options,GamepadLayout/Layout3,8929ab2971,"ALTO: Y, D-PAD CIMA    BAIXO: A, D-PAD BAIXO"
+Options,GamepadLayout/Layout4,f67ffd17d1,"ALTO: GATILHO ESQ., D-PAD   BAIXO: GATILHO DIR., BOTÕES FRONTAIS"
+Options,GamepadLayout/Layout5,06562502cf,"ALTO: X, Y, D-PAD CIMA   BAIXO: A, B, D-PAD BAIXO"
+Options,Graphics,d334dfcea5,Gráficos
+Options,Graphics/High,655d20c1ca,Alto
+Options,Graphics/Low,28d0edd045,Baixo
+Options,Graphics/Medium,87f8a6ab85,Médio
+Options,Graphics/Ultra,7057376a41,Ultra
+Options,Graphics/Very Low,a96d2b69ef,Muito Baixo
+Options,HighCompatibilityVideo,23f1356dfb,Compatibilidade de Vídeo
+Options,JudgmentDisplayStyle,e8e52cedb5,Estilo de Avaliação
+Options,JudgmentDisplayStyle/DETAILED,4042fcadbe,Detalhado
+Options,JudgmentDisplayStyle/NONE,6adf97f83a,Nenhum
+Options,JudgmentDisplayStyle/SIMPLE,1fbb1e3943,Simples
+Options,Keybinds/Titles/Down,c4e0e4e311,BAIXO
+Options,Keybinds/Titles/HighHit,caf2cfa414,GOLPE ALTO
+Options,Keybinds/Titles/Interact,683db365a0,INTERAGIR
+Options,Keybinds/Titles/Journal,3dbae2c6b0,DIÁRIO
+Options,Keybinds/Titles/Jump,40222410c7,PULAR
+Options,Keybinds/Titles/Left,684d325a73,ESQUERDA
+Options,Keybinds/Titles/LowHit,51af7ce3c9,GOLPE BAIXO
+Options,Keybinds/Titles/Right,21507b40c8,DIREITA
+Options,Keybinds/Titles/SetToDefault,8a63605b24,RESTAURAR PADRÃO
+Options,Keybinds/Titles/TabLeft,5ec756ff68,ABA ESQ.
+Options,Keybinds/Titles/TabRight,50ddd737c9,ABA DIR.
+Options,Keybinds/Titles/Up,fbaedde498,CIMA
+Options,KeyboardLayout,fc9a0c9925,Layout do Teclado
+Options,KeyboardLayout/CUSTOM,72baef0409,PERSONALIZADO
+Options,KeyboardLayout/Layout1,22fcd91bcc,"ALTO: E, D, I, K    BAIXO: F, J"
+Options,KeyboardLayout/Layout2,6792693e48,"ALTO: J, K, I    BAIXO: E, D, F"
+Options,KeyboardLayout/Layout3,0e045f959b,"ALTO: A, '    BAIXO: S, ;"
+Options,KeyboardLayout/Layout4,39a31661e4,"ALTO: E, D, F    BAIXO: J, K, I"
+Options,KeyboardLayout/Layout5,6a5291f516,"ALTO: CIMA, W    BAIXO: BAIXO, S"
+Options,LanguageOption,4994a8ffeb,Idioma
+Options,MashNoteColor,c0862bef1e,Cor: Meio
+Options,MasterVolume,490e36931d,Volume Geral
+Options,MeasureBarsMode,912ce2d3d0,Barras de Compasso
+Options,MenuPalette,316676b9b0,Paleta do Menu
+Options,MusicVolume,39ffbe8657,Volume da Música
+Options,NormalNoteColor,d183ac5f4c,Cor: Normais
+Options,PostProcessing,5ed7151aa2,Pós-Processamento
+Options,ReduceCamMotion,6be044702d,Reduzir Movimento da Câmera
+Options,Resolution,b5a4b64b2a,Resolução
+Options,ReticleMode,cf00f27f2c,Modo da Mira
+Options,RumbleMode,cea9661bca,Vibração
+Options,RumbleMode/ALWAYS ON,df046d07ce,SEMPRE LIGADO
+Options,RumbleMode/AUTO,e1f2d5134e,AUTO
+Options,RumbleMode/OFF,88559a0cfd,DESL.
+Options,SFXVolume,80a6e08123,Volume dos Efeitos
+Options,StrobingReduction,31422626b0,Reduzir Flashes
+Options,Subtitles,6a73085e38,Legendas
+Options,UseASIO,05d700b10d,Saída ASIO
+Options,VhsFilter,18906a25d9,Filtro VHS
+Options,VideoOffset,2267b297b3,Offset do Chart
+Options,VoiceVolume,a3d758605c,Volume das Vozes
+Options,Vsync,41e20f49b7,Vsync
+Speakers,...,2f43b42fd8,...
+Speakers,???,0d1b08c348,???
+Speakers,Affable Tourist,9d05006935,Turista Simpático
+Speakers,Also A Cop,711db703a3,Também Policial
+Speakers,Angry Driver,435baa045c,Motorista Irritado
+Speakers,Angry Gamer,3d11ed5c3a,Gamer Irritado
+Speakers,Annoying Cop,d6848c4a40,Policial Chato
+Speakers,Anxious Mother,cf48615b2d,Mãe Ansiosa
+Speakers,Arcade Guy,2b8bc502e7,Cara do Fliperama
+Speakers,Bartender,072e281b43,Bartender
+Speakers,Bassist,bbe727c0bb,Baixista
+Speakers,Batting Kids,001a2ce402,Crianças do Beisebol
+Speakers,Beat (Hoodie),976bfaa9ee,Beat (Moletom)
+Speakers,Beat's mom,754eecd4bc,Mãe da Beat
+Speakers,Beat?,27c8fc269f,Beat?
+Speakers,Big Cleaner,c022c1fa58,Faxineiro Grandão
+Speakers,Brianna,6ea979b791,Mana
+Speakers,Bully,275370ef32,Valentão
+Speakers,Car Dude,6ef726020d,Cara do Carro
+Speakers,Casual Gamer,f72b73ff0e,Gamer Casual
+Speakers,Chef,8fd82b8864,Chef
+Speakers,Chic Girl,e6959da015,Garota Chique
+Speakers,Chief,ba23ed4791,Chefe
+Speakers,Chill,f889b9f4a9,De Boa
+Speakers,Chisps Man,c4a97c6f87,Homem das Batatinhas
+Speakers,Clef,4fb26ab174,Clef
+Speakers,Clerk,715102f7c5,Atendente
+Speakers,Clerk?,70fa1a10e9,Atendente?
+Speakers,Computer,181900dad9,Computador
+Speakers,Concerned,2719760f4e,Preocupação
+Speakers,Construction Security,4bfe786fd4,Segurança da Obra
+Speakers,Cop,f56bbf14cd,Policial
+Speakers,Cop 2,1f870a1014,Policial 2
+Speakers,Cop Barricade,ada189b9ad,Barricada Policial
+Speakers,Couldn't Be,20f64c017e,Não Pode Ser
+Speakers,Counselor,9b785f2005,Orientador
+Speakers,Crowd,ecac6fe5e9,Multidão
+Speakers,Crying Gamer,9fbbfacb2c,Gamer Chorando
+Speakers,Customer,ce26601dac,Cliente
+Speakers,Cutie,96e2dad087,Fofura
+Speakers,DC,cf75e54791,DC
+Speakers,Definitely A Cop,becf29fed1,Com Certeza Policial
+Speakers,Demon Girl,05710a567d,Garota Demônio
+Speakers,Discerning Maid,0395efe306,Empregada Exigente
+Speakers,Driver,48cf24486d,Motorista
+Speakers,Drummer,7e2f8e59b1,Baterista
+Speakers,Dude,c6034f2753,Cara
+Speakers,Employee,f8c8b903cb,Funcionário
+Speakers,Excitable Tourist,25bb2d18d1,Turista Empolgado
+Speakers,Fan,add0180387,Fã
+Speakers,Gate Guard,0259b606eb,Guarda do Portão
+Speakers,Girl,635c6c282d,Garota
+Speakers,Glizzy Guy,33c24c04c9,Cara do Cachorro-Quente
+Speakers,Guard,57cc9b210b,Guarda
+Speakers,Guard Tower,20995cc258,Torre de Guarda
+Speakers,Guitarist,4e5d31d692,Guitarrista
+Speakers,Guy,e0ad20e398,Cara
+Speakers,Hardcore Gamer,17b683bbbe,Gamer Hardcore
+Speakers,Hat Dude,9951cfb4e2,Cara do Chapéu
+Speakers,Head Maid,87637b4aa6,Governanta
+Speakers,Host,c2ca16d048,Apresentador
+Speakers,Ice... Cream?,88dbdfb92c,Sor... vete?
+Speakers,IceCream Kid,5ffba68a52,Criança do Sorvete
+Speakers,Interviewer,1b778c7486,Entrevistador
+Speakers,Janitor,efc4e6cf59,Zelador
+Speakers,Jumprope Girl,bd35f7dcb2,Garota da Corda
+Speakers,Junior Janitor,7c5567e365,Zelador Júnior
+Speakers,Junior Stagehand,197319d797,Contrarregra Júnior
+Speakers,Kid,eead4a0e1c,Criança
+Speakers,Kid 1,14dfd35f50,Criança 1
+Speakers,Kid 2,8085d04b5c,Criança 2
+Speakers,Kid1,a0f1222c44,Criança 1
+Speakers,Kid2,6f256d60fc,Criança 2
+Speakers,Lava Kids,b1f9380d9a,Crianças da Lava
+Speakers,Manager,ae94be3cd5,Gerente
+Speakers,Mom,c988fa7c33,Mãe
+Speakers,Muffled Voice,af6d054ed7,Voz Abafada
+Speakers,Muscle Guy,b6508c15ef,Bombado
+Speakers,Neighbor,8dcaa9830e,Vizinho
+Speakers,Neighbor 1,8543f0c908,Vizinho 1
+Speakers,Neighbor 2,c480bbaa41,Vizinho 2
+Speakers,Neighbor 4,fa4cf5a8de,Vizinho 4
+Speakers,Neighbor 5,3242e5b54d,Vizinho 5
+Speakers,News Anchor,cba64e7e62,Âncora do Jornal
+Speakers,OMF Fan,f72caa034f,Fã da OMF
+Speakers,Old Ass Cop,d4d25a62cf,Policial Velho Pra Caralho
+Speakers,Past Clef,e8613df43c,Clef do Passado
+Speakers,Past Treble,a4c16a51e0,Treble do Passado
+Speakers,Penny?,903c6cd7c5,Penny?
+Speakers,Phone,bcc254b55c,Telefone
+Speakers,"Play ""Brickout""",ace6f92f94,"Jogar ""Brickout"""
+Speakers,"Play ""Rong""",9d0e083c9c,"Jogar ""Rong"""
+Speakers,Play Brickout,311f2bbf71,Jogar Brickout
+Speakers,Play Prisonball,fb3cf1f7d8,Jogar Prisonball
+Speakers,Play Rong,2d05788436,Jogar Rong
+Speakers,Player,636da1d35e,Jogador
+Speakers,Prisoner,0862a78e35,Prisioneiro
+Speakers,Protester,2a6e7540f6,Manifestante
+Speakers,Quaver,953e23c04b,Quaver
+Speakers,Quaver (1),a5f231f29a,Quaver (1)
+Speakers,Reporter,bd1dc11f8c,Repórter
+Speakers,Schoolgirl,72f276fcd7,Colegial
+Speakers,Scoopy,e228174fd9,Scoopy
+Speakers,Seems Nice,b58177ca0a,Parece Legal
+Speakers,Senior Stagehand,3ca17422da,Contrarregra Sênior
+Speakers,Sforzando,d05a04970f,Sforzando
+Speakers,Shady Man,46116fbae8,Sujeito Suspeito
+Speakers,Shithead,8289cad184,Merdinha
+Speakers,Shopkeeper,c5e04823df,Lojista
+Speakers,Sister,19cda37369,Irmã
+Speakers,Sketchy Dude,11f2df2f15,Cara Esquisito
+Speakers,Smelly,1bb7d2de23,Fedido
+Speakers,Sneaky Quaver,139276bbcc,Quaver Sorrateira
+Speakers,Some Bitch,fcc95f47f8,Uma Vaca Qualquer
+Speakers,Some guy,e90487f978,Um cara
+Speakers,Someone,aaec8f7cde,Alguém
+Speakers,Sparkly Cleaner,90198ed943,Faxineira Brilhante
+Speakers,Star,26f93e6e68,Estrela
+Speakers,Straightforward,0ecb7adb34,Direto ao Ponto
+Speakers,Studious Maid,eb97a17851,Empregada Estudiosa
+Speakers,Stylish Girl,8e32d47cfd,Garota Estilosa
+Speakers,Sweetheart Couple,eec4c1524b,Casal Apaixonado
+Speakers,Tall? Guy?,86b42e2581,Cara? Alto?
+Speakers,Tax Evader,01cae52e6b,Sonegador
+Speakers,Teacher,8ab7bbdf01,Professor
+Speakers,Technician,f08343fd09,Técnico
+Speakers,That One Girl,718e1edc22,Aquela Garota
+Speakers,The Mirror,4446d1f4aa,O Espelho
+Speakers,This Bozo,6c4164e541,Esse Palhaço
+Speakers,Tired Bartender,9a430056f9,Bartender no Bagaço
+Speakers,Treble,56694ab2f8,Treble
+Speakers,Upset Man,8976d91d8a,Homem Chateado
+Speakers,Vacuum,6cd4b7d03b,Aspirador
+Speakers,Vacuum?,7a526feaed,Aspirador?
+Speakers,Vocalist,19da02d5f9,Vocalista
+Speakers,Voice,d7a3fdf135,Voz
+Speakers,Voicemail,eeda26fd01,Caixa Postal
+Speakers,Waitress,282e95e27e,Garçonete
+Speakers,Was it Grandma?,08014bfd6a,Era a Vó?
+Speakers,WhacktownClerk,ef01a22f01,Atendente da Tacolândia
+Speakers,Whoever It Was,30fede5679,Seja Lá Quem Foi
+Speakers,Wired Bartender,7d468e87b1,Bartender a Mil
+Speakers,Worker,62efb9ec33,Trabalhador
+Speakers,coworker,1b7106bda5,colega
+Speakers,guitar center guy,0d752a590a,cara da loja de guitarra
+Speakers,lava kid,4bede687f6,criança da lava
+Speakers,tuff kid,45c78c4f68,criança braba
+Speakers,vendor,7c3613dba5,vendedor
+Subtitles,"""transition",74e29e58d2,"""transição"
+Subtitles,'But it never took shape. It just chased itself around until-',298e508fee,Mas aquilo nunca tomou forma. Só ficou correndo atrás do próprio rabo até-'
+Subtitles,'Table rooftop table balcony top of on top of hideout upstairs table',60faaad573,Mesa telhado mesa sacada em cima de em cima do esconderijo andar de cima mesa'
+Subtitles,All of it and none of it.,f14a6a1956,Tudo e nada.
+Subtitles,At least not without adding more dialogue.,73cdb6bc2c,Pelo menos não sem acrescentar mais diálogo.
+Subtitles,Beat didn't say anything.,9b10af715c,A Beat não disse nada.
+Subtitles,Beat genuinely does not know anything about religion.,687c7aa004,A Beat genuinamente não sabe nada sobre religião.
+Subtitles,Beat has no interest in the green juice.,b2f4b9bd5b,A Beat não tem interesse nenhum no suco verde.
+Subtitles,Beat is twenty years old.,18ac9e4c41,A Beat tem vinte anos.
+Subtitles,"Beat is very, very, very bad at this.",cfe420dc2a,"A Beat é muito, muito, muito ruim nisso."
+Subtitles,Beat just had a bad interaction with a customer.,96c07da76f,A Beat acabou de ter uma interação ruim com um cliente.
+Subtitles,Beat's image of a senator is functionally identical to her image of a Hollywood executive.,6a1a3ba5d9,A imagem que a Beat tem de um senador é funcionalmente idêntica à imagem que ela tem de um executivo de Hollywood.
+Subtitles,But that's not how Penny talks.,cefecd8a15,Mas não é assim que a Penny fala.
+Subtitles,But you need to know that it's not just 'this doesn't smell good.' It's more complicated than that.,4305399476,Mas você precisa saber que não é só 'isso não tem cheiro bom.' É mais complicado que isso.
+Subtitles,"Cop draws a gun and then a big ass silence shows up, so it's time to fight",f4516b8c59,"O policial saca uma arma e aí aparece um Silêncio do caralho, então é hora de lutar"
+Subtitles,"I get it, to an extent. There's no way to actually make this line work and give you ALL the meaning behind it.",c8bbd792d6,"Eu entendo, até certo ponto. Não tem como fazer essa fala funcionar e passar TODO o significado por trás dela."
+Subtitles,"In fact, it's closer to 'this smells good in a bad way.'",38d09d9383,"Na verdade, é mais perto de 'isso tem um cheiro bom de um jeito ruim.'"
+Subtitles,It is.,08b37f61e4,É.
+Subtitles,It's also the only idea.,fa088cce36,Também é a única ideia.
+Subtitles,Match the timing exactly to dodge.,cbdf513efc,Acerte o tempo exato para desviar.
+Subtitles,Maybe a better way to write the line would be something like 'If I stand here for too long I'll never want ramen again.',4743845f15,Talvez um jeito melhor de escrever a fala seria algo como 'Se eu ficar aqui muito tempo nunca mais vou querer lámen.'
+Subtitles,Note: Fighting Game Interactable Press R To Close,59837ccbea,Nota: Interagível de Jogo de Luta Aperte R Para Fechar
+Subtitles,Note: It's already clean.,b93b8f5baa,Nota: Já está limpo.
+Subtitles,Note: No.,77ab80586b,Nota: Não.
+Subtitles,Note: Yes.,7acb069414,Nota: Sim.
+Subtitles,Note: band posters are surprisingly effective at screwing with fascists.,d874b8e202,Nota: pôster de banda é surpreendentemente eficaz pra encher o saco de fascista.
+Subtitles,Note: keikaku means plan.,374df14c38,Nota: keikaku significa plano.
+Subtitles,Note: you still have shit to do. Come back later.,8509def615,Nota: você ainda tem merda pra fazer. Volta depois.
+Subtitles,"Okay so like Quaver starts playing a song and a cop shows up, drawn by the sweet sound of her axe",e204e29785,"Tá, então tipo, a Quaver começa a tocar uma música e aparece um policial, atraído pelo doce som do machado dela"
+Subtitles,Quaver plugs into the amp.,c9dd0d3ddb,A Quaver pluga no amplificador.
+Subtitles,She has nothing to say about it.,ac7e3e0fb6,Ela não tem nada a dizer sobre isso.
+Subtitles,She is expressing that it's the 'worst kind of smell.' One where there's an appetizing good food smell INSIDE the bad smell.,994253ad4b,Ela está expressando que é o 'pior tipo de cheiro.' Aquele em que tem um cheiro gostoso de comida DENTRO do cheiro ruim.
+Subtitles,She just stood there and zoned out.,e375170d4c,"Ela só ficou ali parada, viajando."
+Subtitles,TL Note: Beat does not have a husband.,2f85cd582f,N.T.: A Beat não tem marido.
+Subtitles,TL Note: Beat isn't very good at banter.,c7b92a4206,N.T.: A Beat não é muito boa de papo.
+Subtitles,TN Note: ...or if overdriven-the electricity running through them can produce humming tones.,78c594aa93,"N.T.: ...ou, se sobrecarregadas, a eletricidade passando por elas pode produzir zumbidos."
+Subtitles,"TN Note: A clearer way to say that might be 'If it wasn't designed correctly, it would kill us.'",a1a9672ca6,"N.T.: Um jeito mais claro de dizer isso seria 'Se não tivesse sido projetado direito, ia matar a gente.'"
+Subtitles,TN Note: Again. All caps or no caps.,1dd6a941a5,N.T.: De novo. Tudo maiúsculo ou tudo minúsculo.
+Subtitles,TN Note: Again. Do not write it this way.,f11caa39e2,N.T.: De novo. Não escreva assim.
+Subtitles,TN Note: As in 'contrabass.',fb57347939,N.T.: Como em 'contrabaixo.'
+Subtitles,TN Note: Beat is smart enough to know this. So she's probably just distracted.,fa0c645482,N.T.: A Beat é esperta o bastante pra saber isso. Então ela provavelmente só está distraída.
+Subtitles,TN Note: But if she doesn't promise herself the possibility she knows she won't pull away.,c0412bc54c,"N.T.: Mas se ela não prometer a si mesma a possibilidade, ela sabe que não vai se afastar."
+Subtitles,TN Note: Fine. I don't care anymore. That's her. That's Unbeatable.,4b89504222,N.T.: Tá. Não ligo mais. Essa é ela. Isso é Unbeatable.
+Subtitles,TN Note: Her specific words chosen show she knows that isn't true.,51356b30f8,N.T.: As palavras específicas que ela escolheu mostram que ela sabe que não é verdade.
+Subtitles,TN Note: I fully disagree with this line choice.,2f171f90d3,N.T.: Discordo totalmente dessa escolha de fala.
+Subtitles,TN Note: I wonder how regulated smaller lightbulbs are. Nobody really talks about it.,3a765f7b33,N.T.: Fico pensando em quão regulamentadas são as lâmpadas menores. Ninguém fala muito disso.
+Subtitles,TN Note: In addition-they can be used percussively...,e028971f7c,"N.T.: Além disso, elas podem ser usadas como percussão..."
+Subtitles,"TN Note: In the case of 'material' and 'materiel', it's a bit muddier.",9d3069c19f,"N.T.: No caso de 'material' e 'materiel', é um pouco mais confuso."
+Subtitles,TN Note: Incorrect casing.,67ca7956aa,N.T.: Maiúsculas incorretas.
+Subtitles,TN Note: It can also mean in terms of music-'one octave down.',5ca07c6440,"N.T.: Em termos musicais, também pode querer dizer 'uma oitava abaixo.'"
+Subtitles,TN Note: It only goes for about a half mile.,60f3d93e0f,N.T.: Só vai por mais ou menos um quilômetro.
+Subtitles,TN Note: It's written UNBEATABLE or unbeatable.,2461ec2daf,N.T.: Escreve-se UNBEATABLE ou unbeatable.
+Subtitles,"TN Note: It's written wrong, but this is the title of the game you are playing.",3bd30e015f,"N.T.: Está escrito errado, mas esse é o nome do jogo que você está jogando."
+Subtitles,TN Note: Not how it should be written.,63ea107047,N.T.: Não é assim que se escreve.
+Subtitles,TN Note: Not to be confused with an auditory hallucination.,5ffe58540f,N.T.: Não confundir com alucinação auditiva.
+Subtitles,TN Note: Okay technically some ARE being followed.,25e51da2db,"N.T.: Tá, tecnicamente algumas ESTÃO sendo seguidas."
+Subtitles,"TN Note: Ordnance, however ,is absolutely NOT a type of ordinance.",81cd8fd019,"N.T.: Material bélico, porém, NÃO é de jeito nenhum um tipo de material regulamentar."
+Subtitles,TN Note: Sometimes a wave appears to exist where it doesn't.,233446141b,N.T.: Às vezes uma onda parece existir onde não existe.
+Subtitles,TN Note: Technically it should only be written in all caps or no caps.,694d70430e,N.T.: Tecnicamente só deveria ser escrito todo em maiúsculas ou todo em minúsculas.
+Subtitles,"TN Note: Technically, she's not exactly right. false",aeebc04b4d,"N.T.: Tecnicamente, ela não está exatamente certa. false"
+Subtitles,TN Note: There are several. Like most shaped glass-lightbulbs produce a resonant sound when struck.,8cc2a2f000,"N.T.: Tem vários. Como a maioria dos vidros moldados, lâmpadas produzem um som ressonante quando batidas."
+Subtitles,TN Note: There's a missing section in the script here.,94480f31c2,N.T.: Falta um trecho do roteiro aqui.
+Subtitles,TN Note: Theres a missing section in the script here.,0ee441161a,N.T.: Falta um trecho do roteiro aqui.
+Subtitles,TN Note: This is becuase 'materiel' can arguably be defined as a kind of material.,57194c4cbf,"N.T.: Isso é porque 'materiel' pode, discutivelmente, ser definido como um tipo de material."
+Subtitles,TN Note: This is the only other part for this scene that's in the files.,e140d7d5b6,N.T.: Essa é a única outra parte dessa cena que está nos arquivos.
+Subtitles,TN Note: This is the only other part for this scene thats in the files.,d49671b729,N.T.: Essa é a única outra parte dessa cena que está nos arquivos.
+Subtitles,"TN Note: Though, I guess you could have an ordnance ordinance.",8f190120d3,"N.T.: Se bem que, acho, dá pra ter um regulamento de material bélico."
+Subtitles,TN Note: What Clef says here is untranslatable.,52561ba096,N.T.: O que a Clef diz aqui é intraduzível.
+Subtitles,TN Note: Which is an illusion about frequencies.,35034bf8ba,N.T.: Que é uma ilusão sobre frequências.
+Subtitles,TN Note:Or perhaps 'a band that plays an octave below.',b373e5cd7c,N.T.: Ou talvez 'uma banda que toca uma oitava abaixo.'
+Subtitles,The answer is legal reasons.,0544fd242f,A resposta é: questões legais.
+Subtitles,The bad smell ruins the good smell trapped inside of it.,16b769db95,O cheiro ruim estraga o cheiro bom preso dentro dele.
+Subtitles,The hamster wheel turns a click.,5ef9683202,A rodinha do hamster dá um clique.
+Subtitles,There was a tiny nugget of a thought in her brain...,058c0f20ea,Tinha uma pepitinha de pensamento no cérebro dela...
+Subtitles,They're too scared to move!,59cf94472b,Eles estão com medo demais pra se mexer!
+Subtitles,Thinking about the food in other people's houses really isn't a thing she usually does.,8a1f1bd890,Pensar na comida da casa dos outros não é bem uma coisa que ela costuma fazer.
+Subtitles,This is despite someone in her family (she can't remember who) trying to take her to a church (she can't remember what kind) as a child.,c6fee0ba70,Isso apesar de alguém da família dela (ela não lembra quem) ter tentado levar ela numa igreja (ela não lembra de qual tipo) quando era criança.
+Subtitles,This is going as well as the other voices inside her expected.,076493c55e,Isso está indo tão bem quanto as outras vozes dentro dela esperavam.
+Subtitles,Yes. He just liked how it sounded.,11074f1ab8,Sim. Ele só gostou de como soava.
+Subtitles,You need to get out of the way.,c7cb46e42a,Você precisa sair do caminho.
+Subtitles,[The dying gasps of they who will never be.],20e407f65e,[Os últimos suspiros daqueles que nunca serão.]
+Subtitles,and see me.,db0ab4bf31,e me vejam.
+Subtitles,and wonder,49e72958ae,e se perguntem
+Subtitles,dreams in a world without sleep,33900582a6,sonhos num mundo sem sono
+Subtitles,i dream of another,53aa33c161,eu sonho com outro
+Subtitles,if they dream of a world without sleep,1f7fe97110,se eles sonham com um mundo sem sono
+Subtitles,in a world without sleep,3ac7ea91d7,num mundo sem sono
+Triggers,...,2f43b42fd8,...
+Triggers,...?,a45f016329,...?
+Triggers,...Something Heavy?,b7ec655cb1,...Algo Pesado?
+Triggers,"...What Were You Doing, Again?",ae25b4e5b0,...O Que Você Tava Fazendo Mesmo?
+Triggers,..?,fdfb5bc312,"..?
+"
+Triggers,..?,7642aa132d,..?
+Triggers,"..?
+",fdfb5bc312,"..?
+"
+Triggers,???,0d1b08c348,???
+Triggers,A Glimmering Light,d13447329a,Uma Luz Cintilante
+Triggers,A Photograph?,7294fc6c2b,Uma Fotografia?
+Triggers,Abandoned Building,bdc331b9da,Prédio Abandonado
+Triggers,Abandoned Shack,04b7f0a357,Barraco Abandonado
+Triggers,Ads,1aa2e2ff69,Anúncios
+Triggers,Angry Crowd,bcdff15aba,Multidão Irritada
+Triggers,Angry Driver,435baa045c,Motorista Irritado
+Triggers,Annoying Cop,d6848c4a40,Policial Chato
+Triggers,Another Poster,93afe4f710,Outro Pôster
+Triggers,Anxious Mother,cf48615b2d,Mãe Ansiosa
+Triggers,Arcade Machine,1cac119f95,Fliperama
+Triggers,Arcade Manager,10adfb8034,Gerente do Fliperama
+Triggers,Art?,9736f0c915,Arte?
+Triggers,Ask About Weird Cop Counting,627cfb609d,Perguntar Sobre a Contagem Estranha de Policiais
+Triggers,Assembly Line,8e5751c396,Linha de Montagem
+Triggers,Attacca,6067cd901f,Attacca
+Triggers,BERNIE,eab7da5bca,BERNIE
+Triggers,BOBA,66036a736d,BOBA
+Triggers,BUCKET,f86b537c56,BALDE
+Triggers,Back To Street,f75976b872,Voltar Pra Rua
+Triggers,Back To The Waterfront,2e77829faa,Voltar Pra Orla
+Triggers,Bandname Stickers,57c4024093,Adesivos com Nome de Banda
+Triggers,Banners,a54f98b0e2,Faixas
+Triggers,Barbed Wire,389d0adfb7,Arame Farpado
+Triggers,Bartender,072e281b43,Bartender
+Triggers,"Beat, Stop Looking At The Ad. Sincerely, Other Parts Of Your Brain.",de337437fe,"Beat, Pare De Olhar Pro Anúncio. Atenciosamente, Outras Partes Do Seu Cérebro."
+Triggers,Bed,d19c65bc26,Cama
+Triggers,Bed...?,8cccb13ecc,Cama...?
+Triggers,Bedtime.,79bac81dcd,Hora de dormir.
+Triggers,Big Express,eb9ae45081,Big Express
+Triggers,Big Knob?,86760eb634,Botão Grande?
+Triggers,Billiards,9102198393,Sinuca
+Triggers,Blackbook,5ff0ff5a44,Blackbook
+Triggers,Books Books,1bcbd86c6a,Livros Livros
+Triggers,Bookshelf,97e56caede,Estante
+Triggers,Breach.,b3cc1d73bd,Brecha.
+Triggers,Break In,b3bbcb4647,Arrombar
+Triggers,Break It!!!,93b349725a,Quebra Isso!!!
+Triggers,Break That Lock!,54e0d9b8d9,Quebra Esse Cadeado!
+Triggers,Bulletin Board.,48708b319f,Mural de Avisos.
+Triggers,Bully,275370ef32,Valentão
+Triggers,Button?,046679e6ee,Botão?
+Triggers,Buy Snack,d3413e5224,Comprar Lanche
+Triggers,Car,e9989db5da,Carro
+Triggers,Car Dude,6ef726020d,Cara do Carro
+Triggers,Chair Ad,a00ea2ed6e,Anúncio da Cadeira
+Triggers,Chalkboard,3b2c753569,Lousa
+Triggers,Chief,ba23ed4791,Chefe
+Triggers,Clean Up The Couch,0763f2cacc,Limpar o Sofá
+Triggers,Clean Up The Floor,8103e17bfa,Limpar o Chão
+Triggers,Clef,4fb26ab174,Clef
+Triggers,Clerk,715102f7c5,Atendente
+Triggers,Clerk.,388ffd6fad,Atendente.
+Triggers,Clerk?,70fa1a10e9,Atendente?
+Triggers,Computer,181900dad9,Computador
+Triggers,Continue Up,4329478d27,Continuar Subindo
+Triggers,Continue to the Lighthouse,74ecf68019,Seguir até o Farol
+Triggers,Contraband,45e53374b6,Contrabando
+Triggers,Cop,f56bbf14cd,Policial
+Triggers,Cop Barricade,ada189b9ad,Barricada Policial
+Triggers,Cop.,7946128a12,Policial.
+Triggers,Cops.,3b28b1ab67,Policiais.
+Triggers,Cranes,0e4e98bc3a,Guindastes
+Triggers,Creamless,42e0f3ab48,Sem Creme
+Triggers,Crest,1dc6cd5672,Crest
+Triggers,Crest...?,2230f77824,Crest...?
+Triggers,Cross The Street,65601fc41b,Atravessar a Rua
+Triggers,Customer,ce26601dac,Cliente
+Triggers,Customer.,12a2737ee3,Cliente.
+Triggers,Cutie,96e2dad087,Fofura
+Triggers,DC...,ebb31027e2,DC...
+Triggers,DONBURI,21794ef43a,DONBURI
+Triggers,Day2Start,0159bba837,Day2Start
+Triggers,Dead plant,9973dba7cd,Planta morta
+Triggers,Deadend,65e81a7bdb,Beco sem saída
+Triggers,Demon Girl,05710a567d,Garota Demônio
+Triggers,Desk,0e78b32331,Mesa
+Triggers,Desk? Cans?,1dade63323,Mesa? Latas?
+Triggers,Destroyed Box..,15ad21564d,Caixa Destruída..
+Triggers,Discerning Maid,0395efe306,Empregada Exigente
+Triggers,Disconnect Machine,94674cdf73,Desconectar Máquina
+Triggers,Distracting Chair Ad,7bd6535487,Anúncio de Cadeira que Distrai
+Triggers,Do A Crime.,f00afc44d2,Cometer Um Crime.
+Triggers,Do Your Job?,0d51d37c1e,Fazer Seu Trabalho?
+Triggers,Do your job?,932a7c3b7b,Fazer seu trabalho?
+Triggers,Door,f44e14d49c,Porta
+Triggers,Downed Vending Machine,2411555abc,Máquina de Venda Tombada
+Triggers,Driver,48cf24486d,Motorista
+Triggers,Edge of the station,9888384ebd,Beira da estação
+Triggers,Elevator,963695ded6,Elevador
+Triggers,Elevator Controls,250b07d97d,Controles do Elevador
+Triggers,Employee.,215c1db4ef,Funcionário.
+Triggers,Empty Food Court,b67f2196dd,Praça de Alimentação Vazia
+Triggers,Empty Vending Machine,c3dc9f2132,Máquina de Venda Vazia
+Triggers,Enter The Arcade,1aef11a2c4,Entrar no Fliperama
+Triggers,Enter The Bar,01d4a5af1b,Entrar no Bar
+Triggers,Enter The Cafe,4074c6e569,Entrar no Café
+Triggers,Enter The Ramen Bar,8b9f4bc2a7,Entrar no Bar de Lámen
+Triggers,Enter The Restaurant,3fd0785014,Entrar no Restaurante
+Triggers,Enter The School,17d03075f2,Entrar na Escola
+Triggers,Enter The Store,5568b49c0c,Entrar na Loja
+Triggers,Enter The Studio,232c092622,Entrar no Estúdio
+Triggers,Espresso Machine,95718db8fe,Máquina de Espresso
+Triggers,Evidence Room Door,56f43b068a,Porta da Sala de Evidências
+Triggers,Examine,fcdf85fd37,Examinar
+Triggers,Experience Whacktown,39056b60cc,Viver a Tacolândia
+Triggers,Experience Whacktown..?,62abc5972e,Viver a Tacolândia..?
+Triggers,FRUIT,8b63448fe8,FRUTA
+Triggers,Fan,add0180387,Fã
+Triggers,Fighting Arcade Game,d956c43ce1,Fliperama de Luta
+Triggers,Flight Cases,d3511d1cd3,Cases de Equipamento
+Triggers,Food Stall,1113b38190,Barraca de Comida
+Triggers,Fridge,5b9ccf3999,Geladeira
+Triggers,Front Door,98a7cc473f,Porta da Frente
+Triggers,Front Doors.,0b04cadb99,Portas da Frente.
+Triggers,Funny Lil' Tag,1b1c0699a3,Pichaçãozinha Engraçada
+Triggers,GRILLE,be86645713,GRELHA
+Triggers,Gachapon,32bdff80d8,Gachapon
+Triggers,Gachapon.,e96e7b8aaa,Gachapon.
+Triggers,Garbage,8c97626c3b,Lixo
+Triggers,Gate Guard,0259b606eb,Guarda do Portão
+Triggers,Gate.,caae06bbff,Portão.
+Triggers,Generator,92a8f0b9d2,Gerador
+Triggers,Generic Soda,0f13c8c6ce,Refrigerante Genérico
+Triggers,Generic Soda,0f13c8c6ce,Refrigerante Genérico
+Triggers,Generic Soda,0f13c8c6ce,Refrigerante Genérico
+Triggers,Generic Soda ,d8cf36c5de,Refrigerante Genérico
+Triggers,Get to Work.,247d688b18,Ao Trabalho.
+Triggers,Girl,635c6c282d,Garota
+Triggers,Go Back Into Town,c2fc78b523,Voltar pra Cidade
+Triggers,Go Back To Town,9498b6efee,Voltar pra Cidade
+Triggers,Go Down The Road,4d00716840,Descer a Estrada
+Triggers,Go Down The Street,f801addb72,Descer a Rua
+Triggers,Go Inside,48c7d1acc7,Entrar
+Triggers,Go Inside The Store,ae3791ff79,Entrar na Loja
+Triggers,Go On Stage,f8b09d1d1c,Subir no Palco
+Triggers,Go Outside,74811388c2,Sair
+Triggers,Go Outside!,b1768981c5,Ir Lá Fora!
+Triggers,Go To Arcade?,f60030e6ae,Ir ao Fliperama?
+Triggers,Go To Bar,fd07ff8de9,Ir ao Bar
+Triggers,Go To Bar Minigame,bd9d8de8d1,Ir ao Minigame do Bar
+Triggers,Go To Cafeteria,982ac204d5,Ir ao Refeitório
+Triggers,Go To Factory,6c8888e770,Ir à Fábrica
+Triggers,Go To Hallway,cd1456c8a9,Ir ao Corredor
+Triggers,Go To Prison Yard,d81e0765d1,Ir ao Pátio da Prisão
+Triggers,Go To School?,a55856d398,Ir à Escola?
+Triggers,Go To Sewer,51678d1150,Ir ao Esgoto
+Triggers,Go To Street,87c80d191f,Ir pra Rua
+Triggers,Go To The City Center,9958af47d1,Ir ao Centro da Cidade
+Triggers,Go To The City Street,a2bec05fd3,Ir pra Rua da Cidade
+Triggers,Go To The Hideout,7c96c6dbb4,Ir ao Esconderijo
+Triggers,Go To The Lighthouse,af2a18a8b1,Ir ao Farol
+Triggers,Go To The School,c01dab4121,Ir à Escola
+Triggers,Go To The Town Square,9e572a5602,Ir à Praça Central
+Triggers,Go To The Train Station,7685d5ed02,Ir à Estação de Trem
+Triggers,Go To The Waterfront,ec45f1a5fa,Ir à Orla
+Triggers,Go To Underpass,c7c3b76682,Ir à Passagem Subterrânea
+Triggers,Go To Yard,724b92b192,Ir ao Pátio
+Triggers,Go Upstairs,2b176db509,Subir
+Triggers,GoToBusAndBridge,5f8eabae05,GoToBusAndBridge
+Triggers,Good dog,dff3705035,Cachorro bonzinho
+Triggers,Great dog,34fdfa867d,Cachorro ótimo
+Triggers,Green Juice,1cc9f3c76d,Suco Verde
+Triggers,Guard,57cc9b210b,Guarda
+Triggers,Guard...?,f037ed89e6,Guarda...?
+Triggers,Guitarist,4e5d31d692,Guitarrista
+Triggers,HARM Car?,2b520d9611,Carro da DANO?
+Triggers,HARM Tower.,7f2b9054d4,Torre DANO.
+Triggers,HOTDOG,92734a07d4,CACHORRO-QUENTE
+Triggers,Hangout Spot.,bfcbd2bffa,Ponto de Encontro.
+Triggers,Harm Alert Ads,5cb451c875,Anúncios de Alerta da DANO
+Triggers,Head Back Down,3f1377a5b9,Descer de Volta
+Triggers,Head Inside,e2a67b9d05,Ir pra Dentro
+Triggers,Head Maid,87637b4aa6,Governanta
+Triggers,Head Out,baa163f334,Sair
+Triggers,Head Outside,c460fba9be,Ir Lá Fora
+Triggers,Her.,2c0cf896b0,Ela.
+Triggers,Hideout.,32101974c2,Esconderijo.
+Triggers,Huge Kitchen,013a2dcb12,Cozinha Enorme
+Triggers,"Huh. Can't Remember. Cool Ad, Though.",000989a474,Hã. Não Lembro. Mas o Anúncio É Maneiro.
+Triggers,ICE CREAM,7a7a16b328,SORVETE
+Triggers,INSPECT,ee827ef878,INSPECIONAR
+Triggers,Ice... Cream?,88dbdfb92c,Sor... vete?
+Triggers,IceCream Kid,5ffba68a52,Criança do Sorvete
+Triggers,Iced Cream,8266b08bcb,Sorvete Gelado
+Triggers,Inmates.,bf5531066e,Detentos.
+Triggers,Inspect,35a9dbe6b7,Inspecionar
+Triggers,Interrogation 1,aa21a83067,Interrogatório 1
+Triggers,Interrogation 2,b1411c9544,Interrogatório 2
+Triggers,Interrogation 3,837d3e12b1,Interrogatório 3
+Triggers,Interrogation 4,4cc4d42c00,Interrogatório 4
+Triggers,Into The Sewer,dc850969a4,Entrar no Esgoto
+Triggers,It's Whacktime,17cd5f363e,É Hora da Tacada
+Triggers,It's Whacktime?,b72ea97f31,É Hora da Tacada?
+Triggers,Janitor,efc4e6cf59,Zelador
+Triggers,Jumprope Girl,bd35f7dcb2,Garota da Corda
+Triggers,Jumprope Mom,9d9520b8c7,Mãe da Corda
+Triggers,Keycard Scanner,284ecb4f5e,Leitor de Cartão
+Triggers,Kid,eead4a0e1c,Criança
+Triggers,Kiosk,6ac94fed85,Quiosque
+Triggers,Knocking,fd218cc077,Batendo
+Triggers,LOOK IT'S QUAVER!!!,fcc772f116,"OLHA, É A QUAVER!!!"
+Triggers,Ladder.,f9350d7402,Escada.
+Triggers,Leave,a52945dbe2,Sair
+Triggers,Legally Distinct Dance Game,3a326ff81c,Jogo de Dança Legalmente Distinto
+Triggers,Let's get out of here,d604d7865a,Vamos sair daqui
+Triggers,Lets get out of here,4ca5626d62,Vamos sair daqui
+Triggers,Lift Manhole Cover,92caf55566,Levantar Tampa do Bueiro
+Triggers,Light Fixture,0398d5a7bd,Luminária
+Triggers,Lighthouse,bcb3798d31,Farol
+Triggers,Little guy,a9f734b171,Carinha
+Triggers,Loading Bay,b7d57a99a6,Doca de Carga
+Triggers,Locked Door,88958f1786,Porta Trancada
+Triggers,Locked Gate,94e6b6c411,Portão Trancado
+Triggers,Look,4f2fac7b92,Olhar
+Triggers,Look Around,f21b827557,Olhar em Volta
+Triggers,Look Closely,2729af9e2b,Olhar com Atenção
+Triggers,Look Closer,8d3847e0ee,Olhar Mais de Perto
+Triggers,Look In The Fridge,3fa5324599,Olhar na Geladeira
+Triggers,Look at Apartments,7b694e1719,Olhar os Apartamentos
+Triggers,Look at the Bar,784a36f255,Olhar o Bar
+Triggers,Look at the Rest Area,2a3442b1d7,Olhar o Posto de Parada
+Triggers,Look at the Sea,b314d5d46d,Olhar o Mar
+Triggers,MOSHIBURGER,6725f73f7c,MOSHIBURGER
+Triggers,Magazines.,e774fcc821,Revistas.
+Triggers,Manager,ae94be3cd5,Gerente
+Triggers,Manhole Cover,684baa35da,Tampa de Bueiro
+Triggers,Maybe Stop Looking At The Sexy Girl Chair Ad.,fab1dc7943,Talvez Pare De Olhar Pro Anúncio de Cadeira Com a Garota Sexy.
+Triggers,Merch,521c3635a8,Merch
+Triggers,Mirror,2403def508,Espelho
+Triggers,Moldy sink,de0260d89c,Pia mofada
+Triggers,Muffled Voice,af6d054ed7,Voz Abafada
+Triggers,My stuff!,6d9a78f535,Minhas coisas!
+Triggers,NOODLES,b1785197c7,MACARRÃO
+Triggers,Neighbor,8dcaa9830e,Vizinho
+Triggers,Neighbor 1,8543f0c908,Vizinho 1
+Triggers,Neighbor 2,c480bbaa41,Vizinho 2
+Triggers,Neighbor 4,fa4cf5a8de,Vizinho 4
+Triggers,Neighbor 5,3242e5b54d,Vizinho 5
+Triggers,Neon Sign,056d80163c,Letreiro de Neon
+Triggers,Nervous Group,cf3c417758,Grupo Nervoso
+Triggers,Nervous cop,08c0c576a1,Policial nervoso
+Triggers,Nice View?,21ba16e380,Vista Bonita?
+Triggers,Nice-smelling Bread,ea826e99ff,Pão Cheiroso
+Triggers,Night,0edc9b0733,Noite
+Triggers,Notes?,a4aafbb02e,Bilhetes?
+Triggers,Obscured Window,e044c03df6,Janela Coberta
+Triggers,Observation Tower,032e34a7a0,Torre de Observação
+Triggers,Old Ass Cop,d4d25a62cf,Policial Velho Pra Caralho
+Triggers,Ominous Sculpture,ce9831c349,Escultura Sinistra
+Triggers,Onigiri,c252e7a68b,Onigiri
+Triggers,Open Window,c7dca77f7e,Janela Aberta
+Triggers,Opener,ec693b2430,Abridor
+Triggers,Overgrown Mess,cd6804b63d,Bagunça Coberta de Mato
+Triggers,Overlook,0edb7a4fb7,Mirante
+Triggers,PIZZA,9b36630be7,PIZZA
+Triggers,Pack Up,4ec60358a6,Arrumar as Coisas
+Triggers,Paintings,497409b3cc,Quadros
+Triggers,Pamphlets,d9639064dc,Panfletos
+Triggers,Paper And Markers,4e4c125683,Papel e Canetinhas
+Triggers,Pedestrian Sign,3fdbcf603d,Placa de Pedestre
+Triggers,Penny's Bed,3da42ac222,Cama da Penny
+Triggers,Penny's Desk,e2e830b0da,Mesa da Penny
+Triggers,Penny's Window,6a43dc5090,Janela da Penny
+Triggers,People Outside Door,e048a78d5e,Gente do Lado de Fora da Porta
+Triggers,PeopleIn a Cell,fc49cffff6,Pessoas numa Cela
+Triggers,Photographs,5e764a7475,Fotografias
+Triggers,Photomatch Bar Intro,6da721c77f,Photomatch Bar Intro
+Triggers,Pick Up Spotlight,79ad8aece2,Pegar o Holofote
+Triggers,Pillow,d9c1829492,Travesseiro
+Triggers,Pipe,2ab1f3f893,Cano
+Triggers,"Play ""Brickout""",ace6f92f94,"Jogar ""Brickout"""
+Triggers,"Play ""Rong""",9d0e083c9c,"Jogar ""Rong"""
+Triggers,Play Brickout,311f2bbf71,Jogar Brickout
+Triggers,Play Game?,a59b248c7a,Jogar?
+Triggers,Play Prisonball,fb3cf1f7d8,Jogar Prisonball
+Triggers,Play Rong,2d05788436,Jogar Rong
+Triggers,Police Cars,6b12ed5a32,Viaturas
+Triggers,Pool Table,229d78e3ab,Mesa de Sinuca
+Triggers,Pool?,e64624b86f,Sinuca?
+Triggers,Poster,9157994442,Pôster
+Triggers,PosterConfirmTrigger,d791984a68,PosterConfirmTrigger
+Triggers,Posters,d695e0cd5b,Pôsteres
+Triggers,Protester,2a6e7540f6,Manifestante
+Triggers,Protester's Box,b398121c58,Caixa do Manifestante
+Triggers,Pry Open Door,a4b273755f,Forçar a Porta
+Triggers,Pumpernickel,0d1f7dd8e9,Pão Preto
+Triggers,Put Up Posters,31697f3725,Colar Pôsteres
+Triggers,Quaver,953e23c04b,Quaver
+Triggers,Quaver (1),a5f231f29a,Quaver (1)
+Triggers,Quaver.,3d1fb19cab,Quaver.
+Triggers,Quaver...?,75d49747dd,Quaver...?
+Triggers,Quaver?,4b7742eb8a,Quaver?
+Triggers,RICEBALL,2c7f462ee7,BOLINHO DE ARROZ
+Triggers,Rails,637e4afdb5,Trilhos
+Triggers,Rec Room Door,bb31ace376,Porta da Sala de Recreação
+Triggers,Rest Area,78d4d5696f,Posto de Parada
+Triggers,Return To The City,c812e03db0,Voltar pra Cidade
+Triggers,Return To The Shack,b6aaabbad5,Voltar pro Barraco
+Triggers,Rip off plank!,445c9eb219,Arrancar a tábua!
+Triggers,SUGARWHISK,d5d0ab1d38,SUGARWHISK
+Triggers,Sally's Logo,8845a0bfa7,Logo da Sally
+Triggers,Sandcastle,9f1c1c6a4e,Castelo de Areia
+Triggers,Sandwich Board,3b76628ba2,Cavalete de Anúncio
+Triggers,Scoopy,e228174fd9,Scoopy
+Triggers,Scrap Metal,f689fa3c00,Sucata
+Triggers,Sculpture,817e896c4c,Escultura
+Triggers,Security Box,a8a67c7dd2,Caixa de Segurança
+Triggers,Security Cam,b600bee3e3,Câmera de Segurança
+Triggers,Sewage,8f9243e54d,Esgoto
+Triggers,Sforzando,d05a04970f,Sforzando
+Triggers,Shady Guy,63a703e35e,Cara Suspeito
+Triggers,Shed.,c36e1afa20,Galpão.
+Triggers,Shower,8a301daf15,Chuveiro
+Triggers,Showtime,3c7499269f,Hora do Show
+Triggers,Showtime...?,50e778aa1e,Hora do Show...?
+Triggers,Sign,31c6b3fdfa,Placa
+Triggers,Sink,1eb558b5d8,Pia
+Triggers,Small Scribble,8e037d1673,Rabisquinho
+Triggers,Smelly,1bb7d2de23,Fedido
+Triggers,Snack Machines,21db89e333,Máquinas de Lanche
+Triggers,Snacktown,5b349bccc6,Lanchelândia
+Triggers,Sneaky Quaver,139276bbcc,Quaver Sorrateira
+Triggers,Some guy,e90487f978,Um cara
+Triggers,Stage,64c6da2436,Palco
+Triggers,Stage Hand,00969309d1,Contrarregra
+Triggers,Stage?,efb5e3612c,Palco?
+Triggers,Stairway,4ddfdc3dc4,Escadaria
+Triggers,Standalone Vending Machine,4c5ec4e1ae,Máquina de Venda Avulsa
+Triggers,Stash,dc222b6dc1,Esconderijo de Coisas
+Triggers,Sticker Wall,0a8b8a765c,Parede de Adesivos
+Triggers,Stinky,6d77abea4c,Fedorento
+Triggers,Storefront,f0dca7e4ea,Fachada da Loja
+Triggers,Strange Tool,73b7284732,Ferramenta Estranha
+Triggers,Street Light,5cb187efeb,Poste de Luz
+Triggers,Students,aba064f896,Alunos
+Triggers,Students.,23412879d0,Alunos.
+Triggers,Studious Maid,eb97a17851,Empregada Estudiosa
+Triggers,Sunset,d0e1dc9d06,Pôr do Sol
+Triggers,Suspicious Paper,030401025d,Papel Suspeito
+Triggers,Sweetheart Couple,eec4c1524b,Casal Apaixonado
+Triggers,TAKOYAKI,8a55e64ddc,TAKOYAKI
+Triggers,TV,271ddf829a,TV
+Triggers,Take A Seat,f94b86cb1a,Sentar
+Triggers,Take Quaver's Photo,379cbb84da,Tirar Foto da Quaver
+Triggers,Take a Photo,4ba78214a7,Tirar uma Foto
+Triggers,Talk,d7663fa423,Conversar
+Triggers,Tall? Guy?,86b42e2581,Cara? Alto?
+Triggers,Technician,f08343fd09,Técnico
+Triggers,Teddy Bear,434a2e61d6,Ursinho de Pelúcia
+Triggers,TeeVee,f05900fa88,Tevê
+Triggers,Terminal?,315f86a89d,Terminal?
+Triggers,Terminal???,9998150a08,Terminal???
+Triggers,That One Girl,718e1edc22,Aquela Garota
+Triggers,The City,c9a2e23448,A Cidade
+Triggers,The Cleaning Staff,5520ea0dbc,A Equipe de Limpeza
+Triggers,The Drummer,38d5b6eadd,O Baterista
+Triggers,The Elevator,beadbbcc42,O Elevador
+Triggers,The Guitarist,e243dc99ac,A Guitarrista
+Triggers,The Old Snares,06be70a799,As Caixas Velhas
+Triggers,The Pianist,64f1afb8f1,O Pianista
+Triggers,The Stage,b635f545a1,O Palco
+Triggers,The Vista,d85cdd150f,A Vista
+Triggers,The Vocalist,cdc128f3a8,A Vocalista
+Triggers,The old snares,3ce706a263,As caixas velhas
+Triggers,This Bozo,6c4164e541,Esse Palhaço
+Triggers,This One Has A Few Things,70db323a39,Esse Aqui Tem Umas Coisas
+Triggers,Tired,4634cc34b3,Cansada
+Triggers,Tired Bartender,9a430056f9,Bartender no Bagaço
+Triggers,Tires,3fe2c06a82,Pneus
+Triggers,To Arcade,788ad69e9f,Pro Fliperama
+Triggers,To Bar Street,d762c5767b,Pra Rua dos Bares
+Triggers,To City Street,89a36d09cb,Pra Rua da Cidade
+Triggers,To Monument,0a529bc638,Pro Monumento
+Triggers,To Restaurant Street,f07e317374,Pra Rua dos Restaurantes
+Triggers,To S&R,a75e73a86e,Pra B&R
+Triggers,To School,329ed4cfbb,Pra Escola
+Triggers,To Seating,f9d0775f5f,Pros Assentos
+Triggers,To Side Street,b2a2f5ca24,Pra Rua Lateral
+Triggers,To Stage,44cbb90163,Pro Palco
+Triggers,To Street,85179850c3,Pra Rua
+Triggers,Tourists,a5fccfce82,Turistas
+Triggers,Trash,a7e253cd8d,Lixo
+Triggers,Traumatized Kids,8df7f5cfe2,Crianças Traumatizadas
+Triggers,Treble,56694ab2f8,Treble
+Triggers,Tree,3b0c14770e,Árvore
+Triggers,Tree...?,59354cc07d,Árvore...?
+Triggers,Truck.,fee91fedc1,Caminhão.
+Triggers,Trucks,a18353dceb,Caminhões
+Triggers,Try Door,5e680739bf,Tentar a Porta
+Triggers,Tuff City Kids,d16a9e2649,Crianças Brabas da Cidade
+Triggers,Turnstiles,99a0c5461f,Catracas
+Triggers,Uh..Janitor?,5911106444,Ãh..Zelador?
+Triggers,Unlock Shed,c1066cf7ae,Destrancar o Galpão
+Triggers,Unlocked Door,bb7fd6bfbc,Porta Destrancada
+Triggers,Upset Man,8976d91d8a,Homem Chateado
+Triggers,VHS,078bf58c3b,VHS
+Triggers,Vacuum?,7a526feaed,Aspirador?
+Triggers,Vandalism,c7b38657d3,Vandalismo
+Triggers,Vending Machine,e32178f757,Máquina de Venda
+Triggers,Vending Machines,34c7ec1309,Máquinas de Venda
+Triggers,Visit Or Board,3defe36fa8,Quadro do Visite Ou
+Triggers,Visit The Neighborhood,149966e07b,Visitar o Bairro
+Triggers,Visit The Rest Area,e98ee11c26,Visitar o Posto de Parada
+Triggers,Wait.,2845c4eb2c,Espera.
+Triggers,Waitress,282e95e27e,Garçonete
+Triggers,Wall,94e8a49953,Parede
+Triggers,Wall In Need Of Posters,d6b427ac06,Parede Precisando de Pôsteres
+Triggers,"Wall of ""Evidence""",36ca0c2163,"Parede de ""Provas"""
+Triggers,Wardrobe,300a0a9cf8,Guarda-Roupa
+Triggers,Watch...,2721c2d48b,Assistir...
+Triggers,Water Ad,48522cfc08,Anúncio de Água
+Triggers,Water Bottles,741cc44e05,Garrafas de Água
+Triggers,Water?? Fall,2dc486480f,Cachoe?? ira
+Triggers,Waterfall,09c9ea004b,Cachoeira
+Triggers,We Are So Cool,8ba11d11a1,A Gente É Muito Maneira
+Triggers,Whacktown..?,ef67573eaf,Tacolândia..?
+Triggers,What Used To Be A Bench,669c81c2f2,O Que Um Dia Foi Um Banco
+Triggers,Where is he?,beeee39596,Cadê ele?
+Triggers,Who Sleeps Here?!,d60c987b7c,Quem Dorme Aqui?!
+Triggers,Windmill,35aec0852f,Moinho
+Triggers,Window,c89686a387,Janela
+Triggers,Wired Bartender,7d468e87b1,Bartender a Mil
+Triggers,Wires Guy,89b2f98d70,Cara dos Fios
+Triggers,Work.,d5bd748119,Trabalho.
+Triggers,Workshop,8e5d9dbc85,Oficina
+Triggers,Wow. You Really Like This Ad.,6a04ea02fe,Nossa. Você Gosta Mesmo Desse Anúncio.
+Triggers,Yell at Clef,94683d91e6,Gritar com a Clef
+Triggers,Yellow Wall,56e38b7776,Parede Amarela
+Triggers,Yield Sign,44d9dbc024,Placa de Dê a Preferência
+Triggers,Your... Bed?,cf58120bde,Sua... Cama?
+Triggers,Zero Monument,09de77df33,Monumento Zero
+Triggers,back door exit,ec9090c2e6,saída dos fundos
+Triggers,books and brew,cd560ef267,livros e café
+Triggers,directions,a3e7acbd88,direções
+Triggers,fungal footwear,40170720ac,calçado fúngico
+Triggers,help,657f8b8da6,ajuda
+Triggers,moPEED,51c636da25,moPEIDO
+Triggers,something's there...,697b6af655,tem alguma coisa ali...
+Triggers,this one has a few things,daecaaf71c,esse aqui tem umas coisas
+Triggers,un-zen garden,086ae5f6e8,jardim nada zen
+Triggers,void ..?,e0d19811e4,vazio ..?
+Triggers,we are so cool,b039243e28,a gente é muito maneira
+Triggers,yo,6d0007e52f,e aí
