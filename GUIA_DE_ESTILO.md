@@ -1,4 +1,17 @@
-﻿# UNBEATABLE — Guia de Estilo da Tradução PT-BR
+# UNBEATABLE — Guia de Estilo da Tradução PT-BR
+
+> [!CAUTION]
+> # ⚠️ ALERTA DE SPOILER ⚠️
+> ## ESTE GUIA ENTREGA A HISTÓRIA INTEIRA DO JOGO.
+>
+> Ele revela identidades secretas, quem é parente de quem, o que acontece com os personagens e detalhes do final. Ele foi feito para quem vai **traduzir ou revisar** o texto, não para quem vai jogar.
+>
+> **Se você ainda não zerou UNBEATABLE e só quer instalar a tradução, pare aqui e volte para o [README](README.md).**
+
+<br><br><br><br><br><br><br><br><br><br>
+
+---
+
 
 ## 1. O jogo em uma frase
 Um jogo de ritmo com aventura, ambientado num mundo onde **a música é ilegal**. Beat (20 anos) e uma banda improvisada fogem, tocam escondido e enfrentam a polícia, a **DANO** (HARM) e os **Silêncios** (as criaturas que aparecem quando alguém toca música). O texto é **indie, autoconsciente e muito engraçado**, mas também melancólico: luto, família, culpa e o medo de não ser nada.

@@ -1,2 +1,4 @@
 bin/
 *.zip
+textos_originais/
+__pycache__/

@@ -25,7 +25,7 @@ Para desinstalar, apague a pasta `BepInEx/plugins/UnbeatablePTBR`. O mod não al
 
 ## Escolhas de tradução
 
-- **HARM** virou **DANO** (*Departamento de Afinação e Normatização de Ondas*); **Whacktown** virou **Tacolândia**; **Silence** virou **Silêncio**.
+- **HARM** virou **DANO** (a sigla também foi traduzida, mas não vou estragar aqui); **Whacktown** virou **Tacolândia**; **Silence** virou **Silêncio**.
 - Palavrões não foram suavizados.
 - Avaliações: PERFEITO / ÓTIMO / QUASE / ERROU.
 - Nos folios (desafios do Arcade), trechos de letras de música (como os da Jamie Paige), memes e trocadilhos que só funcionam no original foram mantidos em inglês de propósito.
@@ -34,6 +34,17 @@ Para desinstalar, apague a pasta `BepInEx/plugins/UnbeatablePTBR`. O mod não al
 ## Para quem quer ajudar
 
 - `traducao/dialogos.csv` (`id`, `pt`) e `traducao/interface.csv` (`tabela`, `chave`, `en_md5`, `pt`) têm só o texto traduzido; o texto original do jogo não é distribuído aqui.
+- Para ver o inglês ao lado da tradução, use o **extrator**, que tira os textos da sua própria cópia do jogo:
+  ```
+  pip install UnityPy
+  python extrator/extrair_textos.py
+  ```
+  Se o jogo não estiver na pasta padrão da Steam, passe `--jogo "caminho\da\pasta\UNBEATABLE"`. Leva menos de um minuto.
+  Ele cria a pasta `textos_originais/` com:
+  - `interface.csv` e `dialogos.csv`: inglês e português lado a lado, com a coluna `situacao` (`ok`, `falta`, `mudou` quando o inglês mudou num patch, `sobrando` quando o texto saiu do jogo);
+  - `interface_en.csv` e `dialogos_en.csv`: só o texto original.
+
+  Os dois CSVs lado a lado também funcionam direto no plugin.
 - Edite a coluna `pt` (UTF-8), copie para `BepInEx/plugins/UnbeatablePTBR/traducao/` e abra o jogo.
 - Para listar textos sem tradução: em `BepInEx/config/br.traducao.unbeatable.cfg`, ligue `RegistrarFaltantes = true`; eles aparecem em `BepInEx/LogOutput.log`.
 - Compilar o plugin: `powershell -ExecutionPolicy Bypass -File build.ps1 -Install` (precisa do BepInEx já instalado no jogo).
