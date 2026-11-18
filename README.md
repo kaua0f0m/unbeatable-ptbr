@@ -7,7 +7,7 @@ Cobre todas as falas da história (17.745 linhas), menus, opções, tutoriais, d
 >
 > Até agora só foram testados no jogo **os acentos** e **o começo do capítulo 1** (o pseudo tutorial, as configurações e a calibração).
 > Por conta da natureza rebelde do jogo, que espalha texto por tudo quanto é canto e em caixas de tamanho fixo, **outras partes podem aparecer mal colocadas**: palavras grandes demais, texto estourando a borda, encavalando ou cortado.
-> Se encontrar algum caso, abra uma [issue](../../issues) com print e o lugar do jogo onde aconteceu.
+> Se encontrar algum caso, abra uma [issue](../../issues) com print e o lugar do jogo onde aconteceu. Não garanto que isso fará com que eu conserte seu bug, pois minha assinatura do Claude está acabando, mas isso pode ajudar a outros devs que quiserem fazer fork da tradução.
 
 Mod não oficial, feito por fã, sem ligação com a D-CELL GAMES ou a Playstack. Você precisa ter o jogo.
 
