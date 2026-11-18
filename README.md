@@ -29,7 +29,7 @@ Para desinstalar, apague a pasta `BepInEx/plugins/UnbeatablePTBR`. O mod não al
 - Palavrões não foram suavizados.
 - Avaliações: PERFEITO / ÓTIMO / QUASE / ERROU.
 - Nos folios (desafios do Arcade), trechos de letras de música (como os da Jamie Paige), memes e trocadilhos que só funcionam no original foram mantidos em inglês de propósito.
-- Detalhes de tom, vozes dos personagens e glossário em [`GUIA_DE_ESTILO.md`](GUIA_DE_ESTILO.md).
+- Detalhes de tom, vozes dos personagens e glossário em [`GUIA_DE_ESTILO.md`](GUIA_DE_ESTILO.md) (Aviso: contem VÁRIOS spoilers do jogo.).
 
 ## Para quem quer ajudar
 
